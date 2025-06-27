@@ -1,8 +1,8 @@
 ,Ofertas,Novedades,Sin TACC,Frutos secos,Yerba,Miel,Yuyitos,Aceite,Cereales,Suplementos,Legumbres,Harina,Semillas,Condimentos,Especias,Hierbas,Snacks,Hongos,Chocolate,Leches vegetales,Orgánico,Agroecológico
 Yerba Mate 'Las Tunas',false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
-Dátiles naturales c/carozo,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
-Levadura 'Nutrileva',false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
-Granola,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Dátiles naturales c/carozo,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Levadura 'Nutrileva',true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Granola,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
 Semillas de girasol peladas,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
 Porotos aduki,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
 Porotos negros,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
