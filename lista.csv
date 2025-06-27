@@ -1,16 +1,16 @@
-,Ofertas,Novedades,Sin TACC,Frutos secos,Yerba,Miel,Yuyitos,Aceite,Cereales,Suplementos,Legumbres,Harina,Semillas,Condimentos,Especias,Hierbas,Snacks,Hongos,Chocolate,Leches vegetales,Orgánico,Agroecológico
-Yerba Mate 'Las Tunas',false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
-Dátiles naturales c/carozo,,,,,,,,,,,,,,,,,,,,,,
-Levadura 'Nutrileva',,,,,,,,,,,,,,,,,,,,,,
-Granola,,,,,,,,,,,,,,,,,,,,,,
-Semillas de girasol peladas,,,,,,,,,,,,,,,,,,,,,,
-Porotos aduki,,,,,,,,,,,,,,,,,,,,,,
-Porotos negros,,,,,,,,,,,,,,,,,,,,,,
-Manzanilla,,,,,,,,,,,,,,,,,,,,,,
-Cedrón,,,,,,,,,,,,,,,,,,,,,,
-Semillas de chía,,,,,,,,,,,,,,,,,,,,,,
-Semillas de lino,,,,,,,,,,,,,,,,,,,,,,
-Chocolate 80% con almendras,,,,,,,,,,,,,,,,,,,,,,
-Yerba 'Maravilla',,,,,,,,,,,,,,,,,,,,,,
-Yerba 'Roapipó',,,,,,,,,,,,,,,,,,,,,,
-Yerba 'Tucanguá',,,,,,,,,,,,,,,,,,,,,,
+titulo,descripcion,precio,unidad,imagen,oferta,tags
+Yerba Mate 'Las Tunas',Agroecológica. Elaborada con palo. Sin TACC. Estacionamiento natural.,$3.600,el paquete de 1 kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/tunas.jpg,sí,yerba|agroecologico|sin TACC
+Dátiles naturales c/carozo,,2500,los 100gr,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/datiles.jpg,no,frutos secos
+Levadura 'Nutrileva',Levadura de cerveza en polvo. Libre de gluten. Sin TACC,$4.600,la caja de 200g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/nutrileva.jpg,no,suplementos|sin TACC|condimentos
+Granola,Contiene avena pasas almendras castañas de cajú copos de maíz y coco rallado,$2.100,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/granola.jpg,no,cereales|
+Semillas de girasol peladas,Sin tostar y sin sal,$1.100,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/girasol.jpg,no,semillas
+Porotos aduki,,$1.900,el kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/aduki.jpg,no,legumbres
+Porotos negros,,$1.750,el kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/poroto_negro.jpg,no,legumbres
+Manzanilla,Flores,$2.200,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/manzanilla.jpg,no,yuyitos|hierbas
+Cedrón,Hojas,$1.050,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/cedron.jpg,no,yuyitos|hierbas
+Semillas de chía,,$1.200,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/chia.jpg,no,semillas
+Semillas de lino,,$800,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/lino.jpg,sí,semillas
+Chocolate 80% con almendras,Marca 'Copani',$3.800,la barra de 63g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/choco80.jpg,no,chocolate|sin TACC
+Yerba 'Maravilla',Barbacua con fuerte aroma y sabor. Agroecológica en trancisión. Sin TACC,$2.500,el paquete de 500g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/maravilla.jpg,no,yerba|sin TACC|agroecologico
+Yerba 'Roapipó',Orgánica. Sin TACC,$7.500,el paquete de 1kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/roapipo.jpg,no,yerba|sin TACC|orgánico
+Yerba 'Tucanguá',Orgánica. Sin TACC,$7.500,el paquete de 1kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/tucangua.jpg,no,yerba|sin TACC|orgánico
