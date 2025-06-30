@@ -1,16 +1,16 @@
 titulo,descripcion,precio,unidad,imagen,oferta,tags
-Las Tunas,Yerba mate elaborada con palo. Estacionamiento natural,3600,el paquete de 1 kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/tunas.jpg,sí,novedades|sin TACC|yerba|agroecológico
-Dátiles,Naturales con carozo,2500,los 100gr,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/datiles.jpg,no,novedades|frutos secos
-Nutrileva,Levadura de cerveza en polvo,4600,la caja de 200g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/nutrileva.jpg,no,novedades|sin TACC|suplementos|condimentos
-Granola,Contiene avena pasas almendras castañas de cajú copos de maíz y coco rallado,2100,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/granola.jpg,no,novedades|frutos secos|cereales
-Semillas de girasol,Peladas sin tostar y sin sal,1100,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/girasol.jpg,no,novedades|semillas
-Porotos Aduki,,1900,el kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/aduki.jpg,no,novedades|legumbres
-Porotos negros,,1750,el kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/poroto_negro.jpg,no,novedades|legumbres
-Manzanilla,Flores,2200,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/manzanilla.jpg,no,novedades|yuyitos|hierbas
-Cedrón,Hojas,1050,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/cedron.jpg,no,novedades|yuyitos|hierbas
-Semillas de chía,,1200,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/chia.jpg,no,novedades|semillas
-Semillas de lino,,800,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/lino.jpg,sí,novedades|semillas
-Chocolate 80% con almendras,Marca 'Copani',3800,la barra de 63g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/choco80.jpg,no,novedades|sin TACC|chocolate
-Yerba Maravilla,Barbacua con fuerte aroma y sabor. Agroecológica en transición,2500,el paquete de 500g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/maravilla.jpg,sí,novedades|sin TACC|yerba|agroecológico
-Yerba Roapipó,,7500,el paquete de 1kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/roapipo.jpg,no,novedades|sin TACC|yerba|orgánico
-Yerba Tucanguá,,7500,el paquete de 1kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/tucangua.jpg,no,novedades|sin TACC|yerba|orgánico
+Dátiles,Yerba mate elaborada con palo. Estacionamiento natural,3600,el paquete de 1 kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/tunas.jpg,sí,novedades|sin TACC|yerba|agroecológico
+Nutrileva,Naturales con carozo,2500,los 100gr,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/datiles.jpg,no,novedades|frutos secos
+Granola,Levadura de cerveza en polvo,4600,la caja de 200g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/nutrileva.jpg,no,novedades|sin TACC|suplementos|condimentos
+Semillas de girasol,Contiene avena pasas almendras castañas de cajú copos de maíz y coco rallado,2100,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/granola.jpg,no,novedades|frutos secos|cereales
+Porotos Aduki,Peladas sin tostar y sin sal,1100,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/girasol.jpg,no,novedades|semillas
+Porotos negros,,1900,el kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/aduki.jpg,no,novedades|legumbres
+Manzanilla,,1750,el kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/poroto_negro.jpg,no,novedades|legumbres
+Cedrón,Flores,2200,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/manzanilla.jpg,no,novedades|yuyitos|hierbas
+Semillas de chía,Hojas,1050,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/cedron.jpg,no,novedades|yuyitos|hierbas
+Semillas de lino,,1200,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/chia.jpg,no,novedades|semillas
+Chocolate 80% con almendras,,800,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/lino.jpg,sí,novedades|semillas
+Yerba Maravilla,Marca 'Copani',3800,la barra de 63g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/choco80.jpg,no,novedades|sin TACC|chocolate
+Yerba Roapipó,Barbacua con fuerte aroma y sabor. Agroecológica en transición,2500,el paquete de 500g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/maravilla.jpg,sí,novedades|sin TACC|yerba|agroecológico
+Yerba Tucanguá,,7500,el paquete de 1kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/roapipo.jpg,no,novedades|sin TACC|yerba|orgánico
+,,7500,el paquete de 1kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/tucangua.jpg,no,novedades|sin TACC|yerba|orgánico
