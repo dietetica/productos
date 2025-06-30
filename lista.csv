@@ -1,4 +1,4 @@
-#REF!,descripcion,precio,unidad,imagen,oferta,tags
+titulo,descripcion,precio,unidad,imagen,oferta,tags
 Las Tunas,Yerba mate elaborada con palo. Estacionamiento natural,3600,el paquete de 1 kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/tunas.jpg,sí,novedades|sin TACC|yerba|agroecológico
 Dátiles,Naturales con carozo,2500,los 100gr,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/datiles.jpg,no,novedades|frutos secos
 Nutrileva,Levadura de cerveza en polvo,4600,la caja de 200g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/nutrileva.jpg,no,novedades|sin TACC|suplementos|condimentos
