@@ -1,6 +1,6 @@
 id,producto,descripcion,hay_stock,precio,unidad,imagen,es_oferta,tags
 YAMA_00,Arroz yamaní,Integral,sí,1700,el kg,,sí,cereales
-YERB_00,Las Tunas,Yerba mate elaborada con palo. Estacionamiento natural,sí,3400,el paquete de 1kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/tunas.jpg,no,sin TACC|yerba
+YERB_00,Yerba 'Las Tunas',Yerba mate elaborada con palo. Estacionamiento natural,sí,3400,el paquete de 1kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/tunas.jpg,no,sin TACC|yerba
 LEVA_00,Levadura nutricional,Levadura de cerveza en polvo marca 'Nutrileva',sí,2100,la caja de 200g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/nutrileva.jpg,no,sin TACC|suplementos|condimentos
 SALM_00,Sal marina fina 'Macrozen',,sí,0,,,no,sin TACC|condimentos
 AVEN_00,Avena instantánea 'Industrias de avena',,sí,0,,,no,cereales
