@@ -1,5 +1,6 @@
 id,producto,descripcion,hay_stock,precio,unidad,imagen,es_oferta,tags
 YAMA_00,Arroz yamaní integral,,sí,0,,,sí,cereales
+YERB_00,Yerba Las Tunas x 1kg,Yerba mate elaborada con palo. Estacionamiento natural,sí,0,el paquete de 1 kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/tunas.jpg,no,sin TACC|yerba
 ARRO_00,Arroz integral largo fino,,sí,0,,,no,cereales
 AVEN_00,Avena instantánea 'Industrias de avena',,sí,0,,,no,cereales
 AVEN_01,Avena instantánea (Sin marca),,sí,0,,,no,cereales
@@ -81,7 +82,6 @@ CHIM_00,Chimichurri,,sí,0,,,no,condimentos
 CANE_00,Canela molida,,sí,0,,,no,condimentos
 LAUR_00,Laurel en hoja,,sí,0,,,no,condimentos
 JENG_00,Jengibre en polvo,,sí,0,,,no,condimentos|te
-YERB_00,Yerba Las Tunas x 1kg,Yerba mate elaborada con palo. Estacionamiento natural,sí,0,el paquete de 1 kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/tunas.jpg,no,sin TACC|yerba
 YERB_01,Yerba 'Maravilla' Natural 1/2 kilo (barbacuá),Barbacua con fuerte aroma y sabor. Agroecológica en transición,sí,0,el paquete de 500g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/maravilla.jpg,no,yerba|agroecológico
 YERB_02,Yerba Picada Vieja x 1/2kg,,sí,0,,,no,yerba
 YERB_03,Yerba 'Roapipó' tradicional orgánica,,sí,0,el paquete de 1kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/roapipo.jpg,no,sin TACC|yerba|orgánico
