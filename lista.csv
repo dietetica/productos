@@ -1,3 +1,4 @@
+sep=;
 id;producto;descripcion;hay_stock;precio;unidad;imagen;es_oferta;tags
 YAMA_00;Arroz yamaní integral;;sí;0;;;sí;cereales
 ARRO_00;Arroz integral largo fino;;sí;0;;;no;cereales
