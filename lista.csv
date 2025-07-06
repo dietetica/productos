@@ -1,15 +1,15 @@
 id,producto,descripcion,hay_stock,precio,unidad,imagen,es_oferta,tags
 YAMA_00,Arroz yamaní integral,,sí,0,,,sí,cereales
 ARRO_00,Arroz integral largo fino,,sí,0,,,no,cereales
-AVEN_00,Avena instantánea ""Industrias de avena"",,sí,0,,,no,cereales
+AVEN_00,Avena instantánea 'Industrias de avena',,sí,0,,,no,cereales
 AVEN_01,Avena instantánea (Sin marca),,sí,0,,,no,cereales
 AVEN_02,Avena arrollada (tradicional) Campo Claro,,sí,0,,,no,cereales
 AVEN_03,Avena sin TACC,,sí,0,,,no,sin TACC|cereales
 QUIN_00,Quinoa blanca nacional,,sí,0,,,sí,cereales
 QUIN_01,Quinoa real blanca (Peru),,sí,0,,,no,cereales
-FIDE_00,Fideos ""Soyarroz"" tradicionales,,no,0,,,no,sin TACC|cereales
-FIDE_01,Fideos ""Soyarroz"" de espinaca,,sí,0,,,no,sin TACC|cereales
-FIDE_02,Fideos ""Soyarroz"" de morrón,,sí,0,,,sí,sin TACC|cereales
+FIDE_00,Fideos 'Soyarroz' tradicionales,,no,0,,,no,sin TACC|cereales
+FIDE_01,Fideos 'Soyarroz' de espinaca,,sí,0,,,no,sin TACC|cereales
+FIDE_02,Fideos 'Soyarroz' de morrón,,sí,0,,,sí,sin TACC|cereales
 FIDE_03,Fideos Soyarroz integrales,,sí,0,,,no,sin TACC|cereales
 FIDE_04,Fideos fettuccine con espinaca Campo Claro,,sí,0,,,sí,sin TACC|cereales
 FIDE_05,Fideos tallarines Campo Claro,,sí,0,,,no,sin TACC|cereales
@@ -45,7 +45,7 @@ HARI_01,Harina integral de trigo | Campo Claro | Paquete 1kg,,sí,0,,,no,harina
 HARI_02,Harina integral de centeno fraccionada,,sí,0,,,no,harina
 HARI_03,Harina integral de centeno | Campo Claro | Paquete de 1kg,,sí,0,,,no,harina
 HARI_04,Harina de garbanzos,,sí,0,,,no,harina
-HARI_05,Harina de garbanzo orgánica sin TACC ""Dicomere"",,sí,0,,,no,sin TACC|harina|orgánico
+HARI_05,Harina de garbanzo orgánica sin TACC 'Dicomere',,sí,0,,,no,sin TACC|harina|orgánico
 HARI_06,Harina para arepas Morixe,Harina de maíz blanco precocido y molido,sí,0,el paquete de 1kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/6daccb4b59d2b47dd390a5e430a923a54efbe877/img/harina_arepas.jpeg,no,harina
 HARI_07,Harina de almendras,,sí,0,,,no,harina
 HARI_08,Harina de chía,,sí,0,,,no,harina
@@ -75,25 +75,25 @@ AJOG_00,Ajo granulado,,sí,0,,,no,condimentos
 COMI_00,Comino,,sí,0,,,no,condimentos
 NUEM_00,Nuez moscada,,sí,0,,,no,condimentos
 ROME_00,Romero,,sí,0,,,no,condimentos
-TOMI_00,Tomillo ""Sumeidades"",,sí,0,,,no,condimentos
+TOMI_00,Tomillo 'Sumeidades',,sí,0,,,no,condimentos
 MERK_00,Merkén,,sí,0,,,no,condimentos
 CHIM_00,Chimichurri,,sí,0,,,no,condimentos
 CANE_00,Canela molida,,sí,0,,,no,condimentos
 LAUR_00,Laurel en hoja,,sí,0,,,no,condimentos
 JENG_00,Jengibre en polvo,,sí,0,,,no,condimentos|te
 YERB_00,Yerba Las Tunas x 1kg,Yerba mate elaborada con palo. Estacionamiento natural,sí,0,el paquete de 1 kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/tunas.jpg,no,sin TACC|yerba
-YERB_01,Yerba ""Maravilla"" Natural 1/2 kilo (barbacuá),Barbacua con fuerte aroma y sabor. Agroecológica en transición,sí,0,el paquete de 500g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/maravilla.jpg,no,yerba|agroecológico
+YERB_01,Yerba 'Maravilla' Natural 1/2 kilo (barbacuá),Barbacua con fuerte aroma y sabor. Agroecológica en transición,sí,0,el paquete de 500g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/maravilla.jpg,no,yerba|agroecológico
 YERB_02,Yerba Picada Vieja x 1/2kg,,sí,0,,,no,yerba
-YERB_03,Yerba ""Roapipó"" tradicional orgánica,,sí,0,el paquete de 1kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/roapipo.jpg,no,sin TACC|yerba|orgánico
+YERB_03,Yerba 'Roapipó' tradicional orgánica,,sí,0,el paquete de 1kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/roapipo.jpg,no,sin TACC|yerba|orgánico
 YERB_04,Yerba Familia Zaragoza Barbacuá x 1/2kg,,sí,0,,,no,yerba
 YERB_05,Yerba Ajedrez Antiácida x 500g,,sí,0,,,no,sin TACC|yerba
 YERB_06,Yerba Ajedrez premium x 500g,,sí,0,,,no,sin TACC|yerba
-YERB_07,Yerba ""Aguantadora"" tradicional x 500g,,sí,0,,,no,sin TACC|yerba
-YERB_08,Yerba ""Aguantadora"" tradicional x 1kg,,sí,0,,,no,sin TACC|yerba
+YERB_07,Yerba 'Aguantadora' tradicional x 500g,,sí,0,,,no,sin TACC|yerba
+YERB_08,Yerba 'Aguantadora' tradicional x 1kg,,sí,0,,,no,sin TACC|yerba
 YERB_09,Yerba Sinceridad Suave x 500g,,sí,0,,,no,sin TACC|yerba
 YERB_10,Yerba Sinceridad Suave x 1kg,,sí,0,,,no,sin TACC|yerba
-YERB_11,Yerba ""La Araucaria"" Antiácida,,sí,0,,,no,yerba
-YERB_12,Yerba uruguaya fuerte ""La Araucaria"" molienda fina,,sí,0,,,no,yerba
+YERB_11,Yerba 'La Araucaria' Antiácida,,sí,0,,,no,yerba
+YERB_12,Yerba uruguaya fuerte 'La Araucaria' molienda fina,,sí,0,,,no,yerba
 MANZ_00,Manzanilla suelta,Flores,sí,0,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/manzanilla.jpg,no,yuyitos|te
 MANZ_01,Manzanilla paquete de 500g,,sí,0,,,no,yuyitos|te
 MANZ_02,Manzanilla paquete de 250g,,sí,0,,,no,yuyitos|te
@@ -117,18 +117,18 @@ HIBI_00,Hibiscus,,sí,0,,,no,yuyitos|te
 LAVA_00,Lavanda,,sí,0,,,no,yuyitos|te
 VALE_00,Valeriana,,sí,0,,,no,yuyitos|te
 ANIS_00,Anis estrellado,,sí,0,,,no,yuyitos|te
-CAFE_00,Café de algarroba ""Dicomere"",,sí,0,,,no,sin TACC|te
+CAFE_00,Café de algarroba 'Dicomere',,sí,0,,,no,sin TACC|te
 STEV_00,Stevia en hojas,,sí,0,,,no,te
 MERM_00,Mermeladas,,sí,0,,,no,
 MIEL_00,Miel De Los Arrollos | Frasco de 1kg,,sí,0,,,no,miel
-MIEL_01,Miel cremosa ""La Colmena de Cristal"",,sí,0,,,no,miel
+MIEL_01,Miel cremosa 'La Colmena de Cristal',,sí,0,,,no,miel
 MIEL_02,Miel con jengibre,,sí,0,,,no,miel
 MIEL_03,Miel fraccionada,,sí,0,,,no,miel
 PAST_00,Pasta de maní,,sí,0,,,no,
 PAST_01,Pasta de castañas de cajú,,sí,0,,,no,
 AZUC_00,Azúcar mascabo,,sí,0,,,no,
 CACA_00,Cacao amargo,,sí,0,,,no,
-CACA_01,Cacao amargo ""Colonial"",,sí,0,,,no,
+CACA_01,Cacao amargo 'Colonial',,sí,0,,,no,
 HONG_00,Hongos secos Boletus,,sí,0,,,no,hongos
 HUEV_00,Huevos orgánicos maple x30 huevos,,sí,0,,,no,orgánico
 COCO_00,Coco rallado,,sí,0,,,no,
@@ -152,8 +152,8 @@ DULC_02,Dulce de batata con chocolate,,sí,0,,,no,chocolate
 ESEN_00,Esencia de vainilla,,sí,0,,,no,condimentos
 TOFU_00,Tofu,,sí,0,,,no,novedades
 TOMA_01,Tomate triturado,,sí,0,,,no,
-LECH_00,Leche de nuez pecan ""Pampa Vida"" sin azúcar,,sí,0,,,no,sin TACC|leches vegetales
-LECH_01,Leche de maní con chocolate ""Pampa Vida"",,sí,0,,,no,sin TACC|chocolate|leches vegetales
+LECH_00,Leche de nuez pecan 'Pampa Vida' sin azúcar,,sí,0,,,no,sin TACC|leches vegetales
+LECH_01,Leche de maní con chocolate 'Pampa Vida',,sí,0,,,no,sin TACC|chocolate|leches vegetales
 LECH_02,Leche de almendras protein sin azúcar,,sí,0,,,no,novedades|sin TACC|leches vegetales
 ACEI_00,Aceite de oliva El Árbol,,sí,0,,,no,aceite
 ACEI_01,Aceite de oliva La Riojana 500ml,,sí,0,,,no,aceite
