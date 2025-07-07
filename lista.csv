@@ -1,7 +1,7 @@
 id,producto,descripcion,hay_stock,precio,unidad,imagen,es_oferta,tags
 ARRO_00,Arroz yamaní,Integral,sí,1690,1kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/ARRO_00.jpg,sí,ofertas|cereales
 ARRO_01,Arroz integral largo fino,,no,1300,1kg,,no,cereales
-AVEN_00,Avena instantánea 'Industrias de avena',,sí,2220,1kg,,no,cereales
+AVEN_00,Avena instantánea 'Industrias de avena',,no,2220,1kg,,no,cereales
 AVEN_01,Avena instantánea,,sí,2060,1kg,,no,cereales
 AVEN_02,Avena arrollada (tradicional) Campo Claro,,sí,2960,1 paquete de 500g,,no,cereales
 AVEN_03,Avena sin TACC,,no,0,,,no,sin TACC|cereales
