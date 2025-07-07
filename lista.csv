@@ -5,7 +5,7 @@ AVEN_00,Avena instantánea 'Industrias de avena',,sí,0,,,no,cereales
 AVEN_01,Avena instantánea (Sin marca),,sí,0,,,no,cereales
 AVEN_02,Avena arrollada (tradicional) Campo Claro,,sí,0,,,no,cereales
 AVEN_03,Avena sin TACC,,sí,0,,,no,sin TACC|cereales
-QUIN_00,Quinoa blanca nacional,,sí,0,,,sí,cereales
+QUIN_00,Quinoa blanca nacional,,sí,0,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/QUIN_00.jpg,sí,cereales
 QUIN_01,Quinoa real blanca (Peru),,sí,0,,,no,cereales
 FIDE_00,Fideos 'Soyarroz' tradicionales,,no,0,,,no,sin TACC|cereales
 FIDE_01,Fideos 'Soyarroz' de espinaca,,sí,0,,,no,sin TACC|cereales
