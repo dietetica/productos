@@ -151,7 +151,7 @@ DULC_02,Dulce de batata con chocolate,,sí,0,,,no,chocolate
 ESEN_00,Esencia de vainilla,,sí,0,,,no,condimentos
 TOFU_00,Tofu,,sí,0,,,no,novedades
 TOMA_01,Tomate triturado,,sí,0,,,no,
-LECH_00,Leche de nuez pecan 'Pampa Vida' sin azúcar,,sí,0,,,no,sin TACC|leches vegetales
+LECH_00,Leche de nuez pecan 'Pampa Vida' sin azúcar,,sí,0,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/LECH_00.jpg,no,sin TACC|leches vegetales
 LECH_01,Leche de maní con chocolate 'Pampa Vida',,sí,0,,,no,sin TACC|chocolate|leches vegetales
 LECH_02,Leche de almendras protein sin azúcar,,sí,0,,,no,novedades|sin TACC|leches vegetales
 ACEI_00,Aceite de oliva El Árbol,,sí,0,,,no,aceite
