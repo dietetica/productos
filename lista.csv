@@ -24,7 +24,7 @@ DATI_00,Dátiles naturales,Naturales con carozo,sí,5200,,https://raw.githubuser
 MANI_00,Maní tostado sin sal,,sí,2530,,,no,frutos secos|snacks
 MANI_01,Maní tostado con sal,,sí,2690,,,no,frutos secos|snacks
 MANI_02,Mani crudo,,sí,3300,,,no,frutos secos
-MIXF_00,Mix de frutos secos con pasas,,sí,0,,,no,frutos secos|snacks
+MIXF_00,Mix de frutos secos con pasas,,no,0,,,no,frutos secos|snacks
 MIXF_01,Mix de frutos secos sin pasas,,sí,0,,,no,frutos secos|snacks
 NUEZ_00,Nuez mariposa extra light,,sí,16250,,,no,frutos secos
 NUEZ_01,Nuez pecan mariposa,,sí,25370,,,no,frutos secos
