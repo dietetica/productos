@@ -166,7 +166,7 @@ ACEI_08,Aceite de lino marrón orgánico x 250ml,,sí,0,,,no,aceite|orgánico
 ACEI_09,Aceite de nuez pecan 500ml,,sí,0,,,no,novedades|aceite
 ACEI_10,Aceite de sésamo,,sí,0,,,no,aceite
 GHEE_00,Ghee,,sí,0,,,no,novedades|aceite
-SEMI_00,Semillas de chía,,sí,0,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/chia.jpg,no,semillas
+SEMI_00,Semillas de chía,,sí,0,los 100g,id,no,semillas
 SEMI_01,Semillas de girasol,Peladas sin tostar y sin sal,sí,0,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/girasol.jpg,no,semillas
 SEMI_02,Semillas de lino marrón,,sí,0,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/lino.jpg,no,semillas
 SEMI_03,Semillas de sésamo blanco,,sí,0,,,no,semillas
