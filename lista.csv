@@ -96,13 +96,13 @@ YERB_12,Yerba uruguaya fuerte 'La Araucaria' molienda fina,,sí,4420,,,no,yerba
 MANZ_00,Manzanilla suelta,Flores,sí,29900,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/MANZ_00.jpg,no,yerba
 MANZ_01,Manzanilla paquete de 500g,,sí,14980,,,no,yuyitos|te
 MANZ_02,Manzanilla paquete de 250g,,sí,7500,,,no,yuyitos|te
-BURR_00,Burrito,,sí,0,,,no,yuyitos|te
-CEDR_00,Cedrón,Hojas,sí,0,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/CEDR_00.jpg,no,yuyitos|te
-CARQ_00,Carqueja,,sí,0,,,no,yuyitos|te
-TILO_00,Tilo,,sí,0,,,no,yuyitos|te
-TENE_00,Té negro,,sí,0,,,no,yuyitos|te
-TERO_00,Té rojo,,sí,0,,,no,yuyitos|te
-TEVE_00,Té verde,,sí,0,,,no,yuyitos|te
+BURR_00,Burrito,,no,0,,,no,yuyitos|te
+CEDR_00,Cedrón,Hojas,no,0,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/CEDR_00.jpg,no,yuyitos|te
+CARQ_00,Carqueja,,no,0,,,no,yuyitos|te
+TILO_00,Tilo,,no,0,,,no,yuyitos|te
+TENE_00,Té negro,,no,0,,,no,yuyitos|te
+TERO_00,Té rojo,,no,0,,,no,yuyitos|te
+TEVE_00,Té verde,,no,0,,,no,yuyitos|te
 BOLD_00,Boldo,,sí,14880,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/BOLD_00.jpg,no,yuyitos|te
 POLE_00,Poleo,,sí,0,,,no,yuyitos|te
 MENT_00,Menta,,sí,0,,,no,yuyitos|te
