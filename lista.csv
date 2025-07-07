@@ -80,7 +80,6 @@ CHIM_00,Chimichurri,,sí,0,,,no,condimentos
 CANE_00,Canela molida,,sí,0,,,no,condimentos
 LAUR_00,Laurel en hoja,,sí,0,,,no,condimentos
 JENG_00,Jengibre en polvo,,sí,0,,,no,condimentos|te
-YERB_00,Las Tunas,Yerba mate elaborada con palo. Estacionamiento natural,sí,3400,el paquete de 1kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/tunas.jpg,no,sin TACC|yerba
 YERB_01,Yerba 'Maravilla' Natural 1/2 kilo (barbacuá),Barbacua con fuerte aroma y sabor. Agroecológica en transición,sí,0,el paquete de 500g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/maravilla.jpg,no,yerba|agroecológico
 YERB_02,Yerba Picada Vieja x 1/2kg,,sí,0,,,no,yerba
 YERB_03,Yerba 'Roapipó' tradicional orgánica,,sí,0,el paquete de 1kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/roapipo.jpg,no,sin TACC|yerba|orgánico
