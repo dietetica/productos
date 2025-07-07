@@ -1,5 +1,4 @@
 id,producto,descripcion,hay_stock,precio,unidad,imagen,es_oferta,tags
-YERB_00,Las Tunas,Yerba mate elaborada con palo. Estacionamiento natural,sí,3400,el paquete de 1kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/tunas.jpg,no,sin TACC|yerba
 YAMA_00,Arroz yamaní,Integral,sí,1700,el kg,,sí,cereales
 AVEN_00,Avena instantánea 'Industrias de avena',,sí,0,,,no,cereales
 AVEN_01,Avena instantánea (Sin marca),,sí,0,,,no,cereales
