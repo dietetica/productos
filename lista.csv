@@ -192,5 +192,5 @@ PROT_00,Proteína vegetal,,no,0,,,no,suplementos
 LEVA_00,Levadura nutricional,Levadura de cerveza en polvo marca 'Nutrileva',sí,0,la caja de 200g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/LEVA_00.jpg,no,sin TACC|suplementos
 ESPI_00,Espirulina,,no,0,,,no,suplementos|condimentos
 MACA_00,Maca peruana orgánica Kallpa,,sí,1440,,,no,suplementos
-SUDA_00,Pasta de dientes Sudanta,,sí,0,,,no,suplementos|condimentos|orgánico
+SUDA_00,Pasta de dientes Sudanta,,sí,0,,,no,condimentos|orgánico
 BOLS_00,Bolsita para hacer leches vegetales,,sí,2860,,,no,
