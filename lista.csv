@@ -116,7 +116,7 @@ HIBI_00,Hibiscus,,sí,0,,,no,yuyitos|te
 LAVA_00,Lavanda,,sí,0,,,no,yuyitos|te
 VALE_00,Valeriana,,sí,0,,,no,yuyitos|te
 ANIS_00,Anis estrellado,,sí,0,,,no,yuyitos|te
-CAFE_00,Café de algarroba 'Dicomere',,sí,0,,,no,sin TACC|te
+CAFE_00,Café de algarroba 'Dicomere',,sí,0,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/CAFE_00.jpg,no,sin TACC|te
 STEV_00,Stevia en hojas,,sí,0,,,no,te
 MERM_00,Mermeladas,,sí,0,,,no,
 MIEL_00,Miel De Los Arrollos | Frasco de 1kg,,sí,0,,,no,miel
