@@ -3,7 +3,7 @@ ARRO_00,Arroz yamaní,Integral,sí,1690,el kg,https://raw.githubusercontent.com/
 ARRO_01,Arroz integral largo fino,,no,1300,el kg,,no,cereales
 AVEN_00,Avena instantánea 'Industrias de avena',,no,2220,el kg,,no,cereales
 AVEN_01,Avena instantánea,,sí,2060,el kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/AVEN_01.jpg,no,cereales
-AVEN_02,Avena arrollada,También conocida como avena tradicional. Marca Campo Claro,sí,2960,el paquete de 500g,,no,cereales
+AVEN_02,Avena arrollada,También conocida como avena tradicional. Marca Campo Claro,sí,2960,el paquete de 500g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/AVEN_02.jpg,no,cereales
 AVEN_03,Avena sin TACC,,no,0,,,no,sin TACC|cereales
 QUIN_00,Quinoa,,sí,4500,el kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/QUIN_00.jpg,sí,ofertas|cereales
 QUIN_01,Quinoa real blanca (Peru),,no,6650,el kg,,no,cereales
