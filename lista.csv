@@ -189,8 +189,8 @@ CANV_04,CANVAS - Algarroba; canela; pasas y girasol,,sí,1430,,,no,snacks
 GALL_00,Galletas de arroz,,no,0,,,no,snacks
 CREA_00,Creatina,,no,0,,,no,
 PROT_00,Proteína vegetal,,no,0,,,no,suplementos
-LEVA_00,Levadura nutricional,Levadura de cerveza en polvo marca 'Nutrileva',sí,0,la caja de 200g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/LEVA_00.jpg,no,suplementos
-ESPI_00,Espirulina,,no,0,,,no,sin TACC|suplementos|condimentos
+LEVA_00,Levadura nutricional,Levadura de cerveza en polvo marca 'Nutrileva',sí,0,la caja de 200g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/LEVA_00.jpg,no,sin TACC|suplementos
+ESPI_00,Espirulina,,no,0,,,no,suplementos|condimentos
 MACA_00,Maca peruana orgánica Kallpa,,sí,1440,,,no,suplementos
 SUDA_00,Pasta de dientes Sudanta,,sí,0,,,no,suplementos|condimentos|orgánico
 BOLS_00,Bolsita para hacer leches vegetales,,sí,2860,,,no,
