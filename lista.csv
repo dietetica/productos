@@ -59,7 +59,7 @@ FECU_00,Fecula de mandioca FEMAG sin TACC x1kg,,sí,0,,,no,sin TACC|harina
 SALR_00,Sal rosa del himalaya fina,,sí,0,,,no,condimentos
 SALM_01,Sal marina fina FRUTOS DE MI TIERRA,,sí,0,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/SALM_01.jpg,no,condimentos
 SALM_02,Sal marina gruesa MACROZEN,,sí,0,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/SALM_02.jpg,no,sin TACC|condimentos
-SALM_03,Sal marina gruesa FRUTOS DE MI TIERRA,,sí,0,,,no,condimentos
+SALM_03,Sal marina gruesa FRUTOS DE MI TIERRA,,sí,0,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/SALM_03.jpg,no,condimentos
 PIME_00,Pimenton ahumado,,sí,0,,,no,condimentos
 PIME_01,Pimenton dulce,,sí,0,,,no,condimentos
 CURR_00,Curry,,sí,0,,,no,condimentos
