@@ -1,6 +1,5 @@
 id,producto,descripcion,hay_stock,precio,unidad,imagen,es_oferta,tags
 YAMA_00,Arroz yamaní,Integral,sí,1700,el kg,,sí,cereales
-SALM_00,Sal marina fina 'Macrozen',,sí,0,,,no,sin TACC|condimentos
 AVEN_00,Avena instantánea 'Industrias de avena',,sí,0,,,no,cereales
 AVEN_01,Avena instantánea (Sin marca),,sí,0,,,no,cereales
 AVEN_02,Avena arrollada (tradicional) Campo Claro,,sí,0,,,no,cereales
