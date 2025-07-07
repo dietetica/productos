@@ -152,7 +152,7 @@ ESEN_00,Esencia de vainilla,,no,0,,,no,
 TOFU_00,Tofu,,no,0,,,no,novedades|condimentos
 TOMA_01,Tomate triturado,,no,0,,,no,
 LECH_00,Leche de nuez pecan sin azúcar,Marca 'Pampa Vida',sí,3820,el envase de 1 litro,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/LECH_00.jpg,no,sin TACC|leches vegetales
-LECH_01,Leche de maní con chocolate 'Pampa Vida',Marca 'Pampa Vida'
+LECH_01,Leche de maní con chocolate,Marca 'Pampa Vida'
 ,sí,3820,el envase de 1 litro,,no,sin TACC|leches vegetales
 LECH_02,Leche de almendras protein sin azúcar,Marca 'Pampa Vida',sí,5000,el envase de 1 litro,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/LECH_02.jpg,no,novedades|sin TACC|chocolate|leches vegetales
 ACEI_00,Aceite de oliva El Árbol,,sí,14080,la unidad,,no,aceite
