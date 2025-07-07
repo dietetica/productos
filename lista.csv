@@ -186,7 +186,7 @@ CANV_01,CANVAS - Oliva; chia & lino,,sí,1290,,,no,snacks
 CANV_02,CANVAS - CANVAS - Chocolate y mani,,sí,1520,,,no,snacks
 CANV_03,CANVAS - Jengibre y chia,,sí,1320,,,no,snacks|chocolate
 CANV_04,CANVAS - Algarroba; canela; pasas y girasol,,sí,1430,,,no,snacks
-GALL_00,Galletas de arroz,,sí,0,,,no,snacks
+GALL_00,Galletas de arroz,,no,0,,,no,snacks
 CREA_00,Creatina,,sí,0,,,no,
 PROT_00,Proteína vegetal,,sí,0,,,no,suplementos
 LEVA_00,Levadura nutricional,Levadura de cerveza en polvo marca 'Nutrileva',sí,0,la caja de 200g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/LEVA_00.jpg,no,suplementos
