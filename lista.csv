@@ -5,7 +5,7 @@ AVEN_00,Avena instantánea 'Industrias de avena',,no,2220,1kg,,no,cereales
 AVEN_01,Avena instantánea,,sí,2060,1kg,,no,cereales
 AVEN_02,Avena tradicional,Marca Campo Claro,sí,2960,1 paquete de 500g,,no,cereales
 AVEN_03,Avena sin TACC,,no,0,,,no,sin TACC|cereales
-QUIN_00,Quinoa blanca nacional,,sí,4500,1kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/QUIN_00.jpg,sí,ofertas|cereales
+QUIN_00,Quinoa,,sí,4500,1kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/QUIN_00.jpg,sí,ofertas|cereales
 QUIN_01,Quinoa real blanca (Peru),,sí,6650,1kg,,no,cereales
 FIDE_00,Fideos 'Soyarroz' tradicionales,,no,2660,1 paquete de 300g,,no,sin TACC|cereales
 FIDE_01,Fideos 'Soyarroz' de espinaca,,sí,2660,1 paquete de 300g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/FIDE_01.jpg,no,sin TACC|cereales
