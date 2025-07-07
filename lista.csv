@@ -62,11 +62,11 @@ SALM_02,Sal marina gruesa MACROZEN,,sí,1800,,https://raw.githubusercontent.com/
 SALM_03,Sal marina gruesa FRUTOS DE MI TIERRA,,sí,1180,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/SALM_03.jpg,no,sin TACC|condimentos
 PIME_00,Pimenton ahumado,,no,0,,,no,condimentos
 PIME_01,Pimenton dulce,,no,0,,,no,condimentos
-CURR_00,Curry,,sí,0,,,no,condimentos
-CURC_00,Cúrcuma,,sí,0,,,no,condimentos
-PROV_00,Provenzal,,sí,0,,,no,condimentos
-AJIM_00,Ají molido,,sí,0,,,no,condimentos
-PIMI_00,Pimienta negra molida,,sí,0,,,no,condimentos
+CURR_00,Curry,,no,0,,,no,condimentos
+CURC_00,Cúrcuma,,no,0,,,no,condimentos
+PROV_00,Provenzal,,no,0,,,no,condimentos
+AJIM_00,Ají molido,,no,0,,,no,condimentos
+PIMI_00,Pimienta negra molida,,no,0,,,no,condimentos
 PIMI_01,Pimienta blanca molida,,sí,47030,,,no,condimentos
 OREG_00,Orégano,,sí,10700,,,no,condimentos
 AJOP_00,Ajo en polvo,,sí,12270,,,no,condimentos
