@@ -183,8 +183,8 @@ BARR_01,Barrita de cereal protéica ÍNTEGRA - Arándanos,,sí,1400,,,no,snacks
 BARR_02,Barrita de cereal MUECAS - Cacao y avellanas,,sí,1120,,,no,snacks
 CANV_00,CANVAS - Crackers chia; girasol y lino,,sí,1240,,,no,snacks
 CANV_01,CANVAS - Oliva; chia & lino,,sí,1290,,,no,snacks
-CANV_02,CANVAS - CANVAS - Chocolate y mani,,sí,1520,,,no,snacks
-CANV_03,CANVAS - Jengibre y chia,,sí,1320,,,no,snacks|chocolate
+CANV_02,CANVAS - CANVAS - Chocolate y mani,,sí,1520,,,no,snacks|chocolate
+CANV_03,CANVAS - Jengibre y chia,,sí,1320,,,no,snacks
 CANV_04,CANVAS - Algarroba; canela; pasas y girasol,,sí,1430,,,no,snacks
 GALL_00,Galletas de arroz,,no,0,,,no,
 CREA_00,Creatina,,no,0,,,no,suplementos
