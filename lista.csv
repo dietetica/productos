@@ -121,11 +121,11 @@ STEV_00,Stevia en hojas,,no,0,,,no,sin TACC|te
 MERM_00,Mermeladas,,no,0,,,no,te
 MIEL_00,Miel De Los Arrollos | Frasco de 1kg,,sí,5070,,,no,
 MIEL_01,Miel cremosa 'La Colmena de Cristal',,sí,5460,,,no,miel
-MIEL_02,Miel con jengibre,,sí,0,,,no,miel
-MIEL_03,Miel fraccionada,,sí,0,,,no,miel
-PAST_00,Pasta de maní,,sí,0,,,no,miel
-PAST_01,Pasta de castañas de cajú,,sí,0,,,no,
-AZUC_00,Azúcar mascabo,,sí,0,,,no,
+MIEL_02,Miel con jengibre,,no,0,,,no,miel
+MIEL_03,Miel fraccionada,,no,0,,,no,miel
+PAST_00,Pasta de maní,,no,0,,,no,miel
+PAST_01,Pasta de castañas de cajú,,no,0,,,no,
+AZUC_00,Azúcar mascabo,,no,0,,,no,
 CACA_00,Cacao amargo,,sí,11390,,,no,
 CACA_01,Cacao amargo 'Colonial',,sí,28340,,,no,
 HONG_00,Hongos secos Boletus,,sí,15030,,,no,
