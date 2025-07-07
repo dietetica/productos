@@ -143,8 +143,8 @@ MANI_03,Maní con chocolate semiamargo,,sí,2290,1kg,,no,chocolate
 PASA_02,Pasa de uva con chocolate con leche,,sí,2170,1kg,,no,chocolate
 AVEL_01,Avellana con chocolate con leche,,sí,3740,1kg,,no,chocolate
 TOMA_00,Tomates secos PREMIUM,,no,0,,,no,chocolate
-POLV_00,Polvo hornear,,sí,4460,1kg,,no,condimentos
-BICA_00,Bicarbonato de sodio,,sí,2000,1kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/BICA_00.jpg,no,
+POLV_00,Polvo hornear,,sí,450,1kg,,no,condimentos
+BICA_00,Bicarbonato de sodio,,sí,200,1kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/BICA_00.jpg,no,
 DULC_00,Dulce de membrillo,,no,0,,,no,
 DULC_01,Dulce de batata,,no,0,,,no,
 DULC_02,Dulce de batata con chocolate,,no,0,,,no,chocolate
