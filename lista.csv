@@ -1,4 +1,4 @@
-Id,Producto,Descripción,Hay stock,Precio,Unidad,Imagen,Es oferta,tags
+Id,Producto,Descripción,Hay stock,Precio,Unidad,Imagen,Es oferta,Tags
 ARRO_00,Arroz yamaní,Integral,sí,1700,el kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/ARRO_00.jpg,sí,ofertas|cereales
 ARRO_01,Arroz integral largo fino,,no,0,el kg,,no,cereales
 AVEN_00,Avena instantánea 'Industrias de avena',,sí,0,,,no,cereales
