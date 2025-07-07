@@ -67,19 +67,19 @@ CURC_00,Cúrcuma,,no,0,1kg,,no,condimentos
 PROV_00,Provenzal,,no,0,1kg,,no,condimentos
 AJIM_00,Ají molido,,no,0,1kg,,no,condimentos
 PIMI_00,Pimienta negra molida,,no,0,1kg,,no,condimentos
-PIMI_01,Pimienta blanca molida,,sí,47030,1kg,,no,condimentos
-OREG_00,Orégano,,sí,10700,1kg,,no,condimentos
-AJOP_00,Ajo en polvo,,sí,12270,1kg,,no,condimentos
-AJOG_00,Ajo granulado,,sí,14160,1kg,,no,condimentos
-COMI_00,Comino,,sí,12570,1kg,,no,condimentos
-NUEM_00,Nuez moscada,,sí,37750,1kg,,no,condimentos
-ROME_00,Romero,,sí,17620,1kg,,no,condimentos
-TOMI_00,Tomillo 'Sumeidades',,sí,10700,1kg,,no,condimentos
-MERK_00,Merkén,,sí,13840,1kg,,no,condimentos
-CHIM_00,Chimichurri,,sí,14160,1kg,,no,condimentos
-CANE_00,Canela molida,,sí,28310,1kg,,no,condimentos
-LAUR_00,Laurel en hoja,,sí,20450,1kg,,no,condimentos
-JENG_00,Jengibre en polvo,,sí,23600,1kg,,no,condimentos|te
+PIMI_01,Pimienta blanca molida,,sí,4700,1kg,,no,condimentos
+OREG_00,Orégano,,sí,1070,1kg,,no,condimentos
+AJOP_00,Ajo en polvo,,sí,1230,1kg,,no,condimentos
+AJOG_00,Ajo granulado,,sí,1420,1kg,,no,condimentos
+COMI_00,Comino,,sí,1260,1kg,,no,condimentos
+NUEM_00,Nuez moscada,,sí,3780,1kg,,no,condimentos
+ROME_00,Romero,,sí,1760,1kg,,no,condimentos
+TOMI_00,Tomillo 'Sumeidades',,sí,1070,1kg,,no,condimentos
+MERK_00,Merkén,,sí,1380,1kg,,no,condimentos
+CHIM_00,Chimichurri,,sí,1420,1kg,,no,condimentos
+CANE_00,Canela molida,,sí,2830,1kg,,no,condimentos
+LAUR_00,Laurel en hoja,,sí,2040,1kg,,no,condimentos
+JENG_00,Jengibre en polvo,,sí,2360,1kg,,no,condimentos|te
 YERB_00,Las Tunas,Yerba mate elaborada con palo. Estacionamiento natural,sí,4420,1 paquete de 1kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/YERB_00.jpg,no,sin TACC|yerba
 YERB_01,Yerba 'Maravilla' Natural 1/2 kilo (barbacuá),Barbacua con fuerte aroma y sabor. Agroecológica en transición,sí,2860,1 paquete de 500g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/YERB_01.jpg,no,yerba
 YERB_02,Yerba Picada Vieja x 1/2kg,,sí,2860,1 paquete de 500g,,no,yerba|agroecológico
