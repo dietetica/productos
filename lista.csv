@@ -132,11 +132,11 @@ HONG_00,Hongos secos Boletus,,sí,15030,,,no,hongos
 HUEV_00,Huevos orgánicos maple x30 huevos,,sí,11900,,,no,
 COCO_00,Coco rallado,,sí,8860,,,no,
 SOJA_00,Soja texturizada orgánica,,no,0,,,no,orgánico
-CHOC_00,Chocolate Colonial Orgánico 60% x 100g,,sí,4790,,,no,orgánico
+CHOC_00,Chocolate Colonial Orgánico 60% x 100g,,sí,4790,,,no,sin TACC|orgánico
 CHOC_01,Chocolate Colonial Orgánico 70% x 100g,,sí,5200,,,no,sin TACC|chocolate|orgánico
 CHOC_02,Chocolate Colonial Orgánico 80% x 100g,,sí,5600,,,no,sin TACC|chocolate|orgánico
 CHOC_03,Chocolate Colonial Orgánico 60% x 16g,,sí,620,,,no,sin TACC|chocolate|orgánico
-CHOC_04,Chocolate Colonial Orgánico 70% x 16g,,sí,680,,,no,sin TACC|chocolate|orgánico
+CHOC_04,Chocolate Colonial Orgánico 70% x 16g,,sí,680,,,no,chocolate|orgánico
 CHOC_05,Chocolate Colonial Orgánico 80% x 16g,,sí,740,,,no,sin TACC|chocolate|orgánico
 CHOC_06,Chocolate Colonial 70% SIN AZUCAR c/Stevia x 100g,,sí,4090,,,no,sin TACC|chocolate|orgánico
 MANI_03,Maní con chocolate semiamargo,,sí,22940,,,no,sin TACC|chocolate
