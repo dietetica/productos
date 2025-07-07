@@ -10,7 +10,7 @@ QUIN_01,Quinoa real blanca (Peru),,sí,0,,,no,cereales
 FIDE_00,Fideos 'Soyarroz' tradicionales,,no,0,,,no,sin TACC|cereales
 FIDE_01,Fideos 'Soyarroz' de espinaca,,sí,0,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/FIDE_01.jpg,no,sin TACC|cereales
 FIDE_02,Fideos 'Soyarroz' de morrón,,sí,0,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/FIDE_02.jpg,sí,sin TACC|cereales
-FIDE_03,Fideos Soyarroz integrales,,sí,0,,,no,sin TACC|cereales
+FIDE_03,Fideos Soyarroz integrales,,sí,0,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/FIDE_03.jpg,no,sin TACC|cereales
 FIDE_04,Fideos fettuccine con espinaca Campo Claro,,sí,0,,,sí,sin TACC|cereales
 FIDE_05,Fideos tallarines Campo Claro,,sí,0,,,no,sin TACC|cereales
 FIDE_06,Fideos codito con harina de garbanzos Campo Claro,,sí,0,,,no,sin TACC|cereales
