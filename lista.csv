@@ -162,8 +162,8 @@ ACEI_04,Aceite de coco Entre Nuts NEUTRO 500ml,,sí,6800,,,no,sin TACC|aceite
 ACEI_05,Aceite de coco Entre Nuts NEUTRO 1000ml,,sí,12850,,,no,sin TACC|aceite
 ACEI_06,Aceite de coco Entre Nuts VIRGEN 500ml,,sí,11700,,,no,sin TACC|aceite
 ACEI_07,Aceite de coco Entre Nuts VIRGEN 1000ml,,sí,23960,,,no,sin TACC|aceite
-ACEI_08,Aceite de lino marrón orgánico x 250ml,,sí,6510,,,no,aceite
-ACEI_09,Aceite de nuez pecan 500ml,,sí,15600,,,no,novedades|aceite|orgánico
+ACEI_08,Aceite de lino marrón orgánico x 250ml,,sí,6510,,,no,aceite|orgánico
+ACEI_09,Aceite de nuez pecan 500ml,,sí,15600,,,no,novedades|aceite
 ACEI_10,Aceite de sésamo,,no,0,,,no,aceite
 GHEE_00,Ghee,,sí,9490,,,no,novedades|aceite
 SEMI_00,Semillas de chía,,sí,8450,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/SEMI_01.jpg,no,semillas
