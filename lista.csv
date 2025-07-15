@@ -1,196 +1,196 @@
-id,titulo,descripcion,hay_stock,precio,unidad,imagen,es_oferta,tags
-ARRO_00,Arroz yamaní,Integral,sí,1690,el kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/ARRO_00.jpg,no,cereales
-ARRO_01,Arroz integral largo fino,,no,1150,el kg,,no,cereales
-AVEN_00,Avena instantánea,Marca 'Industrias de avena',no,2220,el kg,,no,cereales
-AVEN_01,Avena instantánea,,sí,2060,el kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/AVEN_01.jpg,no,cereales
-AVEN_02,Avena arrollada,También conocida como avena tradicional. Marca Campo Claro,sí,2960,el paquete de 500g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/AVEN_02.jpg,no,cereales
-AVEN_03,Avena sin TACC,,no,0,,,no,sin TACC|cereales
-QUIN_00,Quinoa,,sí,4500,el kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/QUIN_00.jpg,sí,ofertas|cereales
-QUIN_01,Quinoa real blanca (Peru),,no,6650,el kg,,no,cereales
-FIDE_00,Fideos 'Soyarroz' tradicionales,,no,2660,el paquete de 300g,,no,sin TACC|cereales
-FIDE_01,Fideos 'Soyarroz' de espinaca,,sí,2660,el paquete de 300g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/FIDE_01.jpg,no,sin TACC|cereales
-FIDE_02,Fideos 'Soyarroz' de morrón,,sí,2660,el paquete de 300g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/FIDE_02.jpg,sí,ofertas|sin TACC|cereales
-FIDE_03,Fideos Soyarroz integrales,,sí,2660,el paquete de 300g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/FIDE_03.jpg,no,sin TACC|cereales
-FIDE_04,Fideos fettuccine con espinaca,Marca Campo Claro,sí,3510,el paquete de 500g,,sí,ofertas|sin TACC|cereales
-FIDE_05,Fideos tallarines,Marca Campo Claro,sí,3240,el paquete de 500g,,no,sin TACC|cereales
-FIDE_06,Fideos codito con harina de garbanzos,Marca Campo Claro,sí,3510,el paquete de 500g,,no,sin TACC|cereales
-MIJO_00,Mijo,,sí,2170,el kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/MIJO_00.jpg,no,cereales
-ALME_00,Almendras Non Pareil medianas,Variedad Non Pareil medianas,sí,2290,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/ALME_00.jpg,no,frutos secos
-ALME_01,Almendras guara mediana,,sí,2100,los 100g,,no,frutos secos
-AVEL_00,Avellanas,Peladas (13/15),sí,3100,los 100g,,no,frutos secos
-CAST_00,Castañas de cajú tostadas,,sí,2290,los 100g,,no,frutos secos
-CAST_01,Castañas de cajú crudas partidas,,sí,1230,los 100g,,no,frutos secos
-DATI_00,Dátiles,Naturales con carozo,sí,520,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/DATI_00.jpg,no,frutos secos
-MANI_00,Maní tostado sin sal,,sí,250,los 100g,,no,frutos secos
-MANI_01,Maní tostado con sal,,sí,270,los 100g,,no,frutos secos
-MANI_02,Maní crudo,,sí,330,los 100g,,no,frutos secos
-MIXF_00,Mix de frutos secos con pasas,,no,0,los 100g,,no,frutos secos|snacks
-MIXF_01,Mix de frutos secos sin pasas,,no,0,los 100g,,no,frutos secos|snacks
-NUEZ_00,Nuez mariposa extra light,,sí,1630,los 100g,,no,frutos secos
-NUEZ_01,Nuez pecan mariposa,,sí,2540,los 100g,,no,frutos secos
-PASA_00,Pasas de uva morachas,Variedad jumbo,sí,650,los 100g,,no,frutos secos
-PASA_01,Pasas de uva rubias,Variedad sultaninas,sí,820,los 100g,,no,frutos secos
-PERA_00,Peras,,sí,1080,los 100g,,no,frutos secos
-HIGO_00,Higos blancos,,sí,1070,los 100g,,no,frutos secos
-ARVE_00,Arveja seca partida,,sí,920,el kg,,no,legumbres
-GARB_00,Garbanzos,7mm,sí,1350,el kg,,no,legumbres
-PORO_00,Poroto Mung,,sí,1690,el kg,,no,legumbres
-PORO_01,Poroto Negro,,sí,1760,el kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/PORO_01.jpg,no,legumbres
-PORO_02,Poroto Aduki,,sí,1940,el kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/PORO_02.jpg,no,legumbres
-PORO_03,Poroto Alubia,,sí,2550,el kg,,no,legumbres
-MAIZ_00,Maíz piscingallo,,sí,110,los 100g,,no,cereales
-LENT_00,Lentejas,5mm,sí,2610,el kg,,no,legumbres
-HARI_00,Harina integral de trigo,,sí,2130,el kg,,no,harina
-HARI_01,Harina integral de trigo,Marca Campo Claro,sí,3000,1 paquete de 1kg,,no,harina
-HARI_02,Harina integral de centeno,Marca Campo Claro,sí,3000,1 paquete de 1kg,,no,harina
-HARI_03,Harina de garbanzos,,sí,1000,el kg,,no,harina
-HARI_04,Harina de garbanzo,Marca 'Dicomere'. Orgánica. Sin TACC,sí,1900,el paquete de 450g,,no,sin TACC|harina|orgánico
-HARI_05,Harina para arepas,Harina de maíz blanco precocido y molido marca Morixe,sí,2440,el kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/HARI_05.jpg,no,harina
-HARI_06,Harina de almendras,,sí,1770,los 100g,,no,harina
-SALM_00,Sal marina fina,Marca 'Macrozen',sí,1820,el paquete de 500g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/SALM_00.jpg,no,harina
-HARI_08,Harina de chía,,sí,120,los 100g,,no,harina
-HARI_09,Harina de lino,,sí,180,los 100g,,no,harina
-HARI_10,Harina de arroz blanco,,sí,150,los 100g,,no,harina
-HARI_11,Harina de arroz yamani,Integral. Marca 'Dicomere'. Sin TACC,sí,2100,el paquete de 450g,,no,sin TACC|harina
-HARI_12,Harina de arroz blanco,Sin TACC,sí,3050,1 paquete de 1kg,,no,sin TACC|harina
-HARI_13,Harina de algarroba,,no,0,,,no,harina
-MAIC_00,Maicena,Fécula de maíz | Harina de almidón de maíz,sí,2020,el kg,,no,harina
-FECU_00,Fécula de mandioca,Marca FEMAG. Sin TACC,sí,1910,el kg,,no,sin TACC|harina
-SALR_00,Sal rosa del himalaya fina,,sí,200,los 100g,,no,condimentos
-SALM_01,Sal marina fina,Marca 'Frutos de mi tierra',sí,1180,el paquete de 500g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/SALM_01.jpg,no,condimentos
-SALM_02,Sal marina gruesa,Marca 'Macrozen',sí,1800,el paquete de 500g,,no,condimentos
-SALM_03,Sal marina gruesa FRUTOS DE MI TIERRA,Marca 'Frutos de mi tierra',sí,1180,el paquete de 500g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/SALM_03.jpg,no,sin TACC|condimentos
-PIME_00,Pimenton ahumado,,no,0,los 100g,,no,condimentos
-PIME_01,Pimenton dulce,,no,0,los 100g,,no,condimentos
-CURR_00,Curry,,no,0,los 100g,,no,condimentos
-CURC_00,Cúrcuma,,no,0,los 100g,,no,condimentos
-PROV_00,Provenzal,,no,0,los 100g,,no,condimentos
-AJIM_00,Ají molido,,no,0,los 100g,,no,condimentos
-PIMI_00,Pimienta negra molida,,no,0,los 100g,,no,condimentos
-PIMI_01,Pimienta blanca molida,,sí,4700,los 100g,,no,condimentos
-OREG_00,Orégano,,sí,1070,los 100g,,no,condimentos
-AJOP_00,Ajo en polvo,,sí,1230,los 100g,,no,condimentos
-AJOG_00,Ajo granulado,,sí,1420,los 100g,,no,condimentos
-COMI_00,Comino,,sí,1260,los 100g,,no,condimentos
-NUEM_00,Nuez moscada,,sí,3780,los 100g,,no,condimentos
-ROME_00,Romero,,sí,1760,los 100g,,no,condimentos
-TOMI_00,Tomillo 'Sumeidades',,sí,1070,los 100g,,no,condimentos
-MERK_00,Merkén,,sí,1380,los 100g,,no,condimentos
-CHIM_00,Chimichurri,,sí,1420,los 100g,,no,condimentos
-CANE_00,Canela molida,,sí,2830,los 100g,,no,condimentos
-LAUR_00,Laurel en hoja,,sí,2040,los 100g,,no,condimentos
-JENG_00,Jengibre en polvo,,sí,2360,los 100g,,no,condimentos|te
-YERB_00,Yerba 'Las Tunas',Yerba mate elaborada con palo. Estacionamiento natural,sí,4420,1 paquete de 1kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/YERB_00.jpg,no,sin TACC|yerba
-YERB_01,Yerba 'Maravilla' Natural 1/2 kilo (barbacuá),Barbacua con fuerte aroma y sabor. Agroecológica en transición,sí,2860,el paquete de 500g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/YERB_01.jpg,no,yerba
-YERB_02,Yerba Picada Vieja x 1/2kg,,sí,2860,el paquete de 500g,,no,yerba|agroecológico
-YERB_03,Yerba 'Roapipó' tradicional orgánica,,sí,5020,1 paquete de 1kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/YERB_03.jpg,no,sin TACC|yerba|orgánico
-YERB_04,Yerba Familia Zaragoza Barbacuá x 1/2kg,,sí,2600,el paquete de 500g,,no,yerba
-YERB_05,Yerba Ajedrez Antiácida,,sí,1900,el paquete de 500g,,no,sin TACC|yerba
-YERB_06,Yerba Ajedrez premium,,sí,2120,el paquete de 500g,,no,sin TACC|yerba
-YERB_07,Yerba 'Aguantadora',Tradicional,sí,4290,el paquete de 500g,,no,sin TACC|yerba
-YERB_08,Yerba 'Aguantadora',Tradicional,sí,4290,1 paquete de 1kg,,no,sin TACC|yerba
-YERB_09,Yerba Sinceridad,Suave,sí,2280,el paquete de 500g,,no,sin TACC|yerba
-YERB_10,Yerba Sinceridad,Suave,sí,4290,1 paquete de 1kg,,no,sin TACC|yerba
-YERB_11,Yerba 'La Araucaria' Antiácida,,sí,3900,1 paquete de 1kg,,no,yerba
-YERB_12,Yerba 'La Araucaria',Yerba mate uruguaya. Sabor fuerte,sí,4420,1 paquete de 1kg,,no,yerba
-MANZ_00,Manzanilla suelta,Flores,sí,2990,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/MANZ_00.jpg,no,yuyitos|te
-MANZ_01,Manzanilla,,sí,14980,el paquete de 500g,,no,yuyitos|te
-MANZ_02,Manzanilla,,sí,7500,el paquete de 250g,,no,yuyitos|te
-BURR_00,Burrito,,no,0,,,no,yuyitos|te
-CEDR_00,Cedrón,Hojas,no,0,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/CEDR_00.jpg,no,yuyitos|te
-CARQ_00,Carqueja,,no,0,,,no,yuyitos|te
-TILO_00,Tilo,,no,0,,,no,yuyitos|te
-TENE_00,Té negro,,no,0,,,no,yuyitos|te
-TERO_00,Té rojo,,no,0,,,no,yuyitos|te
-TEVE_00,Té verde,,no,0,,,no,yuyitos|te
-BOLD_00,Boldo,,sí,1490,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/BOLD_00.jpg,no,yuyitos|te
-POLE_00,Poleo,,no,0,,,no,yuyitos|te
-MENT_00,Menta,,no,0,,,no,yuyitos|te
-MARC_00,Marcela,,no,0,,,no,yuyitos|te
-PEPE_00,Peperina,,no,0,,,no,yuyitos|te
-SALV_00,Salvia,,no,0,,,no,yuyitos|te
-COLA_00,Cola de caballo,,no,0,,,no,yuyitos|te
-AMBA_00,Ambay,,no,0,,,no,yuyitos|te
-LLAN_00,Llanten,,no,0,,,no,yuyitos|te
-HIBI_00,Hibiscus,,no,0,,,no,yuyitos|te
-LAVA_00,Lavanda,,no,0,,,no,yuyitos|te
-VALE_00,Valeriana,,no,0,,,no,yuyitos|te
-ANIS_00,Anis estrellado,,no,0,,,no,te
-CAFE_00,Café de algarroba 'Dicomere',,sí,4390,el paquete de 200g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/CAFE_00.jpg,no,sin TACC|te
-STEV_00,Stevia en hojas,,no,0,,,no,te
-MERM_00,Mermeladas,,no,0,,,no,
-MIEL_00,Miel De Los Arrollos | Frasco de 1kg,,sí,5070,el frasco de 1kg,,no,miel
-MIEL_01,Miel cremosa 'La Colmena de Cristal',,sí,5460,el frasco de 1kg,,no,miel
-MIEL_02,Miel con jengibre,,no,0,,,no,miel
-MIEL_03,Miel fraccionada,,no,0,,,no,miel
-PAST_00,Pasta de maní,,no,0,,,no,
-PAST_01,Pasta de castañas de cajú,,no,0,,,no,
-AZUC_00,Azúcar mascabo,,no,0,,,no,
-CACA_00,Cacao amargo,,sí,1140,los 100g,,no,
-CACA_01,Cacao amargo 'Colonial',,sí,2830,los 100g,,no,
-HONG_00,Hongos secos Boletus,,sí,1500,los 100g,,no,hongos
-HUEV_00,Huevos orgánicos maple x30 huevos,,sí,11900,la unidad,,no,
-COCO_00,Coco rallado,,sí,890,los 100g,,no,
-SOJA_00,Soja texturizada orgánica,,no,0,,,no,
-CHOC_00,Chocolate Colonial Orgánico 60%,,sí,4790,1 unidad de 100g,,no,sin TACC|orgánico
-CHOC_01,Chocolate Colonial Orgánico 70%,,sí,5200,1 unidad de 100g,,no,sin TACC|chocolate|orgánico
-CHOC_02,Chocolate Colonial Orgánico 80%,,sí,5600,1 unidad de 100g,,no,sin TACC|chocolate|orgánico
-CHOC_03,Chocolate Colonial Orgánico 60%,,sí,620,1 unidad de 16g,,no,sin TACC|chocolate|orgánico
-CHOC_04,Chocolate Colonial Orgánico 70%,,sí,680,1 unidad de 16g,,no,sin TACC|chocolate|orgánico
-CHOC_05,Chocolate Colonial Orgánico 80%,,sí,740,1 unidad de 16g,,no,sin TACC|chocolate|orgánico
-CHOC_06,Chocolate Colonial 70% sin azúcar,Con stevia,sí,4090,1 unidad de 100g,,no,sin TACC|chocolate|orgánico
-MANI_03,Maní con chocolate semiamargo,,sí,2290,los 100g,,no,chocolate
-PASA_02,Pasa de uva con chocolate con leche,,sí,2170,los 100g,,no,chocolate
-AVEL_01,Avellana con chocolate con leche,,sí,3740,los 100g,,no,chocolate
-TOMA_00,Tomates secos,,no,0,,,no,chocolate
-POLV_00,Polvo hornear,,sí,450,los 100g,,no,condimentos
-BICA_00,Bicarbonato de sodio,,sí,200,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/BICA_00.jpg,no,
-DULC_00,Dulce de membrillo,,no,0,,,no,
-DULC_01,Dulce de batata,,no,0,,,no,
-DULC_02,Dulce de batata con chocolate,,no,0,,,no,chocolate
-ESEN_00,Esencia de vainilla,,no,0,,,no,
-TOFU_00,Tofu,,no,0,,,no,novedades|condimentos
-TOMA_01,Tomate triturado,,no,0,,,no,
-LECH_00,Leche de nuez pecan sin azúcar,Marca 'Pampa Vida',sí,3820,el envase de 1 litro,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/LECH_00.jpg,no,sin TACC|leches vegetales
-LECH_01,Leche de maní con chocolate,Marca 'Pampa Vida',sí,3820,el envase de 1 litro,,no,sin TACC|leches vegetales
-LECH_02,Leche de almendras protein sin azúcar,Marca 'Pampa Vida',sí,5000,el envase de 1 litro,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/LECH_02.jpg,no,novedades|sin TACC|chocolate|leches vegetales
-ACEI_00,Aceite de oliva,Marca 'El Árbol',sí,14080,la unidad,,no,aceite
-ACEI_01,Aceite de oliva La Riojana 500ml,,sí,15070,la unidad,,no,aceite
-ACEI_02,Aceite de oliva Terranova 500ml,,sí,14030,la unidad,,no,aceite
-ACEI_03,Aceite de oliva Frutos del Norte 500ml,,sí,11530,la unidad,,no,aceite
-ACEI_04,Aceite de coco Entre Nuts NEUTRO 500ml,,sí,6800,la unidad,,no,sin TACC|aceite
-ACEI_05,Aceite de coco Entre Nuts NEUTRO 1000ml,,sí,12850,la unidad,,no,sin TACC|aceite
-ACEI_06,Aceite de coco Entre Nuts VIRGEN 500ml,,sí,11700,la unidad,,no,sin TACC|aceite
-ACEI_07,Aceite de coco Entre Nuts VIRGEN 1000ml,,sí,23960,la unidad,,no,sin TACC|aceite
-ACEI_08,Aceite de lino marrón orgánico x 250ml,,sí,6510,la unidad,,no,aceite|orgánico
-ACEI_09,Aceite de nuez pecan 500ml,,sí,15600,la unidad,,no,novedades|aceite
-ACEI_10,Aceite de sésamo,,no,0,,,no,aceite
-GHEE_00,Ghee,,sí,9490,la unidad,,no,novedades|aceite
-SEMI_00,Semillas de chía,,sí,850,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/SEMI_00.jpg,no,semillas
-SEMI_01,Semillas de girasol,Peladas sin tostar y sin sal,sí,380,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/SEMI_01.jpg,no,semillas
-SEMI_02,Semillas de lino marrón,,sí,200,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/SEMI_02.jpg,no,semillas
-SEMI_03,Semillas de sésamo blanco,,sí,680,los 100g,,no,semillas
-SEMI_04,Semillas de sésamo integral,,sí,270,los 100g,,no,semillas
-SEMI_05,Semillas de sésamo negro,,sí,840,los 100g,,no,semillas
-SEMI_06,Semillas de zapallo,,sí,1160,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/SEMI_06.jpg,no,semillas
-HONG_01,Melena de león,,sí,26000,la unidad,,no,hongos
-HONG_02,Reishi,,sí,26000,la unidad,,no,hongos
-HONG_03,Cordy,,sí,26000,la unidad,,no,hongos
-HONG_04,Shiitake,,sí,26000,la unidad,,no,hongos
-HONG_05,Cola de pavo,,sí,26000,la unidad,,no,hongos
-BARR_00,Barrita de cereal protéica ÍNTEGRA - Maní + chocolate,,sí,1590,la unidad,,no,snacks|chocolate
-BARR_01,Barrita de cereal protéica ÍNTEGRA - Arándanos,,sí,1400,la unidad,,no,snacks
-BARR_02,Barrita de cereal MUECAS - Cacao y avellanas,,sí,1120,la unidad,,no,snacks
-CANV_00,CANVAS - Crackers chia; girasol y lino,,sí,1240,la unidad,,no,snacks
-CANV_01,CANVAS - Oliva; chia & lino,,sí,1290,la unidad,,no,snacks
-CANV_02,CANVAS - CANVAS - Chocolate y mani,,sí,1520,la unidad,,no,snacks|chocolate
-CANV_03,CANVAS - Jengibre y chia,,sí,1320,la unidad,,no,snacks
-CANV_04,CANVAS - Algarroba; canela; pasas y girasol,,sí,1430,la unidad,,no,snacks
-GALL_00,Galletas de arroz,,no,0,,,no,
-CREA_00,Creatina,,no,0,,,no,suplementos
-PROT_00,Proteína vegetal,,no,0,,,no,suplementos
-LEVA_00,Levadura nutricional,Levadura de cerveza en polvo marca 'Nutrileva',sí,0,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/LEVA_00.jpg,no,sin TACC|suplementos
-ESPI_00,Espirulina,,no,0,,,no,suplementos|condimentos
-MACA_00,Maca peruana orgánica Kallpa,,sí,1440,el paquete de 500g,,no,suplementos|orgánico
-SUDA_00,Pasta de dientes Sudanta,,sí,0,,,no,condimentos
-BOLS_00,Bolsita para hacer leches vegetales,,sí,2860,la unidad,,no,
+id,,titulo,descripcion,hay_stock,precio,unidad,imagen,es_oferta,tags
+ARRO_00,,Arroz yamaní,Integral,sí,1690,el kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/ARRO_00.jpg,no,cereales
+ARRO_01,,Arroz integral largo fino,,no,1150,el kg,,no,cereales
+AVEN_00,,Avena instantánea,Marca 'Industrias de avena',no,2220,el kg,,no,cereales
+AVEN_01,,Avena instantánea,,sí,2060,el kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/AVEN_01.jpg,no,cereales
+AVEN_02,,Avena arrollada,También conocida como avena tradicional. Marca Campo Claro,sí,2960,el paquete de 500g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/AVEN_02.jpg,no,cereales
+AVEN_03,,Avena sin TACC,,no,0,,,no,sin TACC|cereales
+QUIN_00,,Quinoa,,sí,4500,el kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/QUIN_00.jpg,sí,ofertas|cereales
+QUIN_01,,Quinoa real blanca (Peru),,no,6650,el kg,,no,cereales
+FIDE_00,,Fideos 'Soyarroz' tradicionales,,no,2660,el paquete de 300g,,no,sin TACC|cereales
+FIDE_01,,Fideos 'Soyarroz' de espinaca,,sí,2660,el paquete de 300g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/FIDE_01.jpg,no,sin TACC|cereales
+FIDE_02,,Fideos 'Soyarroz' de morrón,,sí,2660,el paquete de 300g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/FIDE_02.jpg,sí,ofertas|sin TACC|cereales
+FIDE_03,,Fideos Soyarroz integrales,,sí,2660,el paquete de 300g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/FIDE_03.jpg,no,sin TACC|cereales
+FIDE_04,,Fideos fettuccine con espinaca,Marca Campo Claro,sí,3510,el paquete de 500g,,sí,ofertas|sin TACC|cereales
+FIDE_05,,Fideos tallarines,Marca Campo Claro,sí,3240,el paquete de 500g,,no,sin TACC|cereales
+FIDE_06,,Fideos codito con harina de garbanzos,Marca Campo Claro,sí,3510,el paquete de 500g,,no,sin TACC|cereales
+MIJO_00,,Mijo,,sí,2170,el kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/MIJO_00.jpg,no,cereales
+ALME_00,,Almendras Non Pareil medianas,Variedad Non Pareil medianas,sí,2290,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/ALME_00.jpg,no,frutos secos
+ALME_01,,Almendras guara mediana,,sí,2100,los 100g,,no,frutos secos
+AVEL_00,,Avellanas,Peladas (13/15),sí,3100,los 100g,,no,frutos secos
+CAST_00,,Castañas de cajú tostadas,,sí,2290,los 100g,,no,frutos secos
+CAST_01,,Castañas de cajú crudas partidas,,sí,1230,los 100g,,no,frutos secos
+DATI_00,,Dátiles,Naturales con carozo,sí,520,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/DATI_00.jpg,no,frutos secos
+MANI_00,,Maní tostado sin sal,,sí,250,los 100g,,no,frutos secos
+MANI_01,,Maní tostado con sal,,sí,270,los 100g,,no,frutos secos
+MANI_02,,Maní crudo,,sí,330,los 100g,,no,frutos secos
+MIXF_00,,Mix de frutos secos con pasas,,no,0,los 100g,,no,frutos secos|snacks
+MIXF_01,,Mix de frutos secos sin pasas,,no,0,los 100g,,no,frutos secos|snacks
+NUEZ_00,,Nuez mariposa extra light,,sí,1630,los 100g,,no,frutos secos
+NUEZ_01,,Nuez pecan mariposa,,sí,2540,los 100g,,no,frutos secos
+PASA_00,,Pasas de uva morachas,Variedad jumbo,sí,650,los 100g,,no,frutos secos
+PASA_01,,Pasas de uva rubias,Variedad sultaninas,sí,820,los 100g,,no,frutos secos
+PERA_00,,Peras,,sí,1080,los 100g,,no,frutos secos
+HIGO_00,,Higos blancos,,sí,1070,los 100g,,no,frutos secos
+ARVE_00,,Arveja seca partida,,sí,920,el kg,,no,legumbres
+GARB_00,,Garbanzos,7mm,sí,1350,el kg,,no,legumbres
+PORO_00,,Poroto Mung,,sí,1690,el kg,,no,legumbres
+PORO_01,,Poroto Negro,,sí,1760,el kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/PORO_01.jpg,no,legumbres
+PORO_02,,Poroto Aduki,,sí,1940,el kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/PORO_02.jpg,no,legumbres
+PORO_03,,Poroto Alubia,,sí,2550,el kg,,no,legumbres
+MAIZ_00,,Maíz piscingallo,,sí,110,los 100g,,no,cereales
+LENT_00,,Lentejas,5mm,sí,2610,el kg,,no,legumbres
+HARI_00,,Harina integral de trigo,,sí,2130,el kg,,no,harina
+HARI_01,,Harina integral de trigo,Marca Campo Claro,sí,3000,1 paquete de 1kg,,no,harina
+HARI_02,,Harina integral de centeno,Marca Campo Claro,sí,3000,1 paquete de 1kg,,no,harina
+HARI_03,,Harina de garbanzos,,sí,1000,el kg,,no,harina
+HARI_04,,Harina de garbanzo,Marca 'Dicomere'. Orgánica. Sin TACC,sí,1900,el paquete de 450g,,no,sin TACC|harina|orgánico
+HARI_05,,Harina para arepas,Harina de maíz blanco precocido y molido marca Morixe,sí,2440,el kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/HARI_05.jpg,no,harina
+HARI_06,,Harina de almendras,,sí,1770,los 100g,,no,harina
+SALM_00,,Sal marina fina,Marca 'Macrozen',sí,1820,el paquete de 500g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/SALM_00.jpg,no,harina
+HARI_08,,Harina de chía,,sí,120,los 100g,,no,harina
+HARI_09,,Harina de lino,,sí,180,los 100g,,no,harina
+HARI_10,,Harina de arroz blanco,,sí,150,los 100g,,no,harina
+HARI_11,,Harina de arroz yamani,Integral. Marca 'Dicomere'. Sin TACC,sí,2100,el paquete de 450g,,no,sin TACC|harina
+HARI_12,,Harina de arroz blanco,Sin TACC,sí,3050,1 paquete de 1kg,,no,sin TACC|harina
+HARI_13,,Harina de algarroba,,no,0,,,no,harina
+MAIC_00,,Maicena,Fécula de maíz | Harina de almidón de maíz,sí,2020,el kg,,no,harina
+FECU_00,,Fécula de mandioca,Marca FEMAG. Sin TACC,sí,1910,el kg,,no,sin TACC|harina
+SALR_00,,Sal rosa del himalaya fina,,sí,200,los 100g,,no,condimentos
+SALM_01,,Sal marina fina,Marca 'Frutos de mi tierra',sí,1180,el paquete de 500g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/SALM_01.jpg,no,condimentos
+SALM_02,,Sal marina gruesa,Marca 'Macrozen',sí,1800,el paquete de 500g,,no,condimentos
+SALM_03,,Sal marina gruesa FRUTOS DE MI TIERRA,Marca 'Frutos de mi tierra',sí,1180,el paquete de 500g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/SALM_03.jpg,no,sin TACC|condimentos
+PIME_00,,Pimenton ahumado,,no,0,los 100g,,no,condimentos
+PIME_01,,Pimenton dulce,,no,0,los 100g,,no,condimentos
+CURR_00,,Curry,,no,0,los 100g,,no,condimentos
+CURC_00,,Cúrcuma,,no,0,los 100g,,no,condimentos
+PROV_00,,Provenzal,,no,0,los 100g,,no,condimentos
+AJIM_00,,Ají molido,,no,0,los 100g,,no,condimentos
+PIMI_00,,Pimienta negra molida,,no,0,los 100g,,no,condimentos
+PIMI_01,,Pimienta blanca molida,,sí,4700,los 100g,,no,condimentos
+OREG_00,,Orégano,,sí,1070,los 100g,,no,condimentos
+AJOP_00,,Ajo en polvo,,sí,1230,los 100g,,no,condimentos
+AJOG_00,,Ajo granulado,,sí,1420,los 100g,,no,condimentos
+COMI_00,,Comino,,sí,1260,los 100g,,no,condimentos
+NUEM_00,,Nuez moscada,,sí,3780,los 100g,,no,condimentos
+ROME_00,,Romero,,sí,1760,los 100g,,no,condimentos
+TOMI_00,,Tomillo 'Sumeidades',,sí,1070,los 100g,,no,condimentos
+MERK_00,,Merkén,,sí,1380,los 100g,,no,condimentos
+CHIM_00,,Chimichurri,,sí,1420,los 100g,,no,condimentos
+CANE_00,,Canela molida,,sí,2830,los 100g,,no,condimentos
+LAUR_00,,Laurel en hoja,,sí,2040,los 100g,,no,condimentos
+JENG_00,,Jengibre en polvo,,sí,2360,los 100g,,no,condimentos|te
+YERB_00,,Yerba 'Las Tunas',Yerba mate elaborada con palo. Estacionamiento natural,sí,4420,1 paquete de 1kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/YERB_00.jpg,no,sin TACC|yerba
+YERB_01,,Yerba 'Maravilla' Natural 1/2 kilo (barbacuá),Barbacua con fuerte aroma y sabor. Agroecológica en transición,sí,2860,el paquete de 500g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/YERB_01.jpg,no,yerba
+YERB_02,,Yerba Picada Vieja x 1/2kg,,sí,2860,el paquete de 500g,,no,yerba|agroecológico
+YERB_03,,Yerba 'Roapipó' tradicional orgánica,,sí,5020,1 paquete de 1kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/YERB_03.jpg,no,sin TACC|yerba|orgánico
+YERB_04,,Yerba Familia Zaragoza Barbacuá x 1/2kg,,sí,2600,el paquete de 500g,,no,yerba
+YERB_05,,Yerba Ajedrez Antiácida,,sí,1900,el paquete de 500g,,no,sin TACC|yerba
+YERB_06,,Yerba Ajedrez premium,,sí,2120,el paquete de 500g,,no,sin TACC|yerba
+YERB_07,,Yerba 'Aguantadora',Tradicional,sí,4290,el paquete de 500g,,no,sin TACC|yerba
+YERB_08,,Yerba 'Aguantadora',Tradicional,sí,4290,1 paquete de 1kg,,no,sin TACC|yerba
+YERB_09,,Yerba Sinceridad,Suave,sí,2280,el paquete de 500g,,no,sin TACC|yerba
+YERB_10,,Yerba Sinceridad,Suave,sí,4290,1 paquete de 1kg,,no,sin TACC|yerba
+YERB_11,,Yerba 'La Araucaria' Antiácida,,sí,3900,1 paquete de 1kg,,no,yerba
+YERB_12,,Yerba 'La Araucaria',Yerba mate uruguaya. Sabor fuerte,sí,4420,1 paquete de 1kg,,no,yerba
+MANZ_00,,Manzanilla suelta,Flores,sí,2990,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/MANZ_00.jpg,no,yuyitos|te
+MANZ_01,,Manzanilla,,sí,14980,el paquete de 500g,,no,yuyitos|te
+MANZ_02,,Manzanilla,,sí,7500,el paquete de 250g,,no,yuyitos|te
+BURR_00,,Burrito,,no,0,,,no,yuyitos|te
+CEDR_00,,Cedrón,Hojas,no,0,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/CEDR_00.jpg,no,yuyitos|te
+CARQ_00,,Carqueja,,no,0,,,no,yuyitos|te
+TILO_00,,Tilo,,no,0,,,no,yuyitos|te
+TENE_00,,Té negro,,no,0,,,no,yuyitos|te
+TERO_00,,Té rojo,,no,0,,,no,yuyitos|te
+TEVE_00,,Té verde,,no,0,,,no,yuyitos|te
+BOLD_00,,Boldo,,sí,1490,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/BOLD_00.jpg,no,yuyitos|te
+POLE_00,,Poleo,,no,0,,,no,yuyitos|te
+MENT_00,,Menta,,no,0,,,no,yuyitos|te
+MARC_00,,Marcela,,no,0,,,no,yuyitos|te
+PEPE_00,,Peperina,,no,0,,,no,yuyitos|te
+SALV_00,,Salvia,,no,0,,,no,yuyitos|te
+COLA_00,,Cola de caballo,,no,0,,,no,yuyitos|te
+AMBA_00,,Ambay,,no,0,,,no,yuyitos|te
+LLAN_00,,Llanten,,no,0,,,no,yuyitos|te
+HIBI_00,,Hibiscus,,no,0,,,no,yuyitos|te
+LAVA_00,,Lavanda,,no,0,,,no,yuyitos|te
+VALE_00,,Valeriana,,no,0,,,no,yuyitos|te
+ANIS_00,,Anis estrellado,,no,0,,,no,te
+CAFE_00,,Café de algarroba 'Dicomere',,sí,4390,el paquete de 200g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/CAFE_00.jpg,no,sin TACC|te
+STEV_00,,Stevia en hojas,,no,0,,,no,te
+MERM_00,,Mermeladas,,no,0,,,no,
+MIEL_00,,Miel De Los Arrollos | Frasco de 1kg,,sí,5070,el frasco de 1kg,,no,miel
+MIEL_01,,Miel cremosa 'La Colmena de Cristal',,sí,5460,el frasco de 1kg,,no,miel
+MIEL_02,,Miel con jengibre,,no,0,,,no,miel
+MIEL_03,,Miel fraccionada,,no,0,,,no,miel
+PAST_00,,Pasta de maní,,no,0,,,no,
+PAST_01,,Pasta de castañas de cajú,,no,0,,,no,
+AZUC_00,,Azúcar mascabo,,no,0,,,no,
+CACA_00,,Cacao amargo,,sí,1140,los 100g,,no,
+CACA_01,,Cacao amargo 'Colonial',,sí,2830,los 100g,,no,
+HONG_00,,Hongos secos Boletus,,sí,1500,los 100g,,no,hongos
+HUEV_00,,Huevos orgánicos maple x30 huevos,,sí,11900,la unidad,,no,
+COCO_00,,Coco rallado,,sí,890,los 100g,,no,
+SOJA_00,,Soja texturizada orgánica,,no,0,,,no,
+CHOC_00,,Chocolate Colonial Orgánico 60%,,sí,4790,1 unidad de 100g,,no,sin TACC|orgánico
+CHOC_01,,Chocolate Colonial Orgánico 70%,,sí,5200,1 unidad de 100g,,no,sin TACC|chocolate|orgánico
+CHOC_02,,Chocolate Colonial Orgánico 80%,,sí,5600,1 unidad de 100g,,no,sin TACC|chocolate|orgánico
+CHOC_03,,Chocolate Colonial Orgánico 60%,,sí,620,1 unidad de 16g,,no,sin TACC|chocolate|orgánico
+CHOC_04,,Chocolate Colonial Orgánico 70%,,sí,680,1 unidad de 16g,,no,sin TACC|chocolate|orgánico
+CHOC_05,,Chocolate Colonial Orgánico 80%,,sí,740,1 unidad de 16g,,no,sin TACC|chocolate|orgánico
+CHOC_06,,Chocolate Colonial 70% sin azúcar,Con stevia,sí,4090,1 unidad de 100g,,no,sin TACC|chocolate|orgánico
+MANI_03,,Maní con chocolate semiamargo,,sí,2290,los 100g,,no,chocolate
+PASA_02,,Pasa de uva con chocolate con leche,,sí,2170,los 100g,,no,chocolate
+AVEL_01,,Avellana con chocolate con leche,,sí,3740,los 100g,,no,chocolate
+TOMA_00,,Tomates secos,,no,0,,,no,chocolate
+POLV_00,,Polvo hornear,,sí,450,los 100g,,no,condimentos
+BICA_00,,Bicarbonato de sodio,,sí,200,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/BICA_00.jpg,no,
+DULC_00,,Dulce de membrillo,,no,0,,,no,
+DULC_01,,Dulce de batata,,no,0,,,no,
+DULC_02,,Dulce de batata con chocolate,,no,0,,,no,chocolate
+ESEN_00,,Esencia de vainilla,,no,0,,,no,
+TOFU_00,,Tofu,,no,0,,,no,novedades|condimentos
+TOMA_01,,Tomate triturado,,no,0,,,no,
+LECH_00,,Leche de nuez pecan sin azúcar,Marca 'Pampa Vida',sí,3820,el envase de 1 litro,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/LECH_00.jpg,no,sin TACC|leches vegetales
+LECH_01,,Leche de maní con chocolate,Marca 'Pampa Vida',sí,3820,el envase de 1 litro,,no,sin TACC|leches vegetales
+LECH_02,,Leche de almendras protein sin azúcar,Marca 'Pampa Vida',sí,5000,el envase de 1 litro,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/LECH_02.jpg,no,novedades|sin TACC|chocolate|leches vegetales
+ACEI_00,,Aceite de oliva,Marca 'El Árbol',sí,14080,la unidad,,no,aceite
+ACEI_01,,Aceite de oliva La Riojana 500ml,,sí,15070,la unidad,,no,aceite
+ACEI_02,,Aceite de oliva Terranova 500ml,,sí,14030,la unidad,,no,aceite
+ACEI_03,,Aceite de oliva Frutos del Norte 500ml,,sí,11530,la unidad,,no,aceite
+ACEI_04,,Aceite de coco Entre Nuts NEUTRO 500ml,,sí,6800,la unidad,,no,sin TACC|aceite
+ACEI_05,,Aceite de coco Entre Nuts NEUTRO 1000ml,,sí,12850,la unidad,,no,sin TACC|aceite
+ACEI_06,,Aceite de coco Entre Nuts VIRGEN 500ml,,sí,11700,la unidad,,no,sin TACC|aceite
+ACEI_07,,Aceite de coco Entre Nuts VIRGEN 1000ml,,sí,23960,la unidad,,no,sin TACC|aceite
+ACEI_08,,Aceite de lino marrón orgánico x 250ml,,sí,6510,la unidad,,no,aceite|orgánico
+ACEI_09,,Aceite de nuez pecan 500ml,,sí,15600,la unidad,,no,novedades|aceite
+ACEI_10,,Aceite de sésamo,,no,0,,,no,aceite
+GHEE_00,,Ghee,,sí,9490,la unidad,,no,novedades|aceite
+SEMI_00,,Semillas de chía,,sí,850,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/SEMI_00.jpg,no,semillas
+SEMI_01,,Semillas de girasol,Peladas sin tostar y sin sal,sí,380,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/SEMI_01.jpg,no,semillas
+SEMI_02,,Semillas de lino marrón,,sí,200,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/SEMI_02.jpg,no,semillas
+SEMI_03,,Semillas de sésamo blanco,,sí,680,los 100g,,no,semillas
+SEMI_04,,Semillas de sésamo integral,,sí,270,los 100g,,no,semillas
+SEMI_05,,Semillas de sésamo negro,,sí,840,los 100g,,no,semillas
+SEMI_06,,Semillas de zapallo,,sí,1160,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/SEMI_06.jpg,no,semillas
+HONG_01,,Melena de león,,sí,26000,la unidad,,no,hongos
+HONG_02,,Reishi,,sí,26000,la unidad,,no,hongos
+HONG_03,,Cordy,,sí,26000,la unidad,,no,hongos
+HONG_04,,Shiitake,,sí,26000,la unidad,,no,hongos
+HONG_05,,Cola de pavo,,sí,26000,la unidad,,no,hongos
+BARR_00,,Barrita de cereal protéica ÍNTEGRA - Maní + chocolate,,sí,1590,la unidad,,no,snacks|chocolate
+BARR_01,,Barrita de cereal protéica ÍNTEGRA - Arándanos,,sí,1400,la unidad,,no,snacks
+BARR_02,,Barrita de cereal MUECAS - Cacao y avellanas,,sí,1120,la unidad,,no,snacks
+CANV_00,,CANVAS - Crackers chia; girasol y lino,,sí,1240,la unidad,,no,snacks
+CANV_01,,CANVAS - Oliva; chia & lino,,sí,1290,la unidad,,no,snacks
+CANV_02,,CANVAS - CANVAS - Chocolate y mani,,sí,1520,la unidad,,no,snacks|chocolate
+CANV_03,,CANVAS - Jengibre y chia,,sí,1320,la unidad,,no,snacks
+CANV_04,,CANVAS - Algarroba; canela; pasas y girasol,,sí,1430,la unidad,,no,snacks
+GALL_00,,Galletas de arroz,,no,0,,,no,
+CREA_00,,Creatina,,no,0,,,no,suplementos
+PROT_00,,Proteína vegetal,,no,0,,,no,suplementos
+LEVA_00,,Levadura nutricional,Levadura de cerveza en polvo marca 'Nutrileva',sí,0,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/LEVA_00.jpg,no,sin TACC|suplementos
+ESPI_00,,Espirulina,,no,0,,,no,suplementos|condimentos
+MACA_00,,Maca peruana orgánica Kallpa,,sí,1440,el paquete de 500g,,no,suplementos|orgánico
+SUDA_00,,Pasta de dientes Sudanta,,sí,0,,,no,condimentos
+BOLS_00,,Bolsita para hacer leches vegetales,,sí,2860,la unidad,,no,
