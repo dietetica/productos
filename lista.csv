@@ -1,196 +1,999 @@
 id,producto,titulo,descripcion,hay_stock,precio,unidad,imagen,es_oferta,tags
-ARRO_00,Arroz yamaní integral,Arroz yamaní,Integral,sí,1690,el kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/ARRO_00.jpg,no,cereales
-ARRO_01,Arroz integral largo fino,Arroz integral largo fino,,sí,1150,el kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/ARRO_01.jpg,no,cereales
-AVEN_00,Avena instantánea 'Industrias de avena',Avena instantánea,Marca 'Industrias de avena',no,2220,el kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/AVEN_00.jpg,no,cereales
-AVEN_02,Avena arrollada / tradicional | Campo Claro,Avena arrollada,También conocida como avena tradicional. Marca Campo Claro,sí,2060,el kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/AVEN_02.jpg,no,cereales
-AVEN_03,Avena sin TACC,Avena sin TACC,,no,2960,el paquete de 500g,,no,sin TACC|cereales
-QUIN_00,Semilla de quinoa blanca (Nacional) | Sabores,Quinoa,,sí,0,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/QUIN_00.jpg,sí,ofertas|cereales
-QUIN_01,Quinoa real blanca (Peru) | Sabores,Quinoa real blanca (Peru),,no,4500,el kg,,no,cereales
-FIDE_00,Fideos 'Soyarroz' tradicionales | Paquete de 300g,Fideos 'Soyarroz' tradicionales,,no,6650,el kg,,no,sin TACC|cereales
-FIDE_01,Fideos 'Soyarroz' de espinaca | Paquete de 300g,Fideos 'Soyarroz' de espinaca,,sí,2660,el paquete de 300g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/FIDE_01.jpg,no,sin TACC|cereales
-FIDE_02,Fideos 'Soyarroz' de morrón | Paquete de 300g,Fideos 'Soyarroz' de morrón,,sí,2660,el paquete de 300g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/FIDE_02.jpg,sí,ofertas|sin TACC|cereales
-FIDE_03,Fideos Soyarroz integrales | Paquete de 300g,Fideos Soyarroz integrales,,sí,2660,el paquete de 300g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/FIDE_03.jpg,no,sin TACC|cereales
-FIDE_04,Fideos fettuccine con espinaca | Campo Claro | 500g,Fideos fettuccine con espinaca,Marca Campo Claro,sí,2660,el paquete de 300g,,sí,ofertas|sin TACC|cereales
-FIDE_05,Fideos tallarines | Campo Claro | 500g,Fideos tallarines,Marca Campo Claro,sí,3510,el paquete de 500g,,no,sin TACC|cereales
-FIDE_06,Fideos codito con harina de garbanzos | Campo Claro | 500g,Fideos codito con harina de garbanzos,Marca Campo Claro,sí,3240,el paquete de 500g,,no,sin TACC|cereales
-MIJO_00,Mijo,Mijo,,sí,3510,el paquete de 500g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/MIJO_00.jpg,no,cereales
-ALME_00,Almendras Non Pareil medianas,Almendras Non Pareil medianas,Variedad Non Pareil medianas,sí,2170,el kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/ALME_00.jpg,no,frutos secos
-ALME_01,Almendras guara mediana,Almendras guara mediana,,sí,2290,los 100g,,no,frutos secos
-AVEL_00,Avellanas,Avellanas,Peladas (13/15),sí,2100,los 100g,,no,frutos secos
-CAST_00,Castañas de cajú tostadas,Castañas de cajú tostadas,,sí,3100,los 100g,,no,frutos secos
-CAST_01,Castañas de cajú crudas partidas,Castañas de cajú crudas partidas,,sí,2290,los 100g,,no,frutos secos
-DATI_00,Dátiles,Dátiles,Naturales con carozo,sí,1230,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/DATI_00.jpg,no,frutos secos
-MANI_00,Maní tostado sin sal,Maní tostado sin sal,,sí,520,los 100g,,no,frutos secos
-MANI_01,Maní tostado con sal,Maní tostado con sal,,sí,250,los 100g,,no,frutos secos
-MANI_02,Maní crudo,Maní crudo,,sí,270,los 100g,,no,frutos secos
-MIXF_00,Mix de frutos secos con pasas,Mix de frutos secos con pasas,,no,330,los 100g,,no,frutos secos|snacks
-MIXF_01,Mix de frutos secos sin pasas,Mix de frutos secos sin pasas,,no,0,los 100g,,no,frutos secos|snacks
-NUEZ_00,Nuez mariposa extra light,Nuez mariposa extra light,,sí,0,los 100g,,no,frutos secos
-NUEZ_01,Nuez pecan mariposa,Nuez pecan mariposa,,sí,1630,los 100g,,no,frutos secos
-PASA_00,Pasas de uva morachas,Pasas de uva morachas,Variedad jumbo,sí,2540,los 100g,,no,frutos secos
-PASA_01,Pasas de uva rubias,Pasas de uva rubias,Variedad sultaninas,sí,650,los 100g,,no,frutos secos
-PERA_00,Peras,Peras,,sí,820,los 100g,,no,frutos secos
-HIGO_00,Higos blancos,Higos blancos,,sí,1080,los 100g,,no,frutos secos
-ARVE_00,Arveja seca partida,Arveja seca partida,,sí,1070,los 100g,,no,legumbres
-GARB_00,Garbanzos,Garbanzos,7mm,sí,920,el kg,,no,legumbres
-PORO_00,Poroto Mung,Poroto Mung,,sí,1350,el kg,,no,legumbres
-PORO_01,Poroto Negro,Poroto Negro,,sí,1690,el kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/PORO_01.jpg,no,legumbres
-PORO_02,Poroto Aduki,Poroto Aduki,,sí,1760,el kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/PORO_02.jpg,no,legumbres
-PORO_03,Poroto Alubia,Poroto Alubia,,sí,1940,el kg,,no,legumbres
-MAIZ_00,Maíz piscingallo,Maíz piscingallo,,sí,2550,el kg,,no,cereales
-LENT_00,Lentejas,Lentejas,5mm,sí,110,los 100g,,no,legumbres
-HARI_00,Harina integral de trigo,Harina integral de trigo,,sí,2610,el kg,,no,harina
-HARI_01,Harina integral de trigo,Harina integral de trigo,Marca Campo Claro,sí,2130,el kg,,no,harina
-HARI_02,Harina integral de centeno,Harina integral de centeno,Marca Campo Claro,sí,3000,1 paquete de 1kg,,no,harina
-HARI_03,Harina de garbanzos,Harina de garbanzos,,sí,3000,1 paquete de 1kg,,no,harina
-HARI_04,Harina de garbanzo,Harina de garbanzo,Marca 'Dicomere'. Orgánica. Sin TACC,sí,1000,el kg,,no,sin TACC|harina|orgánico
-HARI_05,Harina para arepas,Harina para arepas,Harina de maíz blanco precocido y molido marca Morixe,sí,1900,el paquete de 450g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/HARI_05.jpg,no,harina
-HARI_06,Harina de almendras,Harina de almendras,,sí,2440,el kg,,no,harina
-SALM_00,Sal marina fina,Sal marina fina,Marca 'Macrozen',sí,1770,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/SALM_00.jpg,no,harina
-HARI_08,Harina de chía,Harina de chía,,sí,1820,el paquete de 500g,,no,harina
-HARI_09,Harina de lino,Harina de lino,,sí,120,los 100g,,no,harina
-HARI_10,Harina de arroz blanco,Harina de arroz blanco,,sí,180,los 100g,,no,harina
-HARI_11,Harina de arroz yamani,Harina de arroz yamani,Integral. Marca 'Dicomere'. Sin TACC,sí,150,los 100g,,no,sin TACC|harina
-HARI_12,Harina de arroz blanco,Harina de arroz blanco,Sin TACC,sí,2100,el paquete de 450g,,no,sin TACC|harina
-HARI_13,Harina de algarroba,Harina de algarroba,,no,3050,1 paquete de 1kg,,no,harina
-MAIC_00,Maicena,Maicena,Fécula de maíz | Harina de almidón de maíz,sí,0,,,no,harina
-FECU_00,Fécula de mandioca,Fécula de mandioca,Marca FEMAG. Sin TACC,sí,2020,el kg,,no,sin TACC|harina
-SALR_00,Sal rosa del himalaya fina,Sal rosa del himalaya fina,,sí,1910,el kg,,no,condimentos
-SALM_01,Sal marina fina,Sal marina fina,Marca 'Frutos de mi tierra',sí,200,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/SALM_01.jpg,no,condimentos
-SALM_02,Sal marina gruesa,Sal marina gruesa,Marca 'Macrozen',sí,1180,el paquete de 500g,,no,condimentos
-SALM_03,Sal marina gruesa FRUTOS DE MI TIERRA,Sal marina gruesa FRUTOS DE MI TIERRA,Marca 'Frutos de mi tierra',sí,1800,el paquete de 500g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/SALM_03.jpg,no,sin TACC|condimentos
-PIME_00,Pimenton ahumado,Pimenton ahumado,,no,1180,el paquete de 500g,,no,condimentos
-PIME_01,Pimenton dulce,Pimenton dulce,,no,0,los 100g,,no,condimentos
-CURR_00,Curry,Curry,,no,0,los 100g,,no,condimentos
-CURC_00,Cúrcuma,Cúrcuma,,no,0,los 100g,,no,condimentos
-PROV_00,Provenzal,Provenzal,,no,0,los 100g,,no,condimentos
-AJIM_00,Ají molido,Ají molido,,no,0,los 100g,,no,condimentos
-PIMI_00,Pimienta negra molida,Pimienta negra molida,,no,0,los 100g,,no,condimentos
-PIMI_01,Pimienta blanca molida,Pimienta blanca molida,,sí,0,los 100g,,no,condimentos
-OREG_00,Orégano,Orégano,,sí,4700,los 100g,,no,condimentos
-AJOP_00,Ajo en polvo,Ajo en polvo,,sí,1070,los 100g,,no,condimentos
-AJOG_00,Ajo granulado,Ajo granulado,,sí,1230,los 100g,,no,condimentos
-COMI_00,Comino,Comino,,sí,1420,los 100g,,no,condimentos
-NUEM_00,Nuez moscada,Nuez moscada,,sí,1260,los 100g,,no,condimentos
-ROME_00,Romero,Romero,,sí,3780,los 100g,,no,condimentos
-TOMI_00,Tomillo 'Sumeidades',Tomillo 'Sumeidades',,sí,1760,los 100g,,no,condimentos
-MERK_00,Merkén,Merkén,,sí,1070,los 100g,,no,condimentos
-CHIM_00,Chimichurri,Chimichurri,,sí,1380,los 100g,,no,condimentos
-CANE_00,Canela molida,Canela molida,,sí,1420,los 100g,,no,condimentos
-LAUR_00,Laurel en hoja,Laurel en hoja,,sí,2830,los 100g,,no,condimentos
-JENG_00,Jengibre en polvo,Jengibre en polvo,,sí,2040,los 100g,,no,condimentos|te
-YERB_00,Yerba 'Las Tunas',Yerba 'Las Tunas',Yerba mate elaborada con palo. Estacionamiento natural,sí,2360,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/YERB_00.jpg,no,sin TACC|yerba
-YERB_01,Yerba 'Maravilla' Natural 1/2 kilo (barbacuá),Yerba 'Maravilla' Natural 1/2 kilo (barbacuá),Barbacua con fuerte aroma y sabor. Agroecológica en transición,sí,6500,1 paquete de 1kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/YERB_01.jpg,no,yerba
-YERB_02,Yerba Picada Vieja x 1/2kg,Yerba Picada Vieja x 1/2kg,,sí,2860,el paquete de 500g,,no,yerba|agroecológico
-YERB_03,Yerba 'Roapipó' tradicional orgánica,Yerba 'Roapipó' tradicional orgánica,,sí,2860,el paquete de 500g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/YERB_03.jpg,no,sin TACC|yerba|orgánico
-YERB_04,Yerba Familia Zaragoza Barbacuá x 1/2kg,Yerba Familia Zaragoza Barbacuá x 1/2kg,,sí,5020,1 paquete de 1kg,,no,yerba
-YERB_05,Yerba Ajedrez Antiácida,Yerba Ajedrez Antiácida,,sí,2600,el paquete de 500g,,no,sin TACC|yerba
-YERB_06,Yerba Ajedrez premium,Yerba Ajedrez premium,,sí,1900,el paquete de 500g,,no,sin TACC|yerba
-YERB_07,Yerba 'Aguantadora',Yerba 'Aguantadora',Tradicional,sí,2120,el paquete de 500g,,no,sin TACC|yerba
-YERB_08,Yerba 'Aguantadora',Yerba 'Aguantadora',Tradicional,sí,4290,el paquete de 500g,,no,sin TACC|yerba
-YERB_09,Yerba Sinceridad,Yerba Sinceridad,Suave,sí,4290,1 paquete de 1kg,,no,sin TACC|yerba
-YERB_10,Yerba Sinceridad,Yerba Sinceridad,Suave,sí,2280,el paquete de 500g,,no,sin TACC|yerba
-YERB_11,Yerba 'La Araucaria' Antiácida,Yerba 'La Araucaria' Antiácida,,sí,4290,1 paquete de 1kg,,no,yerba
-YERB_12,Yerba 'La Araucaria',Yerba 'La Araucaria',Yerba mate uruguaya. Sabor fuerte,sí,3900,1 paquete de 1kg,,no,yerba
-MANZ_00,Manzanilla suelta,Manzanilla suelta,Flores,sí,4420,1 paquete de 1kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/MANZ_00.jpg,no,yuyitos|te
-MANZ_01,Manzanilla,Manzanilla,,sí,2990,los 100g,,no,yuyitos|te
-MANZ_02,Manzanilla,Manzanilla,,sí,14980,el paquete de 500g,,no,yuyitos|te
-BURR_00,Burrito,Burrito,,no,7500,el paquete de 250g,,no,yuyitos|te
-CEDR_00,Cedrón,Cedrón,Hojas,no,0,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/CEDR_00.jpg,no,yuyitos|te
-CARQ_00,Carqueja,Carqueja,,no,0,,,no,yuyitos|te
-TILO_00,Tilo,Tilo,,no,0,,,no,yuyitos|te
-TENE_00,Té negro,Té negro,,no,0,,,no,yuyitos|te
-TERO_00,Té rojo,Té rojo,,no,0,,,no,yuyitos|te
-TEVE_00,Té verde,Té verde,,no,0,,,no,yuyitos|te
-BOLD_00,Boldo,Boldo,,sí,0,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/BOLD_00.jpg,no,yuyitos|te
-POLE_00,Poleo,Poleo,,no,1490,los 100g,,no,yuyitos|te
-MENT_00,Menta,Menta,,no,0,,,no,yuyitos|te
-MARC_00,Marcela,Marcela,,no,0,,,no,yuyitos|te
-PEPE_00,Peperina,Peperina,,no,0,,,no,yuyitos|te
-SALV_00,Salvia,Salvia,,no,0,,,no,yuyitos|te
-COLA_00,Cola de caballo,Cola de caballo,,no,0,,,no,yuyitos|te
-AMBA_00,Ambay,Ambay,,no,0,,,no,yuyitos|te
-LLAN_00,Llanten,Llanten,,no,0,,,no,yuyitos|te
-HIBI_00,Hibiscus,Hibiscus,,no,0,,,no,yuyitos|te
-LAVA_00,Lavanda,Lavanda,,no,0,,,no,yuyitos|te
-VALE_00,Valeriana,Valeriana,,no,0,,,no,yuyitos|te
-ANIS_00,Anis estrellado,Anis estrellado,,no,0,,,no,te
-CAFE_00,Café de algarroba 'Dicomere',Café de algarroba 'Dicomere',,sí,0,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/CAFE_00.jpg,no,sin TACC|te
-STEV_00,Stevia en hojas,Stevia en hojas,,no,4390,el paquete de 200g,,no,te
-MERM_00,Mermeladas,Mermeladas,,no,0,,,no,
-MIEL_00,Miel De Los Arrollos | Frasco de 1kg,Miel De Los Arrollos | Frasco de 1kg,,sí,0,,,no,miel
-MIEL_01,Miel cremosa 'La Colmena de Cristal',Miel cremosa 'La Colmena de Cristal',,sí,5070,el frasco de 1kg,,no,miel
-MIEL_02,Miel con jengibre,Miel con jengibre,,no,5460,el frasco de 1kg,,no,miel
-MIEL_03,Miel fraccionada,Miel fraccionada,,no,0,,,no,miel
-PAST_00,Pasta de maní,Pasta de maní,,no,0,,,no,
-PAST_01,Pasta de castañas de cajú,Pasta de castañas de cajú,,no,0,,,no,
-AZUC_00,Azúcar mascabo,Azúcar mascabo,,no,0,,,no,
-CACA_00,Cacao amargo,Cacao amargo,,sí,0,,,no,
-CACA_01,Cacao amargo 'Colonial',Cacao amargo 'Colonial',,sí,1140,los 100g,,no,
-HONG_00,Hongos secos Boletus,Hongos secos Boletus,,sí,2830,los 100g,,no,hongos
-HUEV_00,Huevos orgánicos maple x30 huevos,Huevos orgánicos maple x30 huevos,,sí,1500,los 100g,,no,
-COCO_00,Coco rallado,Coco rallado,,sí,11900,la unidad,,no,
-SOJA_00,Soja texturizada orgánica,Soja texturizada orgánica,,no,890,los 100g,,no,
-CHOC_00,Chocolate Colonial Orgánico 60%,Chocolate Colonial Orgánico 60%,,sí,0,,,no,sin TACC|orgánico
-CHOC_01,Chocolate Colonial Orgánico 70%,Chocolate Colonial Orgánico 70%,,sí,4790,1 unidad de 100g,,no,sin TACC|chocolate|orgánico
-CHOC_02,Chocolate Colonial Orgánico 80%,Chocolate Colonial Orgánico 80%,,sí,5200,1 unidad de 100g,,no,sin TACC|chocolate|orgánico
-CHOC_03,Chocolate Colonial Orgánico 60%,Chocolate Colonial Orgánico 60%,,sí,5600,1 unidad de 100g,,no,sin TACC|chocolate|orgánico
-CHOC_04,Chocolate Colonial Orgánico 70%,Chocolate Colonial Orgánico 70%,,sí,620,1 unidad de 16g,,no,sin TACC|chocolate|orgánico
-CHOC_05,Chocolate Colonial Orgánico 80%,Chocolate Colonial Orgánico 80%,,sí,680,1 unidad de 16g,,no,sin TACC|chocolate|orgánico
-CHOC_06,Chocolate Colonial 70% sin azúcar,Chocolate Colonial 70% sin azúcar,Con stevia,sí,740,1 unidad de 16g,,no,sin TACC|chocolate|orgánico
-MANI_03,Maní con chocolate semiamargo,Maní con chocolate semiamargo,,sí,4090,1 unidad de 100g,,no,chocolate
-PASA_02,Pasa de uva con chocolate con leche,Pasa de uva con chocolate con leche,,sí,2290,los 100g,,no,chocolate
-AVEL_01,Avellana con chocolate con leche,Avellana con chocolate con leche,,sí,2170,los 100g,,no,chocolate
-TOMA_00,Tomates secos,Tomates secos,,no,3740,los 100g,,no,chocolate
-POLV_00,Polvo hornear,Polvo hornear,,sí,0,,,no,condimentos
-BICA_00,Bicarbonato de sodio,Bicarbonato de sodio,,sí,450,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/BICA_00.jpg,no,
-DULC_00,Dulce de membrillo,Dulce de membrillo,,no,200,los 100g,,no,
-DULC_01,Dulce de batata,Dulce de batata,,no,0,,,no,
-DULC_02,Dulce de batata con chocolate,Dulce de batata con chocolate,,no,0,,,no,chocolate
-ESEN_00,Esencia de vainilla,Esencia de vainilla,,no,0,,,no,
-TOFU_00,Tofu,Tofu,,no,0,,,no,novedades|condimentos
-TOMA_01,Tomate triturado,Tomate triturado,,no,0,,,no,
-LECH_00,Leche de nuez pecan sin azúcar,Leche de nuez pecan sin azúcar,Marca 'Pampa Vida',sí,0,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/LECH_00.jpg,no,sin TACC|leches vegetales
-LECH_01,Leche de maní con chocolate,Leche de maní con chocolate,Marca 'Pampa Vida',sí,3820,el envase de 1 litro,,no,sin TACC|leches vegetales
-LECH_02,Leche de almendras protein sin azúcar,Leche de almendras protein sin azúcar,Marca 'Pampa Vida',sí,3820,el envase de 1 litro,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/LECH_02.jpg,no,novedades|sin TACC|chocolate|leches vegetales
-ACEI_00,Aceite de oliva,Aceite de oliva,Marca 'El Árbol',sí,5000,el envase de 1 litro,,no,aceite
-ACEI_01,Aceite de oliva La Riojana 500ml,Aceite de oliva La Riojana 500ml,,sí,14080,la unidad,,no,aceite
-ACEI_02,Aceite de oliva Terranova 500ml,Aceite de oliva Terranova 500ml,,sí,15070,la unidad,,no,aceite
-ACEI_03,Aceite de oliva Frutos del Norte 500ml,Aceite de oliva Frutos del Norte 500ml,,sí,14030,la unidad,,no,aceite
-ACEI_04,Aceite de coco Entre Nuts NEUTRO 500ml,Aceite de coco Entre Nuts NEUTRO 500ml,,sí,11530,la unidad,,no,sin TACC|aceite
-ACEI_05,Aceite de coco Entre Nuts NEUTRO 1000ml,Aceite de coco Entre Nuts NEUTRO 1000ml,,sí,6800,la unidad,,no,sin TACC|aceite
-ACEI_06,Aceite de coco Entre Nuts VIRGEN 500ml,Aceite de coco Entre Nuts VIRGEN 500ml,,sí,12850,la unidad,,no,sin TACC|aceite
-ACEI_07,Aceite de coco Entre Nuts VIRGEN 1000ml,Aceite de coco Entre Nuts VIRGEN 1000ml,,sí,11700,la unidad,,no,sin TACC|aceite
-ACEI_08,Aceite de lino marrón orgánico x 250ml,Aceite de lino marrón orgánico x 250ml,,sí,23960,la unidad,,no,aceite|orgánico
-ACEI_09,Aceite de nuez pecan 500ml,Aceite de nuez pecan 500ml,,sí,6510,la unidad,,no,novedades|aceite
-ACEI_10,Aceite de sésamo,Aceite de sésamo,,no,15600,la unidad,,no,aceite
-GHEE_00,Ghee,Ghee,,sí,0,,,no,novedades|aceite
-SEMI_00,Semillas de chía,Semillas de chía,,sí,9490,la unidad,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/SEMI_00.jpg,no,semillas
-SEMI_01,Semillas de girasol,Semillas de girasol,Peladas sin tostar y sin sal,sí,850,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/SEMI_01.jpg,no,semillas
-SEMI_02,Semillas de lino marrón,Semillas de lino marrón,,sí,380,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/SEMI_02.jpg,no,semillas
-SEMI_03,Semillas de sésamo blanco,Semillas de sésamo blanco,,sí,200,los 100g,,no,semillas
-SEMI_04,Semillas de sésamo integral,Semillas de sésamo integral,,sí,680,los 100g,,no,semillas
-SEMI_05,Semillas de sésamo negro,Semillas de sésamo negro,,sí,270,los 100g,,no,semillas
-SEMI_06,Semillas de zapallo,Semillas de zapallo,,sí,840,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/SEMI_06.jpg,no,semillas
-HONG_01,Melena de león,Melena de león,,sí,1160,los 100g,,no,hongos
-HONG_02,Reishi,Reishi,,sí,26000,la unidad,,no,hongos
-HONG_03,Cordy,Cordy,,sí,26000,la unidad,,no,hongos
-HONG_04,Shiitake,Shiitake,,sí,26000,la unidad,,no,hongos
-HONG_05,Cola de pavo,Cola de pavo,,sí,26000,la unidad,,no,hongos
-BARR_00,Barrita de cereal protéica ÍNTEGRA - Maní + chocolate,Barrita de cereal protéica ÍNTEGRA - Maní + chocolate,,sí,26000,la unidad,,no,snacks|chocolate
-BARR_01,Barrita de cereal protéica ÍNTEGRA - Arándanos,Barrita de cereal protéica ÍNTEGRA - Arándanos,,sí,1590,la unidad,,no,snacks
-BARR_02,Barrita de cereal MUECAS - Cacao y avellanas,Barrita de cereal MUECAS - Cacao y avellanas,,sí,1400,la unidad,,no,snacks
-CANV_00,CANVAS - Crackers chia; girasol y lino,CANVAS - Crackers chia; girasol y lino,,sí,1120,la unidad,,no,snacks
-CANV_01,CANVAS - Oliva; chia & lino,CANVAS - Oliva; chia & lino,,sí,1240,la unidad,,no,snacks
-CANV_02,CANVAS - CANVAS - Chocolate y mani,CANVAS - CANVAS - Chocolate y mani,,sí,1290,la unidad,,no,snacks|chocolate
-CANV_03,CANVAS - Jengibre y chia,CANVAS - Jengibre y chia,,sí,1520,la unidad,,no,snacks
-CANV_04,CANVAS - Algarroba; canela; pasas y girasol,CANVAS - Algarroba; canela; pasas y girasol,,sí,1320,la unidad,,no,snacks
-GALL_00,Galletas de arroz,Galletas de arroz,,no,1430,la unidad,,no,
-CREA_00,Creatina,Creatina,,no,0,,,no,suplementos
-PROT_00,Proteína vegetal,Proteína vegetal,,no,0,,,no,suplementos
-LEVA_00,Levadura nutricional,Levadura nutricional,Levadura de cerveza en polvo marca 'Nutrileva',sí,0,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/LEVA_00.jpg,no,sin TACC|suplementos
-ESPI_00,Espirulina,Espirulina,,no,0,,,no,suplementos|condimentos
-MACA_00,Maca peruana orgánica Kallpa,Maca peruana orgánica Kallpa,,sí,0,,,no,suplementos|orgánico
-SUDA_00,Pasta de dientes Sudanta,Pasta de dientes Sudanta,,sí,1440,el paquete de 500g,,no,condimentos
-BOLS_00,Bolsita para hacer leches vegetales,Bolsita para hacer leches vegetales,,sí,0,,,no,
-,,,,,2860,la unidad,,,
+ARRO_00,Arroz yamaní integral,Arroz yamaní,Integral,sí,#ERROR!,#ERROR!,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/ARRO_00.jpg,no,cereales
+ARRO_01,Arroz integral largo fino,Arroz integral largo fino,,sí,,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/ARRO_01.jpg,no,cereales
+AVEN_00,#ERROR!,Avena instantánea,Marca 'Industrias de avena',no,,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/AVEN_00.jpg,no,cereales
+AVEN_02,#ERROR!,Avena arrollada,También conocida como avena tradicional. Marca Campo Claro,sí,,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/AVEN_02.jpg,no,cereales
+AVEN_03,#ERROR!,Avena sin TACC,,no,,,,no,sin TACC|cereales
+QUIN_00,#ERROR!,Quinoa,,sí,,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/QUIN_00.jpg,sí,ofertas|cereales
+QUIN_01,#ERROR!,Quinoa real blanca (Peru),,no,,,,no,cereales
+FIDE_00,#ERROR!,Fideos 'Soyarroz' tradicionales,,no,,,,no,sin TACC|cereales
+FIDE_01,#ERROR!,Fideos 'Soyarroz' de espinaca,,sí,,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/FIDE_01.jpg,no,sin TACC|cereales
+FIDE_02,#ERROR!,Fideos 'Soyarroz' de morrón,,sí,,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/FIDE_02.jpg,sí,ofertas|sin TACC|cereales
+FIDE_03,#ERROR!,Fideos Soyarroz integrales,,sí,,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/FIDE_03.jpg,no,sin TACC|cereales
+FIDE_04,#ERROR!,Fideos fettuccine con espinaca,Marca Campo Claro,sí,,,,sí,ofertas|sin TACC|cereales
+FIDE_05,#ERROR!,Fideos tallarines,Marca Campo Claro,sí,,,,no,sin TACC|cereales
+FIDE_06,#ERROR!,Fideos codito con harina de garbanzos,Marca Campo Claro,sí,,,,no,sin TACC|cereales
+MIJO_00,#ERROR!,Mijo,,sí,,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/MIJO_00.jpg,no,cereales
+ALME_00,#ERROR!,Almendras Non Pareil medianas,Variedad Non Pareil medianas,sí,,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/ALME_00.jpg,no,frutos secos
+ALME_01,#ERROR!,Almendras guara mediana,,sí,,,,no,frutos secos
+AVEL_00,#ERROR!,Avellanas,Peladas (13/15),sí,,,,no,frutos secos
+CAST_00,#ERROR!,Castañas de cajú tostadas,,sí,,,,no,frutos secos
+CAST_01,#ERROR!,Castañas de cajú crudas partidas,,sí,,,,no,frutos secos
+DATI_00,#ERROR!,Dátiles,Naturales con carozo,sí,,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/DATI_00.jpg,no,frutos secos
+MANI_00,#ERROR!,Maní tostado sin sal,,sí,,,,no,frutos secos
+MANI_01,#ERROR!,Maní tostado con sal,,sí,,,,no,frutos secos
+MANI_02,#ERROR!,Maní crudo,,sí,,,,no,frutos secos
+MIXF_00,#ERROR!,Mix de frutos secos con pasas,,no,,,,no,frutos secos|snacks
+MIXF_01,#ERROR!,Mix de frutos secos sin pasas,,no,,,,no,frutos secos|snacks
+NUEZ_00,#ERROR!,Nuez mariposa extra light,,sí,,,,no,frutos secos
+NUEZ_01,#ERROR!,Nuez pecan mariposa,,sí,,,,no,frutos secos
+PASA_00,#ERROR!,Pasas de uva morachas,Variedad jumbo,sí,,,,no,frutos secos
+PASA_01,#ERROR!,Pasas de uva rubias,Variedad sultaninas,sí,,,,no,frutos secos
+PERA_00,#ERROR!,Peras,,sí,,,,no,frutos secos
+HIGO_00,#ERROR!,Higos blancos,,sí,,,,no,frutos secos
+ARVE_00,#ERROR!,Arveja seca partida,,sí,,,,no,legumbres
+GARB_00,#ERROR!,Garbanzos,7mm,sí,,,,no,legumbres
+PORO_00,#ERROR!,Poroto Mung,,sí,,,,no,legumbres
+PORO_01,#ERROR!,Poroto Negro,,sí,,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/PORO_01.jpg,no,legumbres
+PORO_02,#ERROR!,Poroto Aduki,,sí,,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/PORO_02.jpg,no,legumbres
+PORO_03,#ERROR!,Poroto Alubia,,sí,,,,no,legumbres
+MAIZ_00,#ERROR!,Maíz piscingallo,,sí,,,,no,cereales
+LENT_00,#ERROR!,Lentejas,5mm,sí,,,,no,legumbres
+HARI_00,#ERROR!,Harina integral de trigo,,sí,,,,no,harina
+HARI_01,#ERROR!,Harina integral de trigo,Marca Campo Claro,sí,,,,no,harina
+HARI_02,#ERROR!,Harina integral de centeno,Marca Campo Claro,sí,,,,no,harina
+HARI_03,#ERROR!,Harina de garbanzos,,sí,,,,no,harina
+HARI_04,#ERROR!,Harina de garbanzo,Marca 'Dicomere'. Orgánica. Sin TACC,sí,,,,no,sin TACC|harina|orgánico
+HARI_05,#ERROR!,Harina para arepas,Harina de maíz blanco precocido y molido marca Morixe,sí,,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/HARI_05.jpg,no,harina
+HARI_06,#ERROR!,Harina de almendras,,sí,,,,no,harina
+SALM_00,#ERROR!,Sal marina fina,Marca 'Macrozen',sí,,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/SALM_00.jpg,no,harina
+HARI_08,#ERROR!,Harina de chía,,sí,,,,no,harina
+HARI_09,#ERROR!,Harina de lino,,sí,,,,no,harina
+HARI_10,#ERROR!,Harina de arroz blanco,,sí,,,,no,harina
+HARI_11,#ERROR!,Harina de arroz yamani,Integral. Marca 'Dicomere'. Sin TACC,sí,,,,no,sin TACC|harina
+HARI_12,#ERROR!,Harina de arroz blanco,Sin TACC,sí,,,,no,sin TACC|harina
+HARI_13,#ERROR!,Harina de algarroba,,no,,,,no,harina
+MAIC_00,#ERROR!,Maicena,Fécula de maíz | Harina de almidón de maíz,sí,,,,no,harina
+FECU_00,#ERROR!,Fécula de mandioca,Marca FEMAG. Sin TACC,sí,,,,no,sin TACC|harina
+SALR_00,#ERROR!,Sal rosa del himalaya fina,,sí,,,,no,condimentos
+SALM_01,#ERROR!,Sal marina fina,Marca 'Frutos de mi tierra',sí,,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/SALM_01.jpg,no,condimentos
+SALM_02,#ERROR!,Sal marina gruesa,Marca 'Macrozen',sí,,,,no,condimentos
+SALM_03,#ERROR!,Sal marina gruesa FRUTOS DE MI TIERRA,Marca 'Frutos de mi tierra',sí,,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/SALM_03.jpg,no,sin TACC|condimentos
+PIME_00,#ERROR!,Pimenton ahumado,,no,,,,no,condimentos
+PIME_01,#ERROR!,Pimenton dulce,,no,,,,no,condimentos
+CURR_00,#ERROR!,Curry,,no,,,,no,condimentos
+CURC_00,#ERROR!,Cúrcuma,,no,,,,no,condimentos
+PROV_00,#ERROR!,Provenzal,,no,,,,no,condimentos
+AJIM_00,#ERROR!,Ají molido,,no,,,,no,condimentos
+PIMI_00,#ERROR!,Pimienta negra molida,,no,,,,no,condimentos
+PIMI_01,#ERROR!,Pimienta blanca molida,,sí,,,,no,condimentos
+OREG_00,#ERROR!,Orégano,,sí,,,,no,condimentos
+AJOP_00,#ERROR!,Ajo en polvo,,sí,,,,no,condimentos
+AJOG_00,#ERROR!,Ajo granulado,,sí,,,,no,condimentos
+COMI_00,#ERROR!,Comino,,sí,,,,no,condimentos
+NUEM_00,#ERROR!,Nuez moscada,,sí,,,,no,condimentos
+ROME_00,#ERROR!,Romero,,sí,,,,no,condimentos
+TOMI_00,#ERROR!,Tomillo 'Sumeidades',,sí,,,,no,condimentos
+MERK_00,#ERROR!,Merkén,,sí,,,,no,condimentos
+CHIM_00,#ERROR!,Chimichurri,,sí,,,,no,condimentos
+CANE_00,#ERROR!,Canela molida,,sí,,,,no,condimentos
+LAUR_00,#ERROR!,Laurel en hoja,,sí,,,,no,condimentos
+JENG_00,#ERROR!,Jengibre en polvo,,sí,,,,no,condimentos|te
+YERB_00,#ERROR!,Yerba 'Las Tunas',Yerba mate elaborada con palo. Estacionamiento natural,sí,,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/YERB_00.jpg,no,sin TACC|yerba
+YERB_01,#ERROR!,Yerba 'Maravilla' Natural 1/2 kilo (barbacuá),Barbacua con fuerte aroma y sabor. Agroecológica en transición,sí,,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/YERB_01.jpg,no,yerba
+YERB_02,#ERROR!,Yerba Picada Vieja x 1/2kg,,sí,,,,no,yerba|agroecológico
+YERB_03,#ERROR!,Yerba 'Roapipó' tradicional orgánica,,sí,,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/YERB_03.jpg,no,sin TACC|yerba|orgánico
+YERB_04,#ERROR!,Yerba Familia Zaragoza Barbacuá x 1/2kg,,sí,,,,no,yerba
+YERB_05,#ERROR!,Yerba Ajedrez Antiácida,,sí,,,,no,sin TACC|yerba
+YERB_06,#ERROR!,Yerba Ajedrez premium,,sí,,,,no,sin TACC|yerba
+YERB_07,#ERROR!,Yerba 'Aguantadora',Tradicional,sí,,,,no,sin TACC|yerba
+YERB_08,#ERROR!,Yerba 'Aguantadora',Tradicional,sí,,,,no,sin TACC|yerba
+YERB_09,#ERROR!,Yerba Sinceridad,Suave,sí,,,,no,sin TACC|yerba
+YERB_10,#ERROR!,Yerba Sinceridad,Suave,sí,,,,no,sin TACC|yerba
+YERB_11,#ERROR!,Yerba 'La Araucaria' Antiácida,,sí,,,,no,yerba
+YERB_12,#ERROR!,Yerba 'La Araucaria',Yerba mate uruguaya. Sabor fuerte,sí,,,,no,yerba
+MANZ_00,#ERROR!,Manzanilla suelta,Flores,sí,,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/MANZ_00.jpg,no,yuyitos|te
+MANZ_01,#ERROR!,Manzanilla,,sí,,,,no,yuyitos|te
+MANZ_02,#ERROR!,Manzanilla,,sí,,,,no,yuyitos|te
+BURR_00,#ERROR!,Burrito,,no,,,,no,yuyitos|te
+CEDR_00,#ERROR!,Cedrón,Hojas,no,,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/CEDR_00.jpg,no,yuyitos|te
+CARQ_00,#ERROR!,Carqueja,,no,,,,no,yuyitos|te
+TILO_00,#ERROR!,Tilo,,no,,,,no,yuyitos|te
+TENE_00,#ERROR!,Té negro,,no,,,,no,yuyitos|te
+TERO_00,#ERROR!,Té rojo,,no,,,,no,yuyitos|te
+TEVE_00,#ERROR!,Té verde,,no,,,,no,yuyitos|te
+BOLD_00,#ERROR!,Boldo,,sí,,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/BOLD_00.jpg,no,yuyitos|te
+POLE_00,#ERROR!,Poleo,,no,,,,no,yuyitos|te
+MENT_00,#ERROR!,Menta,,no,,,,no,yuyitos|te
+MARC_00,#ERROR!,Marcela,,no,,,,no,yuyitos|te
+PEPE_00,#ERROR!,Peperina,,no,,,,no,yuyitos|te
+SALV_00,#ERROR!,Salvia,,no,,,,no,yuyitos|te
+COLA_00,#ERROR!,Cola de caballo,,no,,,,no,yuyitos|te
+AMBA_00,#ERROR!,Ambay,,no,,,,no,yuyitos|te
+LLAN_00,#ERROR!,Llanten,,no,,,,no,yuyitos|te
+HIBI_00,#ERROR!,Hibiscus,,no,,,,no,yuyitos|te
+LAVA_00,#ERROR!,Lavanda,,no,,,,no,yuyitos|te
+VALE_00,#ERROR!,Valeriana,,no,,,,no,yuyitos|te
+ANIS_00,#ERROR!,Anis estrellado,,no,,,,no,te
+CAFE_00,#ERROR!,Café de algarroba 'Dicomere',,sí,,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/CAFE_00.jpg,no,sin TACC|te
+STEV_00,#ERROR!,Stevia en hojas,,no,,,,no,te
+MERM_00,#ERROR!,Mermeladas,,no,,,,no,
+MIEL_00,#ERROR!,Miel De Los Arrollos | Frasco de 1kg,,sí,,,,no,miel
+MIEL_01,#ERROR!,Miel cremosa 'La Colmena de Cristal',,sí,,,,no,miel
+MIEL_02,#ERROR!,Miel con jengibre,,no,,,,no,miel
+MIEL_03,#ERROR!,Miel fraccionada,,no,,,,no,miel
+PAST_00,#ERROR!,Pasta de maní,,no,,,,no,
+PAST_01,#ERROR!,Pasta de castañas de cajú,,no,,,,no,
+AZUC_00,#ERROR!,Azúcar mascabo,,no,,,,no,
+CACA_00,#ERROR!,Cacao amargo,,sí,,,,no,
+CACA_01,#ERROR!,Cacao amargo 'Colonial',,sí,,,,no,
+HONG_00,#ERROR!,Hongos secos Boletus,,sí,,,,no,hongos
+HUEV_00,#ERROR!,Huevos orgánicos maple x30 huevos,,sí,,,,no,
+COCO_00,#ERROR!,Coco rallado,,sí,,,,no,
+SOJA_00,#ERROR!,Soja texturizada orgánica,,no,,,,no,
+CHOC_00,#ERROR!,Chocolate Colonial Orgánico 60%,,sí,,,,no,sin TACC|orgánico
+CHOC_01,#ERROR!,Chocolate Colonial Orgánico 70%,,sí,,,,no,sin TACC|chocolate|orgánico
+CHOC_02,#ERROR!,Chocolate Colonial Orgánico 80%,,sí,,,,no,sin TACC|chocolate|orgánico
+CHOC_03,#ERROR!,Chocolate Colonial Orgánico 60%,,sí,,,,no,sin TACC|chocolate|orgánico
+CHOC_04,#ERROR!,Chocolate Colonial Orgánico 70%,,sí,,,,no,sin TACC|chocolate|orgánico
+CHOC_05,#ERROR!,Chocolate Colonial Orgánico 80%,,sí,,,,no,sin TACC|chocolate|orgánico
+CHOC_06,#ERROR!,Chocolate Colonial 70% sin azúcar,Con stevia,sí,,,,no,sin TACC|chocolate|orgánico
+MANI_03,#ERROR!,Maní con chocolate semiamargo,,sí,,,,no,chocolate
+PASA_02,#ERROR!,Pasa de uva con chocolate con leche,,sí,,,,no,chocolate
+AVEL_01,#ERROR!,Avellana con chocolate con leche,,sí,,,,no,chocolate
+TOMA_00,#ERROR!,Tomates secos,,no,,,,no,chocolate
+POLV_00,#ERROR!,Polvo hornear,,sí,,,,no,condimentos
+BICA_00,#ERROR!,Bicarbonato de sodio,,sí,,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/BICA_00.jpg,no,
+DULC_00,#ERROR!,Dulce de membrillo,,no,,,,no,
+DULC_01,#ERROR!,Dulce de batata,,no,,,,no,
+DULC_02,#ERROR!,Dulce de batata con chocolate,,no,,,,no,chocolate
+ESEN_00,#ERROR!,Esencia de vainilla,,no,,,,no,
+TOFU_00,#ERROR!,Tofu,,no,,,,no,novedades|condimentos
+TOMA_01,#ERROR!,Tomate triturado,,no,,,,no,
+LECH_00,#ERROR!,Leche de nuez pecan sin azúcar,Marca 'Pampa Vida',sí,,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/LECH_00.jpg,no,sin TACC|leches vegetales
+LECH_01,#ERROR!,Leche de maní con chocolate,Marca 'Pampa Vida',sí,,,,no,sin TACC|leches vegetales
+LECH_02,#ERROR!,Leche de almendras protein sin azúcar,Marca 'Pampa Vida',sí,,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/LECH_02.jpg,no,novedades|sin TACC|chocolate|leches vegetales
+ACEI_00,#ERROR!,Aceite de oliva,Marca 'El Árbol',sí,,,,no,aceite
+ACEI_01,#ERROR!,Aceite de oliva La Riojana 500ml,,sí,,,,no,aceite
+ACEI_02,#ERROR!,Aceite de oliva Terranova 500ml,,sí,,,,no,aceite
+ACEI_03,#ERROR!,Aceite de oliva Frutos del Norte 500ml,,sí,,,,no,aceite
+ACEI_04,#ERROR!,Aceite de coco Entre Nuts NEUTRO 500ml,,sí,,,,no,sin TACC|aceite
+ACEI_05,#ERROR!,Aceite de coco Entre Nuts NEUTRO 1000ml,,sí,,,,no,sin TACC|aceite
+ACEI_06,#ERROR!,Aceite de coco Entre Nuts VIRGEN 500ml,,sí,,,,no,sin TACC|aceite
+ACEI_07,#ERROR!,Aceite de coco Entre Nuts VIRGEN 1000ml,,sí,,,,no,sin TACC|aceite
+ACEI_08,#ERROR!,Aceite de lino marrón orgánico x 250ml,,sí,,,,no,aceite|orgánico
+ACEI_09,#ERROR!,Aceite de nuez pecan 500ml,,sí,,,,no,novedades|aceite
+ACEI_10,#ERROR!,Aceite de sésamo,,no,,,,no,aceite
+GHEE_00,#ERROR!,Ghee,,sí,,,,no,novedades|aceite
+SEMI_00,#ERROR!,Semillas de chía,,sí,,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/SEMI_00.jpg,no,semillas
+SEMI_01,#ERROR!,Semillas de girasol,Peladas sin tostar y sin sal,sí,,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/SEMI_01.jpg,no,semillas
+SEMI_02,#ERROR!,Semillas de lino marrón,,sí,,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/SEMI_02.jpg,no,semillas
+SEMI_03,#ERROR!,Semillas de sésamo blanco,,sí,,,,no,semillas
+SEMI_04,#ERROR!,Semillas de sésamo integral,,sí,,,,no,semillas
+SEMI_05,#ERROR!,Semillas de sésamo negro,,sí,,,,no,semillas
+SEMI_06,#ERROR!,Semillas de zapallo,,sí,,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/SEMI_06.jpg,no,semillas
+HONG_01,#ERROR!,Melena de león,,sí,,,,no,hongos
+HONG_02,#ERROR!,Reishi,,sí,,,,no,hongos
+HONG_03,#ERROR!,Cordy,,sí,,,,no,hongos
+HONG_04,#ERROR!,Shiitake,,sí,,,,no,hongos
+HONG_05,#ERROR!,Cola de pavo,,sí,,,,no,hongos
+BARR_00,#ERROR!,Barrita de cereal protéica ÍNTEGRA - Maní + chocolate,,sí,,,,no,snacks|chocolate
+BARR_01,#ERROR!,Barrita de cereal protéica ÍNTEGRA - Arándanos,,sí,,,,no,snacks
+BARR_02,#ERROR!,Barrita de cereal MUECAS - Cacao y avellanas,,sí,,,,no,snacks
+CANV_00,#ERROR!,CANVAS - Crackers chia; girasol y lino,,sí,,,,no,snacks
+CANV_01,#ERROR!,CANVAS - Oliva; chia & lino,,sí,,,,no,snacks
+CANV_02,#ERROR!,CANVAS - CANVAS - Chocolate y mani,,sí,,,,no,snacks|chocolate
+CANV_03,#ERROR!,CANVAS - Jengibre y chia,,sí,,,,no,snacks
+CANV_04,#ERROR!,CANVAS - Algarroba; canela; pasas y girasol,,sí,,,,no,snacks
+GALL_00,#ERROR!,Galletas de arroz,,no,,,,no,
+CREA_00,#ERROR!,Creatina,,no,,,,no,suplementos
+PROT_00,#ERROR!,Proteína vegetal,,no,,,,no,suplementos
+LEVA_00,#ERROR!,Levadura nutricional,Levadura de cerveza en polvo marca 'Nutrileva',sí,,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/LEVA_00.jpg,no,sin TACC|suplementos
+ESPI_00,#ERROR!,Espirulina,,no,,,,no,suplementos|condimentos
+MACA_00,#ERROR!,Maca peruana orgánica Kallpa,,sí,,,,no,suplementos|orgánico
+SUDA_00,#ERROR!,Pasta de dientes Sudanta,,sí,,,,no,condimentos
+BOLS_00,#ERROR!,Bolsita para hacer leches vegetales,,sí,,,,no,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
+,#ERROR!,,,,,,,,
