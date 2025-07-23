@@ -77,7 +77,7 @@ MERK_00,Merkén,Merkén,,sí,1380,los 100g,,no,condimentos
 CHIM_00,Chimichurri,Chimichurri,,sí,1420,los 100g,,no,condimentos
 CANE_00,Canela molida,Canela molida,,sí,2830,los 100g,,no,condimentos
 LAUR_00,Laurel en hoja,Laurel en hoja,,sí,2040,los 100g,,no,condimentos
-JENG_00,Jengibre en polvo,Jengibre en polvo,,sí,2360,los 100g,,no,condimentos|te
+JENG_00,Jengibre en polvo,Jengibre en polvo,,sí,2360,los 100g,,no,condimentos|tecitos
 YERB_00,Yerba 'Las Tunas',Yerba 'Las Tunas',Yerba mate elaborada con palo. Estacionamiento natural,sí,6500,1 paquete de 1kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/YERB_00.jpg,no,sin TACC|yerba
 YERB_01,Yerba 'Maravilla' Natural 1/2 kilo (barbacuá),Yerba 'Maravilla' Natural 1/2 kilo (barbacuá),Barbacua con fuerte aroma y sabor. Agroecológica en transición,sí,2860,el paquete de 500g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/YERB_01.jpg,no,yerba
 YERB_02,Yerba Picada Vieja x 1/2kg,Yerba Picada Vieja x 1/2kg,,sí,2860,el paquete de 500g,,no,yerba|agroecológico
@@ -91,31 +91,31 @@ YERB_09,Yerba Sinceridad,Yerba Sinceridad,Suave,sí,2280,el paquete de 500g,,no,
 YERB_10,Yerba Sinceridad,Yerba Sinceridad,Suave,sí,4290,1 paquete de 1kg,,no,sin TACC|yerba
 YERB_11,Yerba 'La Araucaria' Antiácida,Yerba 'La Araucaria' Antiácida,,sí,3900,1 paquete de 1kg,,no,yerba
 YERB_12,Yerba 'La Araucaria',Yerba 'La Araucaria',Yerba mate uruguaya. Sabor fuerte,sí,4420,1 paquete de 1kg,,no,yerba
-MANZ_00,Manzanilla suelta,Manzanilla suelta,Flores,sí,2990,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/MANZ_00.jpg,no,yuyitos|te
-MANZ_01,,Manzanilla,,sí,14980,el paquete de 500g,,no,yuyitos|te
-MANZ_02,,Manzanilla,,sí,7500,el paquete de 250g,,no,yuyitos|te
-BURR_00,Burrito,Burrito,,no,0,,,no,yuyitos|te
-CEDR_00,Cedrón,Cedrón,Hojas,no,0,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/CEDR_00.jpg,no,yuyitos|te
-CARQ_00,Carqueja,Carqueja,,no,0,,,no,yuyitos|te
-TILO_00,Tilo,Tilo,,no,0,,,no,yuyitos|te
-TENE_00,Té negro,Té negro,,no,0,,,no,yuyitos|te
-TERO_00,Té rojo,Té rojo,,no,0,,,no,yuyitos|te
-TEVE_00,Té verde,Té verde,,no,0,,,no,yuyitos|te
-BOLD_00,Boldo,Boldo,,sí,1490,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/BOLD_00.jpg,no,yuyitos|te
-POLE_00,Poleo,Poleo,,no,0,,,no,yuyitos|te
-MENT_00,Menta,Menta,,no,0,,,no,yuyitos|te
-MARC_00,Marcela,Marcela,,no,0,,,no,yuyitos|te
-PEPE_00,Peperina,Peperina,,no,0,,,no,yuyitos|te
-SALV_00,Salvia,Salvia,,no,0,,,no,yuyitos|te
-COLA_00,Cola de caballo,Cola de caballo,,no,0,,,no,yuyitos|te
-AMBA_00,Ambay,Ambay,,no,0,,,no,yuyitos|te
-LLAN_00,Llanten,Llanten,,no,0,,,no,yuyitos|te
-HIBI_00,Hibiscus,Hibiscus,,no,0,,,no,yuyitos|te
-LAVA_00,Lavanda,Lavanda,,no,0,,,no,yuyitos|te
-VALE_00,Valeriana,Valeriana,,no,0,,,no,yuyitos|te
-ANIS_00,Anis estrellado,Anis estrellado,,no,0,,,no,te
-CAFE_00,Café de algarroba 'Dicomere',Café de algarroba 'Dicomere',,sí,4390,el paquete de 200g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/CAFE_00.jpg,no,sin TACC|te
-STEV_00,Stevia en hojas,Stevia en hojas,,no,0,,,no,te
+MANZ_00,Manzanilla suelta,Manzanilla suelta,Flores,sí,2990,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/MANZ_00.jpg,no,yuyitos|tecitos
+MANZ_01,,Manzanilla,,sí,14980,el paquete de 500g,,no,yuyitos|tecitos
+MANZ_02,,Manzanilla,,sí,7500,el paquete de 250g,,no,yuyitos|tecitos
+BURR_00,Burrito,Burrito,,no,0,,,no,yuyitos|tecitos
+CEDR_00,Cedrón,Cedrón,Hojas,no,0,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/CEDR_00.jpg,no,yuyitos|tecitos
+CARQ_00,Carqueja,Carqueja,,no,0,,,no,yuyitos|tecitos
+TILO_00,Tilo,Tilo,,no,0,,,no,yuyitos|tecitos
+TENE_00,Té negro,Té negro,,no,0,,,no,yuyitos|tecitos
+TERO_00,Té rojo,Té rojo,,no,0,,,no,yuyitos|tecitos
+TEVE_00,Té verde,Té verde,,no,0,,,no,yuyitos|tecitos
+BOLD_00,Boldo,Boldo,,sí,1490,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/BOLD_00.jpg,no,yuyitos|tecitos
+POLE_00,Poleo,Poleo,,no,0,,,no,yuyitos|tecitos
+MENT_00,Menta,Menta,,no,0,,,no,yuyitos|tecitos
+MARC_00,Marcela,Marcela,,no,0,,,no,yuyitos|tecitos
+PEPE_00,Peperina,Peperina,,no,0,,,no,yuyitos|tecitos
+SALV_00,Salvia,Salvia,,no,0,,,no,yuyitos|tecitos
+COLA_00,Cola de caballo,Cola de caballo,,no,0,,,no,yuyitos|tecitos
+AMBA_00,Ambay,Ambay,,no,0,,,no,yuyitos|tecitos
+LLAN_00,Llanten,Llanten,,no,0,,,no,yuyitos|tecitos
+HIBI_00,Hibiscus,Hibiscus,,no,0,,,no,yuyitos|tecitos
+LAVA_00,Lavanda,Lavanda,,no,0,,,no,yuyitos|tecitos
+VALE_00,Valeriana,Valeriana,,no,0,,,no,yuyitos|tecitos
+ANIS_00,Anis estrellado,Anis estrellado,,no,0,,,no,tecitos
+CAFE_00,Café de algarroba 'Dicomere',Café de algarroba 'Dicomere',,sí,4390,el paquete de 200g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/CAFE_00.jpg,no,sin TACC|tecitos
+STEV_00,Stevia en hojas,Stevia en hojas,,no,0,,,no,tecitos
 MERM_00,Mermeladas,Mermeladas,,no,0,,,no,
 MIEL_00,Miel De Los Arrollos | Frasco de 1kg,Miel De Los Arrollos | Frasco de 1kg,,sí,5070,el frasco de 1kg,,no,miel
 MIEL_01,Miel cremosa 'La Colmena de Cristal',Miel cremosa 'La Colmena de Cristal',,sí,5460,el frasco de 1kg,,no,miel
