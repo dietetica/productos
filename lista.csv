@@ -1,5 +1,5 @@
 id,,producto,titulo,descripcion,hay_stock,precio,unidad,imagen,es_oferta,tags
-ARRO_00,#REF!,Arroz yamaní integral,Arroz yamaní,Integral,sí,1690,el kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/ARRO_00.jpg,no,cereales
+ARRO_00,CellImage,Arroz yamaní integral,Arroz yamaní,Integral,sí,1690,el kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/ARRO_00.jpg,no,cereales
 ARRO_01,,Arroz integral largo fino,Arroz integral largo fino,,sí,1150,el kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/ARRO_01.jpg,no,cereales
 AVEN_00,,Avena instantánea,Avena instantánea,Marca 'Industrias de avena',no,2220,el kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/AVEN_00.jpg,no,cereales
 AVEN_02,,Avena arrollada / tradicional | Campo Claro,Avena arrollada,También conocida como avena tradicional. Marca Campo Claro,sí,2960,el paquete de 500g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/AVEN_02.jpg,no,cereales
