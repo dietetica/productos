@@ -1,5 +1,5 @@
 titulo,descripcion,hay_stock,precio,unidad,imagen,es_oferta,tags
-Arroz yamaní,Integral,sí,1690,el kg,Arroz yamaní integral,no,cereales
+Arroz yamaní,Integral,sí,1690,el kg,https://drive.google.com/uc?export=view&id=1s_VLly9qnLgiotIlmbb336yrGD4P_ue_,no,cereales
 Arroz integral largo fino,,sí,1150,el kg,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/ARRO_01.jpg,no,cereales
 Avena instantánea,Marca 'Industrias de avena',no,2220,el kg,,no,cereales
 Avena arrollada,También conocida como avena tradicional. Marca Campo Claro,sí,2960,el paquete de 500g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/AVEN_02.jpg,no,cereales
