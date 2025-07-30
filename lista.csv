@@ -92,17 +92,16 @@ Yerba Sinceridad,Suave,sí,4290,1 paquete de 1kg,,no,sin TACC|yerba
 Yerba 'La Araucaria' Antiácida,,sí,3900,1 paquete de 1kg,,no,yerba
 Yerba 'La Araucaria',Yerba mate uruguaya. Sabor fuerte,sí,4420,1 paquete de 1kg,,no,yerba
 Manzanilla suelta,Flores,sí,2990,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/MANZ_00.jpg,no,yuyitos|tecitos
-,,,14980,el paquete de 500g,,,
-Burrito,,no,7500,el paquete de 250g,,no,yuyitos|tecitos
-Cedrón,Hojas,no,0,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/CEDR_00.jpg,no,yuyitos|tecitos
+Burrito,,no,14980,el paquete de 500g,,no,yuyitos|tecitos
+Cedrón,Hojas,no,7500,el paquete de 250g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/CEDR_00.jpg,no,yuyitos|tecitos
 Carqueja,,no,0,,,no,yuyitos|tecitos
 Tilo,,no,0,,,no,yuyitos|tecitos
 Té negro,,no,0,,,no,yuyitos|tecitos
 Té rojo,,no,0,,,no,yuyitos|tecitos
 Té verde,,no,0,,,no,yuyitos|tecitos
 Boldo,,sí,0,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/BOLD_00.jpg,no,yuyitos|tecitos
-Poleo,,no,1490,los 100g,,no,yuyitos|tecitos
-Menta,,no,0,,,no,yuyitos|tecitos
+Poleo,,no,0,,,no,yuyitos|tecitos
+Menta,,no,1490,los 100g,,no,yuyitos|tecitos
 Marcela,,no,0,,,no,yuyitos|tecitos
 Peperina,,no,0,,,no,yuyitos|tecitos
 Salvia,,no,0,,,no,yuyitos|tecitos
@@ -114,81 +113,82 @@ Lavanda,,no,0,,,no,yuyitos|tecitos
 Valeriana,,no,0,,,no,yuyitos|tecitos
 Anis estrellado,,no,0,,,no,tecitos
 Café de algarroba 'Dicomere',,sí,0,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/CAFE_00.jpg,no,sin TACC|tecitos
-Stevia en hojas,,no,4390,el paquete de 200g,,no,tecitos
-Mermeladas,,no,0,,,no,
+Stevia en hojas,,no,0,,,no,tecitos
+Mermeladas,,no,4390,el paquete de 200g,,no,
 Miel De Los Arrollos | Frasco de 1kg,,sí,0,,,no,miel
-Miel cremosa 'La Colmena de Cristal',,sí,5070,el frasco de 1kg,,no,miel
-Miel con jengibre,,no,5460,el frasco de 1kg,,no,miel
-Miel fraccionada,,no,0,,,no,miel
+Miel cremosa 'La Colmena de Cristal',,sí,0,,,no,miel
+Miel con jengibre,,no,5070,el frasco de 1kg,,no,miel
+Miel fraccionada,,no,5460,el frasco de 1kg,,no,miel
 Pasta de maní,,no,0,,,no,
 Pasta de castañas de cajú,,no,0,,,no,
 Azúcar mascabo,,no,0,,,no,
 Cacao amargo,,sí,0,,,no,
-Cacao amargo 'Colonial',,sí,1140,los 100g,,no,
-Hongos secos Boletus,,sí,2830,los 100g,,no,hongos
-Huevos orgánicos maple x30 huevos,,sí,1500,los 100g,,no,
-Coco rallado,,sí,11900,la unidad,,no,
-Soja texturizada orgánica,,no,890,los 100g,,no,
-Chocolate Colonial Orgánico 60%,,sí,0,,,no,sin TACC|orgánico
-Chocolate Colonial Orgánico 70%,,sí,4790,1 unidad de 100g,,no,sin TACC|chocolate|orgánico
-Chocolate Colonial Orgánico 80%,,sí,5200,1 unidad de 100g,,no,sin TACC|chocolate|orgánico
-Chocolate Colonial Orgánico 60%,,sí,5600,1 unidad de 100g,,no,sin TACC|chocolate|orgánico
-Chocolate Colonial Orgánico 70%,,sí,620,1 unidad de 16g,,no,sin TACC|chocolate|orgánico
-Chocolate Colonial Orgánico 80%,,sí,680,1 unidad de 16g,,no,sin TACC|chocolate|orgánico
-Chocolate Colonial 70% sin azúcar,Con stevia,sí,740,1 unidad de 16g,,no,sin TACC|chocolate|orgánico
-Maní con chocolate semiamargo,,sí,4090,1 unidad de 100g,,no,chocolate
-Pasa de uva con chocolate con leche,,sí,2290,los 100g,,no,chocolate
-Avellana con chocolate con leche,,sí,2170,los 100g,,no,chocolate
-Tomates secos,,no,3740,los 100g,,no,chocolate
-Polvo hornear,,sí,0,,,no,condimentos
-Bicarbonato de sodio,,sí,450,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/BICA_00.jpg,no,
-Dulce de membrillo,,no,200,los 100g,,no,
-Dulce de batata,,no,0,,,no,
+Cacao amargo 'Colonial',,sí,0,,,no,
+Hongos secos Boletus,,sí,1140,los 100g,,no,hongos
+Huevos orgánicos maple x30 huevos,,sí,2830,los 100g,,no,
+Coco rallado,,sí,1500,los 100g,,no,
+Soja texturizada orgánica,,no,11900,la unidad,,no,
+Chocolate Colonial Orgánico 60%,,sí,890,los 100g,,no,sin TACC|orgánico
+Chocolate Colonial Orgánico 70%,,sí,0,,,no,sin TACC|chocolate|orgánico
+Chocolate Colonial Orgánico 80%,,sí,4790,1 unidad de 100g,,no,sin TACC|chocolate|orgánico
+Chocolate Colonial Orgánico 60%,,sí,5200,1 unidad de 100g,,no,sin TACC|chocolate|orgánico
+Chocolate Colonial Orgánico 70%,,sí,5600,1 unidad de 100g,,no,sin TACC|chocolate|orgánico
+Chocolate Colonial Orgánico 80%,,sí,620,1 unidad de 16g,,no,sin TACC|chocolate|orgánico
+Chocolate Colonial 70% sin azúcar,Con stevia,sí,680,1 unidad de 16g,,no,sin TACC|chocolate|orgánico
+Maní con chocolate semiamargo,,sí,740,1 unidad de 16g,,no,chocolate
+Pasa de uva con chocolate con leche,,sí,4090,1 unidad de 100g,,no,chocolate
+Avellana con chocolate con leche,,sí,2290,los 100g,,no,chocolate
+Tomates secos,,no,2170,los 100g,,no,chocolate
+Polvo hornear,,sí,3740,los 100g,,no,condimentos
+Bicarbonato de sodio,,sí,0,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/BICA_00.jpg,no,
+Dulce de membrillo,,no,450,los 100g,,no,
+Dulce de batata,,no,200,los 100g,,no,
 Dulce de batata con chocolate,,no,0,,,no,chocolate
 Esencia de vainilla,,no,0,,,no,
 Tofu,,no,0,,,no,novedades|condimentos
 Tomate triturado,,no,0,,,no,
 Leche de nuez pecan sin azúcar,Marca 'Pampa Vida',sí,0,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/LECH_00.jpg,no,sin TACC|leches vegetales
-Leche de maní con chocolate,Marca 'Pampa Vida',sí,3820,el envase de 1 litro,,no,sin TACC|leches vegetales
+Leche de maní con chocolate,Marca 'Pampa Vida',sí,0,,,no,sin TACC|leches vegetales
 Leche de almendras protein sin azúcar,Marca 'Pampa Vida',sí,3820,el envase de 1 litro,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/LECH_02.jpg,no,novedades|sin TACC|chocolate|leches vegetales
-Aceite de oliva,Marca 'El Árbol',sí,5000,el envase de 1 litro,,no,aceite
-Aceite de oliva La Riojana 500ml,,sí,14080,la unidad,,no,aceite
-Aceite de oliva Terranova 500ml,,sí,15070,la unidad,,no,aceite
-Aceite de oliva Frutos del Norte 500ml,,sí,14030,la unidad,,no,aceite
-Aceite de coco Entre Nuts NEUTRO 500ml,,sí,11530,la unidad,,no,sin TACC|aceite
-Aceite de coco Entre Nuts NEUTRO 1000ml,,sí,6800,la unidad,,no,sin TACC|aceite
-Aceite de coco Entre Nuts VIRGEN 500ml,,sí,12850,la unidad,,no,sin TACC|aceite
-Aceite de coco Entre Nuts VIRGEN 1000ml,,sí,11700,la unidad,,no,sin TACC|aceite
-Aceite de lino marrón orgánico x 250ml,,sí,23960,la unidad,,no,aceite|orgánico
-Aceite de nuez pecan 500ml,,sí,6510,la unidad,,no,novedades|aceite
-Aceite de sésamo,,no,15600,la unidad,,no,aceite
-Ghee,,sí,0,,,no,novedades|aceite
-Semillas de chía,,sí,9490,la unidad,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/SEMI_00.jpg,no,semillas
-Semillas de girasol,Peladas sin tostar y sin sal,sí,850,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/SEMI_01.jpg,no,semillas
-Semillas de lino marrón,,sí,380,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/SEMI_02.jpg,no,semillas
-Semillas de sésamo blanco,,sí,200,los 100g,,no,semillas
-Semillas de sésamo integral,,sí,680,los 100g,,no,semillas
-Semillas de sésamo negro,,sí,270,los 100g,,no,semillas
-Semillas de zapallo,,sí,840,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/SEMI_06.jpg,no,semillas
-Melena de león,,sí,1160,los 100g,,no,hongos
-Reishi,,sí,26000,la unidad,,no,hongos
+Aceite de oliva,Marca 'El Árbol',sí,3820,el envase de 1 litro,,no,aceite
+Aceite de oliva La Riojana 500ml,,sí,5000,el envase de 1 litro,,no,aceite
+Aceite de oliva Terranova 500ml,,sí,14080,la unidad,,no,aceite
+Aceite de oliva Frutos del Norte 500ml,,sí,15070,la unidad,,no,aceite
+Aceite de coco Entre Nuts NEUTRO 500ml,,sí,14030,la unidad,,no,sin TACC|aceite
+Aceite de coco Entre Nuts NEUTRO 1000ml,,sí,11530,la unidad,,no,sin TACC|aceite
+Aceite de coco Entre Nuts VIRGEN 500ml,,sí,6800,la unidad,,no,sin TACC|aceite
+Aceite de coco Entre Nuts VIRGEN 1000ml,,sí,12850,la unidad,,no,sin TACC|aceite
+Aceite de lino marrón orgánico x 250ml,,sí,11700,la unidad,,no,aceite|orgánico
+Aceite de nuez pecan 500ml,,sí,23960,la unidad,,no,novedades|aceite
+Aceite de sésamo,,no,6510,la unidad,,no,aceite
+Ghee,,sí,15600,la unidad,,no,novedades|aceite
+Semillas de chía,,sí,0,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/SEMI_00.jpg,no,semillas
+Semillas de girasol,Peladas sin tostar y sin sal,sí,9490,la unidad,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/SEMI_01.jpg,no,semillas
+Semillas de lino marrón,,sí,850,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/SEMI_02.jpg,no,semillas
+Semillas de sésamo blanco,,sí,380,los 100g,,no,semillas
+Semillas de sésamo integral,,sí,200,los 100g,,no,semillas
+Semillas de sésamo negro,,sí,680,los 100g,,no,semillas
+Semillas de zapallo,,sí,270,los 100g,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/SEMI_06.jpg,no,semillas
+Melena de león,,sí,840,los 100g,,no,hongos
+Reishi,,sí,1160,los 100g,,no,hongos
 Cordy,,sí,26000,la unidad,,no,hongos
 Shiitake,,sí,26000,la unidad,,no,hongos
 Cola de pavo,,sí,26000,la unidad,,no,hongos
 Barrita de cereal protéica ÍNTEGRA - Maní + chocolate,,sí,26000,la unidad,,no,snacks|chocolate
-Barrita de cereal protéica ÍNTEGRA - Arándanos,,sí,1590,la unidad,,no,snacks
-Barrita de cereal MUECAS - Cacao y avellanas,,sí,1400,la unidad,,no,snacks
-CANVAS - Crackers chia; girasol y lino,,sí,1120,la unidad,,no,snacks
-CANVAS - Oliva; chia & lino,,sí,1240,la unidad,,no,snacks
-CANVAS - CANVAS - Chocolate y mani,,sí,1290,la unidad,,no,snacks|chocolate
-CANVAS - Jengibre y chia,,sí,1520,la unidad,,no,snacks
-CANVAS - Algarroba; canela; pasas y girasol,,sí,1320,la unidad,,no,snacks
-Galletas de arroz,,no,1430,la unidad,,no,
-Creatina,,no,0,,,no,suplementos
+Barrita de cereal protéica ÍNTEGRA - Arándanos,,sí,26000,la unidad,,no,snacks
+Barrita de cereal MUECAS - Cacao y avellanas,,sí,1590,la unidad,,no,snacks
+CANVAS - Crackers chia; girasol y lino,,sí,1400,la unidad,,no,snacks
+CANVAS - Oliva; chia & lino,,sí,1120,la unidad,,no,snacks
+CANVAS - CANVAS - Chocolate y mani,,sí,1240,la unidad,,no,snacks|chocolate
+CANVAS - Jengibre y chia,,sí,1290,la unidad,,no,snacks
+CANVAS - Algarroba; canela; pasas y girasol,,sí,1520,la unidad,,no,snacks
+Galletas de arroz,,no,1320,la unidad,,no,
+Creatina,,no,1430,la unidad,,no,suplementos
 Proteína vegetal,,no,0,,,no,suplementos
 Levadura nutricional,Levadura de cerveza en polvo marca 'Nutrileva',sí,0,,https://raw.githubusercontent.com/dieteticaaxelyjavi/productos/refs/heads/main/img/LEVA_00.jpg,no,sin TACC|suplementos
 Espirulina,,no,0,,,no,suplementos|condimentos
 Maca peruana orgánica Kallpa,,sí,0,,,no,suplementos|orgánico
-Pasta de dientes Sudanta,,sí,1440,el paquete de 500g,,no,condimentos
-Bolsita para hacer leches vegetales,,sí,0,,,no,
+Pasta de dientes Sudanta,,sí,0,,,no,condimentos
+Bolsita para hacer leches vegetales,,sí,1440,el paquete de 500g,,no,
+,,,0,,,,
 ,,,2860,la unidad,,,
