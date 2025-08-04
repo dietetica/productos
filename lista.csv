@@ -2,6 +2,7 @@ titulo,descripcion,hay_stock,precio,unidad,imagen,es_oferta,tags
 Yerba 'Las Tunas',Yerba mate elaborada con palo. Estacionamiento natural,sí,6500,1 paquete de 1kg,https://lh3.googleusercontent.com/d/10x-dCT2tZFW791BJLyQzeHUQugL6peGD,sí,ofertas|sin TACC|yerba
 Arroz yamaní,Integral,sí,1690,1kg,https://lh3.googleusercontent.com/d/1s_VLly9qnLgiotIlmbb336yrGD4P_ue_,no,cereales
 Fideos tallarines,Marca Campo Claro,sí,3250,1 paquete de 500g,https://lh3.googleusercontent.com/d/1pHum67G0q8neIUfppC061rAeBS8Y1sYq,no,sin TACC|cereales
+Almendras Non Pareil medianas,Variedad Non Pareil medianas,sí,2290,100g,https://lh3.googleusercontent.com/d/1PqpmLmc1-9GapFIeDuwn2MAR0PnZhRNz,no,frutos secos
 Arroz integral largo fino,,sí,1150,1kg,https://lh3.googleusercontent.com/d/1jgZbeZOEjr4-nozeXFehLw4i5hUWsTP_,no,cereales
 Avena instantánea,Marca 'Industrias de avena',no,2240,1kg,https://lh3.googleusercontent.com/d/1lPU4UqTU6G8fkYvoX3chPzdVyFIinG-u,no,cereales
 Avena arrollada,También conocida como avena tradicional. Marca Campo Claro,sí,2960,1 paquete de 500g,https://lh3.googleusercontent.com/d/1_iPH8FfrDD1trrtsckPOhkvud_1H19Vo,no,cereales
@@ -12,7 +13,6 @@ Fideos 'Soyarroz' tradicionales,,no,2660,1 paquete de 300g,https://lh3.googleuse
 Fideos 'Soyarroz' de espinaca,,sí,2660,1 paquete de 300g,https://lh3.googleusercontent.com/d/1It86b1-Mt_v8nbR8sh_wOk9DK7Bv68k1,no,sin TACC|cereales
 Fideos 'Soyarroz' de morrón,,sí,2660,1 paquete de 300g,https://lh3.googleusercontent.com/d/1qRLHbZX4lIYERb2Ug047UDyPHRBLghGF,no,sin TACC|cereales
 Fideos Soyarroz integrales,,sí,2660,1 paquete de 300g,https://lh3.googleusercontent.com/d/109G11ZsTU5XcRFiVcqbmfvU6M6no40Pb,no,sin TACC|cereales
-Almendras Non Pareil medianas,Variedad Non Pareil medianas,sí,2290,100g,https://lh3.googleusercontent.com/d/1PqpmLmc1-9GapFIeDuwn2MAR0PnZhRNz,no,frutos secos
 Fideos fettuccine con espinaca,Marca Campo Claro,sí,3530,1 paquete de 500g,https://lh3.googleusercontent.com/d/1T7Ri49KLM0hnnpb3d2m5-73F-L3TgZmI,no,sin TACC|cereales
 Fideos codito con harina de garbanzos,Marca Campo Claro,sí,3530,1 paquete de 500g,https://lh3.googleusercontent.com/d/1QIXLhmtTrl1NZ_6Q0rkDkZZuWY3sk1Xz,no,sin TACC|cereales
 Mijo,,sí,2170,1kg,https://lh3.googleusercontent.com/d/1SyJ427EfugmNZARcy4XNmRNT-SjYKsJ_,no,cereales
