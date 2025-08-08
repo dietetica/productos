@@ -1,6 +1,6 @@
 titulo,descripcion,hay_stock,precio,unidad,imagen,es_oferta,tags
 Almendras Non Pareil medianas,Variedad Non Pareil medianas,sí,2184,100g,https://lh3.googleusercontent.com/d/1PqpmLmc1-9GapFIeDuwn2MAR0PnZhRNz,no,frutos secos
-Yerba 'Las Tunas',Elaborada con palo. Estacionamiento natural,no,4420,1 paquete de 1kg,https://lh3.googleusercontent.com/d/10x-dCT2tZFW791BJLyQzeHUQugL6peGD,sí,ofertas|sin TACC|yerba
+Yerba 'Las Tunas',Elaborada con palo. Estacionamiento natural,sí,4420,1 paquete de 1kg,https://lh3.googleusercontent.com/d/10x-dCT2tZFW791BJLyQzeHUQugL6peGD,sí,ofertas|sin TACC|yerba
 Arroz yamaní,Integral,sí,2080,1kg,https://lh3.googleusercontent.com/d/1s_VLly9qnLgiotIlmbb336yrGD4P_ue_,no,cereales
 Aceite de oliva Frutos del Norte 500ml,,sí,14900,1 unidad,https://lh3.googleusercontent.com/d/1z0ZKZt7viB6b86LtlYHipUD6DX2hXe07,no,aceite
 Fideos tallarines,Marca Campo Claro,no,3250,1 paquete de 500g,https://lh3.googleusercontent.com/d/1pHum67G0q8neIUfppC061rAeBS8Y1sYq,no,sin TACC|cereales
@@ -59,59 +59,59 @@ Sal rosa del himalaya fina,,sí,3170,1kg,https://lh3.googleusercontent.com/d/124
 Sal marina fina,Marca 'Frutos de mi tierra',sí,970,1 paquete de 500g,https://lh3.googleusercontent.com/d/1M7pg8GE2f3ow6yWvubDT0nR8k_GftDfl,no,especias
 Sal marina gruesa,Marca 'Macrozen',sí,1800,1 paquete de 500g,https://lh3.googleusercontent.com/d/10q_bi6fBILrg4Dkyk1qJ6UclGtvvZhau,no,especias
 Sal marina gruesa FRUTOS DE MI TIERRA,Marca 'Frutos de mi tierra',sí,970,1 paquete de 500g,https://lh3.googleusercontent.com/d/1tSbVXbPCPU_s2R0Wu0lmvdtg9LiZx3dS,no,sin TACC|especias
-Pimenton ahumado,,no,1175,100g,https://lh3.googleusercontent.com/d/1n_mcDTmyDz8yuVNwcMaSVYA5SvPLAhZl,no,especias
-Pimenton dulce,,no,1240,100g,https://lh3.googleusercontent.com/d/1n_mcDTmyDz8yuVNwcMaSVYA5SvPLAhZl,no,especias
+Pimenton ahumado,,sí,1175,100g,https://lh3.googleusercontent.com/d/1n_mcDTmyDz8yuVNwcMaSVYA5SvPLAhZl,no,especias
+Pimenton dulce,,sí,1240,100g,https://lh3.googleusercontent.com/d/1n_mcDTmyDz8yuVNwcMaSVYA5SvPLAhZl,no,especias
 Curry,,no,0,100g,https://lh3.googleusercontent.com/d/1SvA6qU5EZb11q41ETwJNr2ZTnClAS17N,no,especias
-Cúrcuma,,no,1378,100g,https://lh3.googleusercontent.com/d/1m5ltxkU1TDVXN-Ka3Bj9ECXDorvD5JX3,no,especias
-Provenzal,,no,1105,100g,https://lh3.googleusercontent.com/d/14znZSilgynBdPwXSnkTqaI6y4dYDiFGk,no,especias
-Ají molido,,no,1365,100g,https://lh3.googleusercontent.com/d/1yEZsD89FF-Jwzu6bpdrE_6Y2M2adMv8B,no,especias
-Pimienta negra molida,,no,2995,100g,https://lh3.googleusercontent.com/d/1DfNzeUOSdMMCQujtS7Xn7Bv__KvCjwjW,no,especias
-Pimienta blanca molida,,no,4425,100g,https://lh3.googleusercontent.com/d/1jf9tARdmJOH7pc6OEWaywmhOvs5pI_lz,no,especias
+Cúrcuma,,sí,1378,100g,https://lh3.googleusercontent.com/d/1m5ltxkU1TDVXN-Ka3Bj9ECXDorvD5JX3,no,especias
+Provenzal,,sí,1105,100g,https://lh3.googleusercontent.com/d/14znZSilgynBdPwXSnkTqaI6y4dYDiFGk,no,especias
+Ají molido,,sí,1365,100g,https://lh3.googleusercontent.com/d/1yEZsD89FF-Jwzu6bpdrE_6Y2M2adMv8B,no,especias
+Pimienta negra molida,,sí,2995,100g,https://lh3.googleusercontent.com/d/1DfNzeUOSdMMCQujtS7Xn7Bv__KvCjwjW,no,especias
+Pimienta blanca molida,,sí,4425,100g,https://lh3.googleusercontent.com/d/1jf9tARdmJOH7pc6OEWaywmhOvs5pI_lz,no,especias
 Orégano,,no,660,100g,https://lh3.googleusercontent.com/d/1thPUp2KhAQcDV6SEDp0p_R7qcgcH0kj7,no,especias
-Ajo en polvo,,no,1014,100g,https://lh3.googleusercontent.com/d/1X6jkV3xUNeOKoCXA1FLApDvFhSRSC-a4,no,especias
+Ajo en polvo,,sí,1014,100g,https://lh3.googleusercontent.com/d/1X6jkV3xUNeOKoCXA1FLApDvFhSRSC-a4,no,especias
 Ajo granulado,,sí,941,100g,https://lh3.googleusercontent.com/d/1Or0rPGOlHiEBRx-JBnCbxd_XyFqYnNLP,no,especias
-Comino,,no,1955,100g,https://lh3.googleusercontent.com/d/1ux2jxRL9AkfFGsxPrG8FESlfkebQ256q,no,especias
-Nuez moscada,,no,3125,100g,https://lh3.googleusercontent.com/d/1syV9d0vZ-JC2SAz3EhDMKBBc9m0UefQu,no,especias
-Romero,,no,1630,100g,https://lh3.googleusercontent.com/d/19jUhCvN1ShWofGGneRsRzj4aeK2uy19y,no,especias
-Tomillo 'Sumeidades',,no,889,100g,https://lh3.googleusercontent.com/d/17CCsQaOOktuC_vVQdMcVm089RZm-EtFe,no,especias
-Merkén,,no,1144,100g,https://lh3.googleusercontent.com/d/1p_w8sPu7FIXMzHWJ1zi8toBEyZNgyUMR,no,especias
-Chimichurri,,no,1175,100g,https://lh3.googleusercontent.com/d/1vU6mi1jy-cVICKPOvLW7lSW6PWP5kGlR,no,especias
-Canela molida,,no,2345,100g,https://lh3.googleusercontent.com/d/1wX6Ox0hOzWGupMyyzA40x9BsMrkEZLAY,no,especias
-Laurel en hoja,,no,2189,100g,https://lh3.googleusercontent.com/d/15YLOsAPJXGj1mNCvjTLnK2x7gqelqXg2,no,especias
-Jengibre en polvo,,no,1955,100g,https://lh3.googleusercontent.com/d/1Vmb65qj2a-0GXNWjKrwg2jCEXp2-LRqo,no,especias|tecitos
-Yerba 'Maravilla' Natural 1/2 kilo (barbacuá),Barbacua con fuerte aroma y sabor. Agroecológica en transición,no,3060,1 paquete de 500g,https://lh3.googleusercontent.com/d/13ND0rCuFqj3MbCrA-pelWp9NalQ80GFw,no,yerba
-Yerba Picada Vieja x 1/2kg,,no,3610,1 paquete de 500g,https://lh3.googleusercontent.com/d/1Ia4ZaVLbqU5qFpV2Og9cC0e1p5kYyjTw,no,yerba|agroecológico
+Comino,,sí,1955,100g,https://lh3.googleusercontent.com/d/1ux2jxRL9AkfFGsxPrG8FESlfkebQ256q,no,especias
+Nuez moscada,,sí,3125,100g,https://lh3.googleusercontent.com/d/1syV9d0vZ-JC2SAz3EhDMKBBc9m0UefQu,no,especias
+Romero,,sí,1630,100g,https://lh3.googleusercontent.com/d/19jUhCvN1ShWofGGneRsRzj4aeK2uy19y,no,especias
+Tomillo 'Sumeidades',,sí,889,100g,https://lh3.googleusercontent.com/d/17CCsQaOOktuC_vVQdMcVm089RZm-EtFe,no,especias
+Merkén,,sí,1144,100g,https://lh3.googleusercontent.com/d/1p_w8sPu7FIXMzHWJ1zi8toBEyZNgyUMR,no,especias
+Chimichurri,,sí,1175,100g,https://lh3.googleusercontent.com/d/1vU6mi1jy-cVICKPOvLW7lSW6PWP5kGlR,no,especias
+Canela molida,,sí,2345,100g,https://lh3.googleusercontent.com/d/1wX6Ox0hOzWGupMyyzA40x9BsMrkEZLAY,no,especias
+Laurel en hoja,,sí,2189,100g,https://lh3.googleusercontent.com/d/15YLOsAPJXGj1mNCvjTLnK2x7gqelqXg2,no,especias
+Jengibre en polvo,,sí,1955,100g,https://lh3.googleusercontent.com/d/1Vmb65qj2a-0GXNWjKrwg2jCEXp2-LRqo,no,especias|tecitos
+Yerba 'Maravilla' Natural 1/2 kilo (barbacuá),Barbacua con fuerte aroma y sabor. Agroecológica en transición,sí,3060,1 paquete de 500g,https://lh3.googleusercontent.com/d/13ND0rCuFqj3MbCrA-pelWp9NalQ80GFw,no,yerba
+Yerba Picada Vieja x 1/2kg,,sí,3610,1 paquete de 500g,https://lh3.googleusercontent.com/d/1Ia4ZaVLbqU5qFpV2Og9cC0e1p5kYyjTw,no,yerba|agroecológico
 Yerba 'Roapipó' tradicional orgánica,,sí,7320,1 paquete de 1kg,https://lh3.googleusercontent.com/d/1qOMgwGTPHiAjklhLHO5RwIhcBOLSAPid,no,sin TACC|yerba|orgánico
 Yerba Familia Zaragoza Barbacuá x 1/2kg,,no,2600,1 paquete de 500g,https://lh3.googleusercontent.com/d/1T408jKOfKHzRXpBmdZwKldQ7WGppuVmu,no,yerba
-Yerba 'Aguantadora',Tradicional,no,2340,1 paquete de 500g,https://lh3.googleusercontent.com/d/1BQPTVSG1eZtnq0dAcQlEGRaPkZKeR6g-,no,sin TACC|yerba
-Yerba 'Aguantadora',Tradicional,no,4420,1 paquete de 1kg,https://lh3.googleusercontent.com/d/1BQPTVSG1eZtnq0dAcQlEGRaPkZKeR6g-,no,sin TACC|yerba
-Manzanilla flores,¡Flor de manzanilla!,no,2990,100g,https://lh3.googleusercontent.com/d/1GAMh5vTEP6wdvIZEUYbfO4Czlo1gZXCJ,sí,ofertas|yuyitos|tecitos
-Burrito,,no,15600,,https://lh3.googleusercontent.com/d/1ouENIwgBVz9sZm2PVLawraciVAbtrhUV,no,yuyitos|tecitos
-Cedrón,Hojas,no,15470,,https://lh3.googleusercontent.com/d/1KKv7MYGCHFrfMqGqOpWiQQhMnIGD4apO,no,yuyitos|tecitos
-Carqueja,,no,6370,,https://lh3.googleusercontent.com/d/1j5AApZncEFaTGINhftlzMkE7FMAQWxs1,no,yuyitos|tecitos
-Tilo,,no,63800,,https://lh3.googleusercontent.com/d/1cHIIM2jaBKoylma9uNC-Krl2JFOD2IDt,no,yuyitos|tecitos
-Té negro,,no,5460,,https://lh3.googleusercontent.com/d/1kR3EkfSqT7vLx3YdGtaHWqJotIq8cmL-,no,yuyitos|tecitos
-Té rojo,,no,5460,,https://lh3.googleusercontent.com/d/1C2Blqm3wEf1pOQMOR6M5U14FuaqLaTb_,no,yuyitos|tecitos
-Té verde,,no,5460,,https://lh3.googleusercontent.com/d/11nrRal7Zi0MKqYnafHXBVLVsK-3Cmqoj,no,yuyitos|tecitos
+Yerba 'Aguantadora',Tradicional,sí,2340,1 paquete de 500g,https://lh3.googleusercontent.com/d/1BQPTVSG1eZtnq0dAcQlEGRaPkZKeR6g-,no,sin TACC|yerba
+Yerba 'Aguantadora',Tradicional,sí,4420,1 paquete de 1kg,https://lh3.googleusercontent.com/d/1BQPTVSG1eZtnq0dAcQlEGRaPkZKeR6g-,no,sin TACC|yerba
+Manzanilla flores,¡Flor de manzanilla!,sí,2990,100g,https://lh3.googleusercontent.com/d/1GAMh5vTEP6wdvIZEUYbfO4Czlo1gZXCJ,sí,ofertas|yuyitos|tecitos
+Burrito,,sí,15600,,https://lh3.googleusercontent.com/d/1ouENIwgBVz9sZm2PVLawraciVAbtrhUV,no,yuyitos|tecitos
+Cedrón,Hojas,sí,15470,,https://lh3.googleusercontent.com/d/1KKv7MYGCHFrfMqGqOpWiQQhMnIGD4apO,no,yuyitos|tecitos
+Carqueja,,sí,6370,,https://lh3.googleusercontent.com/d/1j5AApZncEFaTGINhftlzMkE7FMAQWxs1,no,yuyitos|tecitos
+Tilo,,sí,63800,,https://lh3.googleusercontent.com/d/1cHIIM2jaBKoylma9uNC-Krl2JFOD2IDt,no,yuyitos|tecitos
+Té negro,,sí,5460,,https://lh3.googleusercontent.com/d/1kR3EkfSqT7vLx3YdGtaHWqJotIq8cmL-,no,yuyitos|tecitos
+Té rojo,,sí,5460,,https://lh3.googleusercontent.com/d/1C2Blqm3wEf1pOQMOR6M5U14FuaqLaTb_,no,yuyitos|tecitos
+Té verde,,sí,5460,,https://lh3.googleusercontent.com/d/11nrRal7Zi0MKqYnafHXBVLVsK-3Cmqoj,no,yuyitos|tecitos
 Boldo,,sí,1488,100g,https://lh3.googleusercontent.com/d/1ehLLROJsf0uswWeWnYJnQSbnKk3yS2wV,no,yuyitos|tecitos
-Poleo,,no,9750,,https://lh3.googleusercontent.com/d/1BzpRIH5zosetnv4EcH3Oem8iHEcTLx_X,no,yuyitos|tecitos
-Menta,,no,15650,,https://lh3.googleusercontent.com/d/1P2Sa1vvzvtRyWvUwewT19aaqxc7iWr6b,no,yuyitos|tecitos
-Marcela,,no,7850,,https://lh3.googleusercontent.com/d/1VU0r5IXzzw63K9smxTN8SOG_y7U_FKbr,no,yuyitos|tecitos
-Peperina,,no,16430,,https://lh3.googleusercontent.com/d/1kRT6TkK9RcMFriNjCU-VWs_oIMwwTjqF,no,yuyitos|tecitos
-Cola de caballo,,no,7670,,https://lh3.googleusercontent.com/d/1nUHSBt1RevkE-aN80Wcvo3NldTjvKtwy,no,yuyitos|tecitos
-Ambay,,no,6370,,https://lh3.googleusercontent.com/d/1tr21X5uGDPhbwBBijySo_hEEM297Yo-v,no,yuyitos|tecitos
-Llanten,,no,13310,,https://lh3.googleusercontent.com/d/1It5h1vbfk7kO6gGvMjbpXapazXxgX_1g,no,yuyitos|tecitos
-Hibiscus,,no,43000,,https://lh3.googleusercontent.com/d/1ZbwtHMWnXhxXxQFt-SNC-oY4VIm9L-xp,no,yuyitos|tecitos
-Lavanda,,no,31300,,https://lh3.googleusercontent.com/d/117upZ-1IjFJI9Cr4S8kcQYs43RRnWdVj,no,yuyitos|tecitos
-Anis estrellado,,no,44300,,https://lh3.googleusercontent.com/d/1PIs6qXunMu9w08fZK8CCYixST_-15qjb,no,tecitos
+Poleo,,sí,9750,,https://lh3.googleusercontent.com/d/1BzpRIH5zosetnv4EcH3Oem8iHEcTLx_X,no,yuyitos|tecitos
+Menta,,sí,15650,,https://lh3.googleusercontent.com/d/1P2Sa1vvzvtRyWvUwewT19aaqxc7iWr6b,no,yuyitos|tecitos
+Marcela,,sí,7850,,https://lh3.googleusercontent.com/d/1VU0r5IXzzw63K9smxTN8SOG_y7U_FKbr,no,yuyitos|tecitos
+Peperina,,sí,16430,,https://lh3.googleusercontent.com/d/1kRT6TkK9RcMFriNjCU-VWs_oIMwwTjqF,no,yuyitos|tecitos
+Cola de caballo,,sí,7670,,https://lh3.googleusercontent.com/d/1nUHSBt1RevkE-aN80Wcvo3NldTjvKtwy,no,yuyitos|tecitos
+Ambay,,sí,6370,,https://lh3.googleusercontent.com/d/1tr21X5uGDPhbwBBijySo_hEEM297Yo-v,no,yuyitos|tecitos
+Llanten,,sí,13310,,https://lh3.googleusercontent.com/d/1It5h1vbfk7kO6gGvMjbpXapazXxgX_1g,no,yuyitos|tecitos
+Hibiscus,,sí,43000,,https://lh3.googleusercontent.com/d/1ZbwtHMWnXhxXxQFt-SNC-oY4VIm9L-xp,no,yuyitos|tecitos
+Lavanda,,sí,31300,,https://lh3.googleusercontent.com/d/117upZ-1IjFJI9Cr4S8kcQYs43RRnWdVj,no,yuyitos|tecitos
+Anis estrellado,,sí,44300,,https://lh3.googleusercontent.com/d/1PIs6qXunMu9w08fZK8CCYixST_-15qjb,no,tecitos
 Café de algarroba 'Dicomere',,sí,4390,1 paquete de 200g,https://lh3.googleusercontent.com/d/1bMbmXczsOnqUaHzHAj0kmnGlPeDHE-ca,no,sin TACC|tecitos
 Stevia en hojas,,no,0,,https://lh3.googleusercontent.com/d/195gkhdpmzr8s91Vkd4eD4w1AjXaB5u4A,no,tecitos
-Mermeladas,,no,4940,,https://lh3.googleusercontent.com/d/1UvDzfTJi0iBGcYQ6I7PsuNr8GdrOHCEk,sí,ofertas
-Miel De Los Arrollos | Frasco de 1kg,,no,5720,1 frasco de 1kg,https://lh3.googleusercontent.com/d/1cf68l4VZNEiIcdSnHpMGVmoIB4_1Ufhs,no,miel
-Miel De Los Arrollos,,no,3510,1 frasco de 500g,,,
+Mermeladas,,sí,4940,,https://lh3.googleusercontent.com/d/1UvDzfTJi0iBGcYQ6I7PsuNr8GdrOHCEk,sí,ofertas
+Miel De Los Arrollos | Frasco de 1kg,,sí,5720,1 frasco de 1kg,https://lh3.googleusercontent.com/d/1cf68l4VZNEiIcdSnHpMGVmoIB4_1Ufhs,no,miel
+Miel De Los Arrollos,,sí,3510,1 frasco de 500g,,,
 Miel cremosa 'La Colmena de Cristal',,no,5460,1 frasco de 1kg,https://lh3.googleusercontent.com/d/1GCKcHDgQ_ZenKjUe86b3HRA6N2NjQBeS,no,miel
-Miel con jengibre,,no,3120,1 frasco de 240g,https://lh3.googleusercontent.com/d/16U43C5vJ7tFo9qmMqmRUAhk-HVj-k_DT,no,miel
-Mentomiel,,no,3250,1 frasco de 240g,,no,miel
+Miel con jengibre,,sí,3120,1 frasco de 240g,https://lh3.googleusercontent.com/d/16U43C5vJ7tFo9qmMqmRUAhk-HVj-k_DT,no,miel
+Mentomiel,,sí,3250,1 frasco de 240g,,no,miel
 Miel fraccionada,,no,0,,,no,miel
 Pasta de maní,,sí,2430,,https://lh3.googleusercontent.com/d/1OD-baPXu_L_ySSrV5DVOUjcJD3UWka-I,no,
 Pasta de castañas de cajú,,sí,2670,,https://lh3.googleusercontent.com/d/1aFqrXeWRubozNkJuA_lABYmldZ8GoNTJ,no,
@@ -136,7 +136,7 @@ Avellana con chocolate con leche,,no,3741,100g,,no,chocolate
 Tomates secos,,sí,14470,,https://lh3.googleusercontent.com/d/1pHsYLESdtQDecvZ1Fnq1KML5O4sk3czs,no,
 Polvo hornear,,sí,446,100g,https://lh3.googleusercontent.com/d/1f21bTGf8cptHNrHCbovt0Y1lnsHFUg-K,no,especias
 Bicarbonato de sodio,,no,212,100g,https://lh3.googleusercontent.com/d/1ICXjp9aWY5hohodMS_vlEcTXzPdokHsu,no,
-Extracto de vainilla,Marca 'El Castillo' x100ml,no,,,,sí,ofertas
+Extracto de vainilla,Marca 'El Castillo' x100ml,sí,,,,sí,ofertas
 Tofu,,no,0,,,no,especias
 Tomate triturado,,no,0,,,no,
 Leche de nuez pecan sin azúcar,Marca 'Pampa Vida',sí,3680,1 envase de 1 litro,https://lh3.googleusercontent.com/d/1CZO1dfgfIGo_uA6RUUFj9vyt7fnto4D8,no,sin TACC|leches vegetales
@@ -153,7 +153,7 @@ Aceite de coco Entre Nuts VIRGEN 1000ml,,no,29520,1 unidad,,no,sin TACC|aceite
 Aceite de lino marrón orgánico x 250ml,,sí,6510,1 unidad,https://lh3.googleusercontent.com/d/1VglNiL-sRJt4MXe5XefvvyloORXkf8aU,no,aceite|orgánico
 Aceite de nuez pecan 500ml,,no,15600,1 unidad,,no,novedades|aceite
 Aceite de sésamo,,no,0,,,no,aceite
-Ghee,,no,10620,1 unidad,https://lh3.googleusercontent.com/d/1w5FHkkG3XxNmuQJCP14QU34N6JeJvgm-,no,novedades|aceite
+Ghee,,sí,10620,1 unidad,https://lh3.googleusercontent.com/d/1w5FHkkG3XxNmuQJCP14QU34N6JeJvgm-,no,novedades|aceite
 Quinoa,,sí,6650,1kg,https://lh3.googleusercontent.com/d/1XiLf3lCQN9yUme0gtp8HnZcfcfNzUnDx,no,cereales
 Semillas de chía,,no,620,100g,https://lh3.googleusercontent.com/d/1hfHo2j1CFUhH4cYMQsGVnV1t5zArOzbg,no,semillas
 Semillas de girasol,Peladas sin tostar y sin sal,sí,401,100g,https://lh3.googleusercontent.com/d/10cHBgDSqVL1Z7kzFQml1KHcRZPpJbQSq,sí,ofertas|semillas
