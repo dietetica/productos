@@ -17,8 +17,8 @@ Fideos fettuccine con espinaca orgánicos,Marca Campo Claro,no,3530,1 paquete de
 Fideos codito con harina de garbanzos orgánicos,Marca Campo Claro,no,3530,1 paquete de 500g,https://lh3.googleusercontent.com/d/1QIXLhmtTrl1NZ_6Q0rkDkZZuWY3sk1Xz,no,cereales|orgánico
 Semillas de Mijo,,sí,2170,1kg,https://lh3.googleusercontent.com/d/1SyJ427EfugmNZARcy4XNmRNT-SjYKsJ_,no,cereales
 Avellanas,,sí,2535,| 100g,https://lh3.googleusercontent.com/d/1MCs1vkKkHIfEktw8ri33x2SR4fF-k6Lq,no,frutos secos
-Castañas de cajú tostadas,,sí,1755,| 100g,https://lh3.googleusercontent.com/d/1fs3ODi64zAfnL6WNTS0SWCIAWgg68afK,no,frutos secos
-Castañas de cajú crudas partidas,,sí,1293,| 100g,https://lh3.googleusercontent.com/d/1rAIPWGpup7i0VK0hkX9N4DxIGTHFZqUJ,no,frutos secos
+Castañas de cajú tostadas,,sí,1755,| 100g,https://lh3.googleusercontent.com/d/1fs3ODi64zAfnL6WNTS0SWCIAWgg68afK,no,#VALUE!
+Castañas de cajú crudas partidas,,sí,1293,| 100g,https://lh3.googleusercontent.com/d/1rAIPWGpup7i0VK0hkX9N4DxIGTHFZqUJ,no,#VALUE!
 Dátiles,Naturales con carozo,sí,554,| 100g,https://lh3.googleusercontent.com/d/1t4H5OQaMEpR0nIM61uwS7-bvwZFiN-Eq,no,frutos secos
 Maní tostado sin sal,,sí,253,| 100g,https://lh3.googleusercontent.com/d/18mP3UT901XXRfkhTsUbuMwQj-3g-fe4h,no,frutos secos
 Maní tostado con sal,,sí,253,| 100g,https://lh3.googleusercontent.com/d/16cpvcL1mkSlhA_q77CidqK2YBIgL_X57,no,frutos secos
@@ -60,8 +60,8 @@ Sal marina fina,Marca 'Frutos de mi tierra',sí,970,1 paquete de 500g,https://lh
 Sal marina gruesa,Marca 'Frutos de mi tierra',sí,970,1 paquete de 500g,https://lh3.googleusercontent.com/d/1tSbVXbPCPU_s2R0Wu0lmvdtg9LiZx3dS,no,especias
 Pimenton ahumado,,sí,1175,| 100g,https://lh3.googleusercontent.com/d/1n_mcDTmyDz8yuVNwcMaSVYA5SvPLAhZl,no,especias
 Pimenton dulce,,sí,1240,| 100g,https://lh3.googleusercontent.com/d/1n_mcDTmyDz8yuVNwcMaSVYA5SvPLAhZl,no,especias
-Curry,,no,0,| 100g,https://lh3.googleusercontent.com/d/1SvA6qU5EZb11q41ETwJNr2ZTnClAS17N,no,especias
-Cúrcuma,,sí,1378,| 100g,https://lh3.googleusercontent.com/d/1m5ltxkU1TDVXN-Ka3Bj9ECXDorvD5JX3,no,especias
+Curry,,no,0,| 100g,https://lh3.googleusercontent.com/d/1SvA6qU5EZb11q41ETwJNr2ZTnClAS17N,no,#VALUE!
+Cúrcuma,,sí,1378,| 100g,https://lh3.googleusercontent.com/d/1m5ltxkU1TDVXN-Ka3Bj9ECXDorvD5JX3,no,#VALUE!
 Provenzal,,sí,1105,| 100g,https://lh3.googleusercontent.com/d/14znZSilgynBdPwXSnkTqaI6y4dYDiFGk,no,especias
 Ají molido,,sí,1365,| 100g,https://lh3.googleusercontent.com/d/1yEZsD89FF-Jwzu6bpdrE_6Y2M2adMv8B,no,especias
 Pimienta negra molida,,sí,2995,| 100g,https://lh3.googleusercontent.com/d/1DfNzeUOSdMMCQujtS7Xn7Bv__KvCjwjW,no,especias
@@ -69,13 +69,13 @@ Pimienta blanca molida,,sí,4425,| 100g,https://lh3.googleusercontent.com/d/1jf9
 Orégano,,sí,660,| 100g,https://lh3.googleusercontent.com/d/1thPUp2KhAQcDV6SEDp0p_R7qcgcH0kj7,no,especias
 Ajo en polvo,,sí,1014,| 100g,https://lh3.googleusercontent.com/d/1X6jkV3xUNeOKoCXA1FLApDvFhSRSC-a4,no,especias
 Ajo granulado,,sí,941,| 100g,https://lh3.googleusercontent.com/d/1Or0rPGOlHiEBRx-JBnCbxd_XyFqYnNLP,no,especias
-Comino,,sí,1955,| 100g,https://lh3.googleusercontent.com/d/1ux2jxRL9AkfFGsxPrG8FESlfkebQ256q,no,especias
+Comino,,sí,1955,| 100g,https://lh3.googleusercontent.com/d/1ux2jxRL9AkfFGsxPrG8FESlfkebQ256q,no,#VALUE!
 Nuez moscada,,sí,3125,| 100g,https://lh3.googleusercontent.com/d/1syV9d0vZ-JC2SAz3EhDMKBBc9m0UefQu,no,especias
 Romero,,sí,1630,| 100g,https://lh3.googleusercontent.com/d/19jUhCvN1ShWofGGneRsRzj4aeK2uy19y,no,especias
 Tomillo 'Sumeidades',,sí,889,| 100g,https://lh3.googleusercontent.com/d/17CCsQaOOktuC_vVQdMcVm089RZm-EtFe,no,especias
 Merkén,,sí,1144,| 100g,https://lh3.googleusercontent.com/d/1p_w8sPu7FIXMzHWJ1zi8toBEyZNgyUMR,no,especias
-Chimichurri,,sí,1175,| 100g,https://lh3.googleusercontent.com/d/1vU6mi1jy-cVICKPOvLW7lSW6PWP5kGlR,no,especias
-Canela molida,,sí,2345,| 100g,https://lh3.googleusercontent.com/d/1wX6Ox0hOzWGupMyyzA40x9BsMrkEZLAY,no,especias
+Chimichurri,,sí,1175,| 100g,https://lh3.googleusercontent.com/d/1vU6mi1jy-cVICKPOvLW7lSW6PWP5kGlR,no,#VALUE!
+Canela molida,,sí,2345,| 100g,https://lh3.googleusercontent.com/d/1wX6Ox0hOzWGupMyyzA40x9BsMrkEZLAY,no,#VALUE!
 Laurel en hoja,,sí,2189,| 100g,https://lh3.googleusercontent.com/d/15YLOsAPJXGj1mNCvjTLnK2x7gqelqXg2,no,especias
 Jengibre en polvo,,sí,1955,| 100g,https://lh3.googleusercontent.com/d/1Vmb65qj2a-0GXNWjKrwg2jCEXp2-LRqo,no,especias|tecitos
 Yerba 'Maravilla' 1/2kg,Barbacuá intenso - agroecológica,sí,3060,1 paquete de 500g,https://lh3.googleusercontent.com/d/13ND0rCuFqj3MbCrA-pelWp9NalQ80GFw,no,sin TACC|yerba|agroecológico
@@ -85,25 +85,25 @@ Yerba 'Familia Zaragoza' 1/2kg,Barbacuá intenso,no,2600,1 paquete de 500g,https
 Yerba 'Aguantadora' 1/2kg,,sí,2340,1 paquete de 500g,https://lh3.googleusercontent.com/d/1BQPTVSG1eZtnq0dAcQlEGRaPkZKeR6g-,no,sin TACC|yerba
 Yerba 'Aguantadora' 1kg,,sí,4420,1 paquete de 1kg,https://lh3.googleusercontent.com/d/1BQPTVSG1eZtnq0dAcQlEGRaPkZKeR6g-,no,sin TACC|yerba
 Manzanilla,¡Flor de manzanilla!,sí,2990,| 100g,https://lh3.googleusercontent.com/d/1GAMh5vTEP6wdvIZEUYbfO4Czlo1gZXCJ,no,yuyitos|tecitos
-Burrito,,sí,1560,| 100g,https://lh3.googleusercontent.com/d/1ouENIwgBVz9sZm2PVLawraciVAbtrhUV,no,yuyitos|tecitos
-Cedrón,,sí,1547,| 100g,https://lh3.googleusercontent.com/d/1KKv7MYGCHFrfMqGqOpWiQQhMnIGD4apO,no,yuyitos|tecitos
-Carqueja,,sí,637,| 100g,https://lh3.googleusercontent.com/d/1j5AApZncEFaTGINhftlzMkE7FMAQWxs1,no,yuyitos|tecitos
+Burrito,,sí,1560,| 100g,https://lh3.googleusercontent.com/d/1ouENIwgBVz9sZm2PVLawraciVAbtrhUV,no,#VALUE!
+Cedrón,,sí,1547,| 100g,https://lh3.googleusercontent.com/d/1KKv7MYGCHFrfMqGqOpWiQQhMnIGD4apO,no,#VALUE!
+Carqueja,,sí,637,| 100g,https://lh3.googleusercontent.com/d/1j5AApZncEFaTGINhftlzMkE7FMAQWxs1,no,#VALUE!
 Tilo,,sí,6380,| 100g,https://lh3.googleusercontent.com/d/1cHIIM2jaBKoylma9uNC-Krl2JFOD2IDt,no,yuyitos|tecitos
 Té negro,,sí,820,| 100g,https://lh3.googleusercontent.com/d/1kR3EkfSqT7vLx3YdGtaHWqJotIq8cmL-,no,yuyitos|tecitos
 Té rojo,,sí,820,| 100g,https://lh3.googleusercontent.com/d/1C2Blqm3wEf1pOQMOR6M5U14FuaqLaTb_,no,yuyitos|tecitos
 Té verde,,sí,820,| 100g,https://lh3.googleusercontent.com/d/11nrRal7Zi0MKqYnafHXBVLVsK-3Cmqoj,no,yuyitos|tecitos
-Boldo,,sí,1488,| 100g,https://lh3.googleusercontent.com/d/1ehLLROJsf0uswWeWnYJnQSbnKk3yS2wV,no,yuyitos|tecitos
+Boldo,,sí,1488,| 100g,https://lh3.googleusercontent.com/d/1ehLLROJsf0uswWeWnYJnQSbnKk3yS2wV,no,#VALUE!
 Poleo,,sí,975,| 100g,https://lh3.googleusercontent.com/d/1BzpRIH5zosetnv4EcH3Oem8iHEcTLx_X,no,yuyitos|tecitos
 Menta egipcia,,sí,1565,| 100g,https://lh3.googleusercontent.com/d/1P2Sa1vvzvtRyWvUwewT19aaqxc7iWr6b,no,yuyitos|tecitos
 Marcela,,sí,785,| 100g,https://lh3.googleusercontent.com/d/1VU0r5IXzzw63K9smxTN8SOG_y7U_FKbr,no,yuyitos|tecitos
 Peperina,,sí,,| 100g,https://lh3.googleusercontent.com/d/1kRT6TkK9RcMFriNjCU-VWs_oIMwwTjqF,no,yuyitos|tecitos
-Cola de caballo,,sí,767,| 100g,https://lh3.googleusercontent.com/d/1nUHSBt1RevkE-aN80Wcvo3NldTjvKtwy,no,yuyitos|tecitos
+Cola de caballo,,sí,767,| 100g,https://lh3.googleusercontent.com/d/1nUHSBt1RevkE-aN80Wcvo3NldTjvKtwy,no,#VALUE!
 Ambay,,sí,637,| 100g,https://lh3.googleusercontent.com/d/1tr21X5uGDPhbwBBijySo_hEEM297Yo-v,no,yuyitos|tecitos
 Llantén,,sí,1331,| 100g,https://lh3.googleusercontent.com/d/1It5h1vbfk7kO6gGvMjbpXapazXxgX_1g,no,yuyitos|tecitos
 Hibiscus,¡Flor de hibiscus!,sí,4300,| 100g,https://lh3.googleusercontent.com/d/1ZbwtHMWnXhxXxQFt-SNC-oY4VIm9L-xp,no,yuyitos|tecitos
 Lavanda,,sí,3130,| 100g,https://lh3.googleusercontent.com/d/117upZ-1IjFJI9Cr4S8kcQYs43RRnWdVj,no,yuyitos|tecitos
 Anis estrellado,Partido,sí,4430,| 100g,https://lh3.googleusercontent.com/d/1PIs6qXunMu9w08fZK8CCYixST_-15qjb,no,tecitos
-Café de algarroba,Marca 'Dicomere',sí,4390,1 paquete de 200g,https://lh3.googleusercontent.com/d/1bMbmXczsOnqUaHzHAj0kmnGlPeDHE-ca,no,sin TACC|tecitos
+Café de algarroba,Marca 'Dicomere',sí,4390,1 paquete de 200g,https://lh3.googleusercontent.com/d/1bMbmXczsOnqUaHzHAj0kmnGlPeDHE-ca,no,#VALUE!
 Stevia,En hojas,no,0,| 100g,https://lh3.googleusercontent.com/d/195gkhdpmzr8s91Vkd4eD4w1AjXaB5u4A,no,tecitos
 Mermelada de frutos rojos c/miel,,sí,4940,1 frasco de 500g,https://lh3.googleusercontent.com/d/1UvDzfTJi0iBGcYQ6I7PsuNr8GdrOHCEk,no,sin TACC
 Miel líquida 'De Los Arroyos',1kg,sí,5720,1 frasco de 1kg,https://lh3.googleusercontent.com/d/1cf68l4VZNEiIcdSnHpMGVmoIB4_1Ufhs,no,sin TACC|miel
@@ -127,13 +127,13 @@ Huevos,De libre pastoreo ☀️,sí,,,,no,
 Coco rallado,,sí,864,| 100g,https://lh3.googleusercontent.com/d/16Q_vgZmN_w1N0cIfY2eWEPoIyQeWbvOJ,no,
 Soja texturizada orgánica,,no,0,,https://lh3.googleusercontent.com/d/1nKx4nOOM0ELZbWUEYXtH1dqOnPx9w1nk,no,
 Soja texturizada,,sí,,,,no,
-Chocolate Colonial Orgánico 60%,,no,4790,1 unidad de | 100g,https://lh3.googleusercontent.com/d/1N1m5sx9poeNYW5MFwDzKXtAZGSOey8EY,no,sin TACC|orgánico
-Chocolate Colonial Orgánico 70%,,no,5200,1 unidad de | 100g,https://lh3.googleusercontent.com/d/1XZaG27h7e1mOX2CU9ZFWqCuPX5C7dO1G,no,sin TACC|chocolate|orgánico
-Chocolate Colonial Orgánico 80%,,no,5600,1 unidad de | 100g,https://lh3.googleusercontent.com/d/1Cy3Pl8kuJ7griG8-5mdp324nKJN2LkZs,no,sin TACC|chocolate|orgánico
-Chocolate Colonial Orgánico 60%,,no,620,1 unidad de 16g,,no,sin TACC|chocolate|orgánico
-Chocolate Colonial Orgánico 70%,,no,680,1 unidad de 16g,,no,sin TACC|chocolate|orgánico
-Chocolate Colonial Orgánico 80%,,no,740,1 unidad de 16g,,no,sin TACC|chocolate|orgánico
-Chocolate Colonial 70% sin azúcar,Con stevia,no,4090,1 unidad de | 100g,https://lh3.googleusercontent.com/d/10cwTQToCjkO0jclHMh34E4G-iXYLNUuc,no,sin TACC|chocolate|orgánico
+Chocolate Colonial Orgánico 60%,,no,4790,1 unidad de | 100g,https://lh3.googleusercontent.com/d/1N1m5sx9poeNYW5MFwDzKXtAZGSOey8EY,no,#VALUE!
+Chocolate Colonial Orgánico 70%,,no,5200,1 unidad de | 100g,https://lh3.googleusercontent.com/d/1XZaG27h7e1mOX2CU9ZFWqCuPX5C7dO1G,no,#VALUE!
+Chocolate Colonial Orgánico 80%,,no,5600,1 unidad de | 100g,https://lh3.googleusercontent.com/d/1Cy3Pl8kuJ7griG8-5mdp324nKJN2LkZs,no,#VALUE!
+Chocolate Colonial Orgánico 60%,,no,620,1 unidad de 16g,,no,#VALUE!
+Chocolate Colonial Orgánico 70%,,no,680,1 unidad de 16g,,no,#VALUE!
+Chocolate Colonial Orgánico 80%,,no,740,1 unidad de 16g,,no,#VALUE!
+Chocolate Colonial 70% sin azúcar,Con stevia,no,4090,1 unidad de | 100g,https://lh3.googleusercontent.com/d/10cwTQToCjkO0jclHMh34E4G-iXYLNUuc,no,#VALUE!
 Maní con chocolate,,no,2294,| 100g,,no,frutos secos|chocolate
 Pasa de uva con chocolate ,,no,2172,| 100g,,no,frutos secos|chocolate
 Avellana con chocolate,,no,3741,| 100g,,no,frutos secos|chocolate
@@ -177,13 +177,13 @@ Cola de pavo,Marca 'FungaGen',no,26000,1 unidad,https://lh3.googleusercontent.co
 ÍNTEGRA - Barrita de cereal - Puro cacao,Barra de avena; cacao y chips de chocolate,sí,,,,no,
 ÍNTEGRA - Barrita de cereal - Banana y Nuéz,Barra de avena; banana deshidratada y nuéz,sí,,,,no,
 MUECAS - Barrita de cereal - Cacao y avellanas,Barra de cereales; avellana; coco y cacao,sí,1200,1 unidad,https://lh3.googleusercontent.com/d/1JA2h25SSXC3FHaiFWIMPkNTF6W2l9Mmu,no,snacks
-CANVAS - Chía; girasol y lino,,sí,1750,1 unidad,https://lh3.googleusercontent.com/d/1L8j4Jizlg6lk6QffAeU7nWxwFWt9Y0DO,no,snacks
-CANVAS - Oliva; chia & lino,,sí,1750,1 unidad,https://lh3.googleusercontent.com/d/1wHw-lQgJl_PeUn4b7gkvnX2Pot5woTOF,no,snacks
-CANVAS - Chocolate y mani,,sí,1750,1 unidad,https://lh3.googleusercontent.com/d/1FIsNBRWS16rXV6-F_oB3Y19Sc_7EqbJn,no,snacks|chocolate
-CANVAS - Jengibre y chia,,sí,1750,1 unidad,https://lh3.googleusercontent.com/d/11WqcWkCi74OcEjI3_EDd_wCv5G9q3MxP,no,snacks
-CANVAS - Algarroba; canela; pasas y girasol,,sí,1430,1 unidad,https://lh3.googleusercontent.com/d/1cAuGeyjIj5AYmAGHhUyjPOIPnFJpkCXf,no,snacks
+CANVAS - Chía; girasol y lino,,sí,1750,1 unidad,https://lh3.googleusercontent.com/d/1L8j4Jizlg6lk6QffAeU7nWxwFWt9Y0DO,no,#VALUE!
+CANVAS - Oliva; chia & lino,,sí,1750,1 unidad,https://lh3.googleusercontent.com/d/1wHw-lQgJl_PeUn4b7gkvnX2Pot5woTOF,no,#VALUE!
+CANVAS - Chocolate y mani,,sí,1750,1 unidad,https://lh3.googleusercontent.com/d/1FIsNBRWS16rXV6-F_oB3Y19Sc_7EqbJn,no,#VALUE!
+CANVAS - Jengibre y chia,,sí,1750,1 unidad,https://lh3.googleusercontent.com/d/11WqcWkCi74OcEjI3_EDd_wCv5G9q3MxP,no,#VALUE!
+CANVAS - Algarroba; canela; pasas y girasol,,sí,1430,1 unidad,https://lh3.googleusercontent.com/d/1cAuGeyjIj5AYmAGHhUyjPOIPnFJpkCXf,no,#VALUE!
 Galletas de arroz,,no,0,,,no,
-Creatina monohidrato micronizada,,no,0,,,no,suplementos
+Creatina monohidrato micronizada,,no,0,,,no,#VALUE!
 Proteína vegetal,,no,0,,,no,suplementos
 Levadura nutricional,Levadura de cerveza en polvo marca 'Nutrileva',no,0,,https://lh3.googleusercontent.com/d/1oeTXJ_0ek-2UZJaZe687Qo0HpI3WVujT,no,sin TACC|suplementos
 Espirulina,,no,0,,,no,suplementos|especias
