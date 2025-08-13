@@ -27,8 +27,8 @@ Mix de frutos secos con pasas,,no,0,,,no,#VALUE!
 Mix de frutos secos sin pasas,,no,0,,,no,#VALUE!
 Nuez mariposa,Extra Light,no,1794,| 100g,https://lh3.googleusercontent.com/d/1o__FuUFhxEm89qghVaxC_aCpzHpSqLnM,no,#VALUE!
 Nuez pecán,,sí,2343,| 100g,https://lh3.googleusercontent.com/d/1m_Gayo130fpGguTve83x8SZhnbtICVeI,no,#VALUE!
-Pasa de uva morocha,Variedad jumbo,sí,571,| 100g,https://lh3.googleusercontent.com/d/1c-j42FDfBCr7OZGVwM7cAgsWjcldS0CC,no,#VALUE!
-Pasa de uva rubia,Variedad sultaninas,sí,816,| 100g,https://lh3.googleusercontent.com/d/1IcB8n4hfvGUq4xcNjL4uhObmmN6a_lqk,no,#VALUE!
+Pasa de uva morocha,Variedad jumbo,sí,571,| 100g,https://lh3.googleusercontent.com/d/1c-j42FDfBCr7OZGVwM7cAgsWjcldS0CC,no,frutos secos
+Pasa de uva rubia,Variedad sultaninas,sí,816,| 100g,https://lh3.googleusercontent.com/d/1IcB8n4hfvGUq4xcNjL4uhObmmN6a_lqk,no,frutos secos
 Peras deshidratadas,,sí,946,| 100g,https://lh3.googleusercontent.com/d/1gFi_ZfbHVPIgV0CiHGaONPcPbS4UVa-p,no,frutos secos
 Higos blancos,,sí,1071,| 100g,https://lh3.googleusercontent.com/d/1Cs_gZLEGVZzqtPYYTpV802WYolwEXM9g,no,#VALUE!
 Arvejas,Seca partida,sí,1080,1kg,https://lh3.googleusercontent.com/d/18QiuzBrNySCInzgICsngiaHvQextzTQN,no,legumbres
@@ -66,7 +66,7 @@ Provenzal,,sí,1105,| 100g,https://lh3.googleusercontent.com/d/14znZSilgynBdPwXS
 Ají molido,,sí,1365,| 100g,https://lh3.googleusercontent.com/d/1yEZsD89FF-Jwzu6bpdrE_6Y2M2adMv8B,no,especias
 Pimienta negra molida,,sí,2995,| 100g,https://lh3.googleusercontent.com/d/1DfNzeUOSdMMCQujtS7Xn7Bv__KvCjwjW,no,especias
 Pimienta blanca molida,,sí,4425,| 100g,https://lh3.googleusercontent.com/d/1jf9tARdmJOH7pc6OEWaywmhOvs5pI_lz,no,especias
-Orégano,,sí,660,| 100g,https://lh3.googleusercontent.com/d/1thPUp2KhAQcDV6SEDp0p_R7qcgcH0kj7,no,#VALUE!
+Orégano,,sí,660,| 100g,https://lh3.googleusercontent.com/d/1thPUp2KhAQcDV6SEDp0p_R7qcgcH0kj7,no,especias
 Ajo en polvo,,sí,1014,| 100g,https://lh3.googleusercontent.com/d/1X6jkV3xUNeOKoCXA1FLApDvFhSRSC-a4,no,especias
 Ajo granulado,,sí,941,| 100g,https://lh3.googleusercontent.com/d/1Or0rPGOlHiEBRx-JBnCbxd_XyFqYnNLP,no,especias
 Comino,,sí,1955,| 100g,https://lh3.googleusercontent.com/d/1ux2jxRL9AkfFGsxPrG8FESlfkebQ256q,no,#VALUE!
@@ -112,8 +112,8 @@ Miel cremosa 'La Colmena de Cristal',900g,no,5460,1 frasco de 1kg,https://lh3.go
 Miel con jengibre 240g,Marca 'Apidelta',sí,3120,1 frasco de 240g,https://lh3.googleusercontent.com/d/16U43C5vJ7tFo9qmMqmRUAhk-HVj-k_DT,no,#VALUE!
 Miel con menta 240g,Marca 'Apidelta',sí,3250,1 frasco de 240g,,no,#VALUE!
 Miel fraccionada,,no,0,,,no,#VALUE!
-Pasta de maní,Marca 'Entre Nuts',sí,2430,1 frasco de 370g,https://lh3.googleusercontent.com/d/1OD-baPXu_L_ySSrV5DVOUjcJD3UWka-I,no,#VALUE!
-Pasta de maní con cacao,Marca 'Entre Nuts',sí,2670,1 frasco de 370g,https://lh3.googleusercontent.com/d/1aFqrXeWRubozNkJuA_lABYmldZ8GoNTJ,no,#VALUE!
+Pasta de maní,Marca 'Entre Nuts',sí,2430,1 frasco de 370g,https://lh3.googleusercontent.com/d/1OD-baPXu_L_ySSrV5DVOUjcJD3UWka-I,no,sin TACC|frutos secos
+Pasta de maní con cacao,Marca 'Entre Nuts',sí,2670,1 frasco de 370g,https://lh3.googleusercontent.com/d/1aFqrXeWRubozNkJuA_lABYmldZ8GoNTJ,no,sin TACC|frutos secos
 Pasta de maní con coco,Marca 'Entre Nuts',sí,,,,no,
 Pasta de maní con stevia,Marca 'Entre Nuts',sí,,,,no,
 Tahini | Pasta de sésamo,Marca 'Zenny',sí,,,,no,
@@ -135,7 +135,7 @@ Chocolate Colonial Orgánico 70%,,no,680,1 unidad de 16g,,no,#VALUE!
 Chocolate Colonial Orgánico 80%,,no,740,1 unidad de 16g,,no,#VALUE!
 Chocolate Colonial 70% sin azúcar,Con stevia,no,4090,1 unidad de | 100g,https://lh3.googleusercontent.com/d/10cwTQToCjkO0jclHMh34E4G-iXYLNUuc,no,#VALUE!
 Maní con chocolate,,no,2294,| 100g,,no,#VALUE!
-Pasa de uva con chocolate ,,no,2172,| 100g,,no,#VALUE!
+Pasa de uva con chocolate ,,no,2172,| 100g,,no,frutos secos|chocolate
 Avellana con chocolate,,no,3741,| 100g,,no,frutos secos|chocolate
 Tomates secos,,sí,1447,| | 100g,https://lh3.googleusercontent.com/d/1pHsYLESdtQDecvZ1Fnq1KML5O4sk3czs,no,
 Polvo de hornear,,sí,446,| 100g,https://lh3.googleusercontent.com/d/1f21bTGf8cptHNrHCbovt0Y1lnsHFUg-K,no,especias
