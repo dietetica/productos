@@ -1,10 +1,10 @@
 titulo,descripcion,hay_stock,precio,unidad,imagen,es_oferta,tags
 Almendras Non Pareil,,sí,2184,| 100g,https://lh3.googleusercontent.com/d/1PqpmLmc1-9GapFIeDuwn2MAR0PnZhRNz,no,frutos secos
 Yerba 'Las Tunas',Elaborada con palo. Estacionamiento natural,sí,4420,| 1 paquete de 1kg,https://lh3.googleusercontent.com/d/10x-dCT2tZFW791BJLyQzeHUQugL6peGD,no,sin TACC|yerba
-Arroz yamaní,Integral,sí,2080,1kg,https://lh3.googleusercontent.com/d/1s_VLly9qnLgiotIlmbb336yrGD4P_ue_,no,cereales
+Arroz yamaní,Integral,sí,2080,| 1kg,https://lh3.googleusercontent.com/d/1s_VLly9qnLgiotIlmbb336yrGD4P_ue_,no,cereales
 Aceite de oliva 'Frutos del Norte',,sí,16770,| 1 unidad,https://lh3.googleusercontent.com/d/1z0ZKZt7viB6b86LtlYHipUD6DX2hXe07,no,sin TACC|aceite|orgánico
-Arroz integral,Largo fino,sí,1650,1kg,https://lh3.googleusercontent.com/d/1jgZbeZOEjr4-nozeXFehLw4i5hUWsTP_,no,cereales
-Avena instantánea,,no,2270,1kg,,no,cereales
+Arroz integral,Largo fino,sí,1650,| 1kg,https://lh3.googleusercontent.com/d/1jgZbeZOEjr4-nozeXFehLw4i5hUWsTP_,no,cereales
+Avena instantánea,,no,2270,| 1kg,,no,cereales
 Avena arrollada orgánica,También conocida como avena tradicional. Marca Campo Claro,no,2970,| 1 paquete de 500g,https://lh3.googleusercontent.com/d/1_iPH8FfrDD1trrtsckPOhkvud_1H19Vo,no,cereales|orgánico
 Avena Instantánea 'Cumaná',,no,2600,| 1 paquete de 500g,https://lh3.googleusercontent.com/d/1FK_z0nkdnca3NSgZQUbNp-V3j2pnAHKF,no,sin TACC|cereales
 Almendras Guara,,sí,1976,| 100g,https://lh3.googleusercontent.com/d/1klfFXvdF9LWqRsDMtbEwjfniAToZjGgY,no,frutos secos
@@ -32,7 +32,7 @@ Pasa de uva morocha,Variedad jumbo,sí,459,| 100g,https://lh3.googleusercontent.
 Pasa de uva rubia,Variedad sultaninas,sí,850,| 100g,https://lh3.googleusercontent.com/d/1IcB8n4hfvGUq4xcNjL4uhObmmN6a_lqk,no,frutos secos
 Peras deshidratadas,,sí,1288,| 100g,https://lh3.googleusercontent.com/d/1gFi_ZfbHVPIgV0CiHGaONPcPbS4UVa-p,no,frutos secos
 Higos blancos,,sí,1142,| 100g,https://lh3.googleusercontent.com/d/1Cs_gZLEGVZzqtPYYTpV802WYolwEXM9g,no,frutos secos
-Arvejas,Seca partida,sí,1110,1kg,https://lh3.googleusercontent.com/d/18QiuzBrNySCInzgICsngiaHvQextzTQN,no,legumbres
+Arvejas,Seca partida,sí,1110,| 1kg,https://lh3.googleusercontent.com/d/18QiuzBrNySCInzgICsngiaHvQextzTQN,no,legumbres
 Garbanzos,,sí,1410,- 1kg,https://lh3.googleusercontent.com/d/15txcISKuNBNWkOt7_WeDcrszMDP49OZr,no,legumbres
 Poroto Mung,,sí,1690,| 1kg,https://lh3.googleusercontent.com/d/13wHfyr1N0pc8KicCXulxOZk0DTnHzoG-,no,legumbres
 Poroto Negro,,sí,1970,| 1kg,https://lh3.googleusercontent.com/d/1yKcCii_kHVmo_DnJn5LFhba648-Nfb9A,no,legumbres
