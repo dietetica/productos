@@ -2,7 +2,7 @@ titulo,descripcion,hay_stock,precio,unidad,imagen,es_oferta,tags
 Almendras Non Pareil,,sí,2184,| 100g,https://lh3.googleusercontent.com/d/1PqpmLmc1-9GapFIeDuwn2MAR0PnZhRNz,no,frutos secos
 Yerba 'Las Tunas',Elaborada con palo. Estacionamiento natural,sí,4420,1 paquete de 1kg,https://lh3.googleusercontent.com/d/10x-dCT2tZFW791BJLyQzeHUQugL6peGD,no,sin TACC|yerba
 Arroz yamaní,Integral,sí,2080,1kg,https://lh3.googleusercontent.com/d/1s_VLly9qnLgiotIlmbb336yrGD4P_ue_,no,cereales
-Aceite de oliva 'Frutos del Norte',,sí,16770,1 unidad,https://lh3.googleusercontent.com/d/1z0ZKZt7viB6b86LtlYHipUD6DX2hXe07,no,aceite
+Aceite de oliva 'Frutos del Norte',,sí,16770,1 unidad,https://lh3.googleusercontent.com/d/1z0ZKZt7viB6b86LtlYHipUD6DX2hXe07,no,sin TACC|aceite
 Arroz integral,Largo fino,sí,1650,1kg,https://lh3.googleusercontent.com/d/1jgZbeZOEjr4-nozeXFehLw4i5hUWsTP_,no,cereales
 Avena instantánea,,no,2240,1kg,,no,cereales
 Avena arrollada orgánica,También conocida como avena tradicional. Marca Campo Claro,no,2960,1 paquete de 500g,https://lh3.googleusercontent.com/d/1_iPH8FfrDD1trrtsckPOhkvud_1H19Vo,no,cereales|orgánico
@@ -148,7 +148,7 @@ Leche de almendras protéica (sin azúcar),Marca 'Pampa Vida',sí,5000,1 envase 
 Leche de almendras (sin azúcar),Marca 'Tratenfu',sí,4150,1 envase de 1 litro,https://lh3.googleusercontent.com/d/1LhKHHLtcAuRdN3U9fG9tpTepMg0d8x1Z,no,#VALUE!
 Aceite de oliva 'La Riojana',,no,15070,1 unidad,https://lh3.googleusercontent.com/d/1QH8dHMTMg8hZ8qDexuoZV4-B69bPz9ul,no,aceite
 Aceite de oliva 'Terranova',,no,14030,1 unidad,https://lh3.googleusercontent.com/d/1EQP6gciiR46cyJOyp-rzZl-DYDAQ76Cb,no,aceite
-Aceite de coco neutro,Marca 'Entre Nuts',sí,5740,| Frasco 360cc,,no,aceite
+Aceite de coco neutro,Marca 'Entre Nuts',sí,5740,| Frasco 360cc,,no,sin TACC|aceite
 Aceite de coco neutro,Marca 'Entre Nuts',sí,7480,| Frasco 500cc,https://lh3.googleusercontent.com/d/1F2KL7G-iFEbiBwVJ-dz7Kt4wKTbl07td,no,sin TACC|aceite
 Aceite de coco neutro,Marca 'Entre Nuts',no,14130,| Frasco 1000cc,,no,sin TACC|aceite
 Aceite de coco virgen,Marca 'Entre Nuts',sí,11700,| Frasco 360cc,https://lh3.googleusercontent.com/d/1rYYHm35sdlu30Jb359PbLN7Pgo8g_XG1,no,aceite
