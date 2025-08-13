@@ -51,7 +51,7 @@ Harina de lino,¡Artesanal; recien hecha!,no,183,| 100g,https://lh3.googleuserco
 Harina de arroz,,no,147,| 100g,https://lh3.googleusercontent.com/d/12WAazYQakgk5y-7YYc29aX0cbXP7NkN7,no,cereales|harina
 Harina de arroz,,sí,3050,1 paquete de 1kg,https://lh3.googleusercontent.com/d/1Vf--3A7sAF7agGJldZpqLRHZm1fhOoLn,no,sin TACC|cereales|harina
 Harina de algarroba,,no,0,,,no,harina
-Harina de coco,¡Artesanal; recien hecha!,sí,,,,no,
+Harina de coco,¡Artesanal; recien hecha!,sí,,,,no,harina
 Fécula de maíz,Maicena,no,2020,1kg,https://lh3.googleusercontent.com/d/1F-cVPoYF-n_vDLcW6cw-hTnmhcC4UaZx,no,harina
 Fécula de mandioca,Marca FEMAG. Sin TACC,sí,1910,1kg,https://lh3.googleusercontent.com/d/1t6j_PCiYYvWEEebauj-LBDJhHPsKJprX,no,sin TACC|harina
 Sal rosa del himalaya,,sí,3170,1kg,https://lh3.googleusercontent.com/d/124_zlUV41p800Necgau9-3cCy16XZXru,no,especias
@@ -106,7 +106,7 @@ Lavanda,,sí,3130,| 100g,https://lh3.googleusercontent.com/d/117upZ-1IjFJI9Cr4S8
 Anis estrellado,Partido,sí,4430,| 100g,https://lh3.googleusercontent.com/d/1PIs6qXunMu9w08fZK8CCYixST_-15qjb,no,yuyitos|especias|tecitos
 Café de algarroba,Marca 'Dicomere',sí,4390,1 paquete de 200g,https://lh3.googleusercontent.com/d/1bMbmXczsOnqUaHzHAj0kmnGlPeDHE-ca,no,sin TACC|tecitos
 Stevia,En hojas,no,0,| 100g,https://lh3.googleusercontent.com/d/195gkhdpmzr8s91Vkd4eD4w1AjXaB5u4A,no,yuyitos|tecitos
-Mermelada de frutos rojos c/miel,,sí,4940,1 frasco de 500g,https://lh3.googleusercontent.com/d/1UvDzfTJi0iBGcYQ6I7PsuNr8GdrOHCEk,no,sin TACC
+Mermelada de frutos rojos c/miel,,sí,4940,1 frasco de 500g,https://lh3.googleusercontent.com/d/1UvDzfTJi0iBGcYQ6I7PsuNr8GdrOHCEk,no,sin TACC|mermeladas/dulces
 Miel líquida 'De Los Arroyos',1kg,sí,5720,1 frasco de 1kg,https://lh3.googleusercontent.com/d/1cf68l4VZNEiIcdSnHpMGVmoIB4_1Ufhs,no,sin TACC|miel
 Miel líquida 'De Los Arroyos',1/2kg,sí,3510,1 frasco de 500g,,no,sin TACC|miel
 Miel cremosa 'La Colmena de Cristal',900g,no,5460,1 frasco de 1kg,https://lh3.googleusercontent.com/d/1GCKcHDgQ_ZenKjUe86b3HRA6N2NjQBeS,no,miel
@@ -115,10 +115,10 @@ Miel con menta 240g,Marca 'Apidelta',sí,3250,1 frasco de 240g,,no,miel
 Miel fraccionada,,no,0,,,no,miel
 Pasta de maní,Marca 'Entre Nuts',sí,2430,1 frasco de 370g,https://lh3.googleusercontent.com/d/1OD-baPXu_L_ySSrV5DVOUjcJD3UWka-I,no,sin TACC|frutos secos
 Pasta de maní con cacao,Marca 'Entre Nuts',sí,2670,1 frasco de 370g,https://lh3.googleusercontent.com/d/1aFqrXeWRubozNkJuA_lABYmldZ8GoNTJ,no,sin TACC|frutos secos
-Pasta de maní con coco,Marca 'Entre Nuts',sí,,,,no,
-Pasta de maní con stevia,Marca 'Entre Nuts',sí,,,,no,
-Tahini | Pasta de sésamo,Marca 'Zenny',sí,,,,no,
-Pasta de maní ahumado,Marca 'Entre Nuts',sí,,,,no,
+Pasta de maní con coco,Marca 'Entre Nuts',sí,,,,no,frutos secos
+Pasta de maní con stevia,Marca 'Entre Nuts',sí,,,,no,frutos secos
+Tahini | Pasta de sésamo,Marca 'Zenny',sí,,,,no,frutos secos
+Pasta de maní ahumado,Marca 'Entre Nuts',sí,,,,no,frutos secos
 Azúcar mascabo,,sí,2690,,https://lh3.googleusercontent.com/d/12GKQ2_pFGEkxdtW95xXXvOHP5Hdhc39U,no,
 Cacao amargo,,sí,1175,| 100g,https://lh3.googleusercontent.com/d/1niypWZgmvv5WM8xAzu8432qgIxll7FEq,no,
 Cacao amargo 'Colonial',,no,2834,| 100g,,no,
@@ -127,7 +127,7 @@ Huevos,De libre pastoreo ☀️,no,11900,1 unidad,https://lh3.googleusercontent.
 Huevos,De libre pastoreo ☀️,sí,,,,no,
 Coco rallado,,sí,864,| 100g,https://lh3.googleusercontent.com/d/16Q_vgZmN_w1N0cIfY2eWEPoIyQeWbvOJ,no,
 Soja texturizada orgánica,,no,0,,https://lh3.googleusercontent.com/d/1nKx4nOOM0ELZbWUEYXtH1dqOnPx9w1nk,no,legumbres
-Soja texturizada,,sí,,,,no,
+Soja texturizada,,sí,,,,no,legumbres
 Chocolate Colonial Orgánico 60%,,no,4790,1 unidad de | 100g,https://lh3.googleusercontent.com/d/1N1m5sx9poeNYW5MFwDzKXtAZGSOey8EY,no,sin TACC|chocolate|orgánico
 Chocolate Colonial Orgánico 70%,,no,5200,1 unidad de | 100g,https://lh3.googleusercontent.com/d/1XZaG27h7e1mOX2CU9ZFWqCuPX5C7dO1G,no,sin TACC|chocolate|orgánico
 Chocolate Colonial Orgánico 80%,,no,5600,1 unidad de | 100g,https://lh3.googleusercontent.com/d/1Cy3Pl8kuJ7griG8-5mdp324nKJN2LkZs,no,sin TACC|chocolate|orgánico
@@ -175,8 +175,8 @@ Shiitake,Marca 'FungaGen',no,26000,1 unidad,https://lh3.googleusercontent.com/d/
 Cola de pavo,Marca 'FungaGen',no,26000,1 unidad,https://lh3.googleusercontent.com/d/1J0pCbPuEer2RUoSR9zXOD9MmCHfT8gG7,no,suplementos|hongos
 ÍNTEGRA - Barrita de cereal protéica - Maní + Chocolate,15g de proteína ,sí,1770,1 unidad,https://lh3.googleusercontent.com/d/1lQiHCaqeAHqBJeHS933ipdODZCCXBZlJ,no,suplementos|snacks|chocolate
 ÍNTEGRA - Barrita de cereal protéica - Arándanos,15g de proteína ,sí,1770,1 unidad,https://lh3.googleusercontent.com/d/1Ar2KTcBH26eX-A-dyx_1t1SAChaXNkh6,no,suplementos|snacks
-ÍNTEGRA - Barrita de cereal - Puro cacao,Barra de avena; cacao y chips de chocolate,sí,,,,no,
-ÍNTEGRA - Barrita de cereal - Banana y Nuéz,Barra de avena; banana deshidratada y nuéz,sí,,,,no,
+ÍNTEGRA - Barrita de cereal - Puro cacao,Barra de avena; cacao y chips de chocolate,sí,,,,no,snacks|chocolate
+ÍNTEGRA - Barrita de cereal - Banana y Nuéz,Barra de avena; banana deshidratada y nuéz,sí,,,,no,snacks
 MUECAS - Barrita de cereal - Cacao y avellanas,Barra de cereales; avellana; coco y cacao,sí,1200,1 unidad,https://lh3.googleusercontent.com/d/1JA2h25SSXC3FHaiFWIMPkNTF6W2l9Mmu,no,snacks|chocolate
 CANVAS - Chía; girasol y lino,,sí,1750,1 unidad,https://lh3.googleusercontent.com/d/1L8j4Jizlg6lk6QffAeU7nWxwFWt9Y0DO,no,snacks
 CANVAS - Oliva; chia & lino,,sí,1750,1 unidad,https://lh3.googleusercontent.com/d/1wHw-lQgJl_PeUn4b7gkvnX2Pot5woTOF,no,snacks
