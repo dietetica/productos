@@ -1,6 +1,6 @@
 titulo,descripcion,hay_stock,precio,unidad,imagen,es_oferta,tags
 Almendras Non Pareil,,sí,2184,| 100g,https://lh3.googleusercontent.com/d/1PqpmLmc1-9GapFIeDuwn2MAR0PnZhRNz,no,frutos secos
-Yerba 'Las Tunas',Elaborada con palo. Estacionamiento natural,sí,4420,1 paquete de 1kg,https://lh3.googleusercontent.com/d/10x-dCT2tZFW791BJLyQzeHUQugL6peGD,no,sin TACC|yerba
+Yerba 'Las Tunas',Elaborada con palo. Estacionamiento natural,sí,4420,| 1 paquete de 1kg,https://lh3.googleusercontent.com/d/10x-dCT2tZFW791BJLyQzeHUQugL6peGD,no,sin TACC|yerba
 Arroz yamaní,Integral,sí,2080,1kg,https://lh3.googleusercontent.com/d/1s_VLly9qnLgiotIlmbb336yrGD4P_ue_,no,cereales
 Aceite de oliva 'Frutos del Norte',,sí,16770,| 1 unidad,https://lh3.googleusercontent.com/d/1z0ZKZt7viB6b86LtlYHipUD6DX2hXe07,no,sin TACC|aceite|orgánico
 Arroz integral,Largo fino,sí,1650,1kg,https://lh3.googleusercontent.com/d/1jgZbeZOEjr4-nozeXFehLw4i5hUWsTP_,no,cereales
@@ -40,8 +40,8 @@ Poroto Alubia,,sí,2520,1kg,https://lh3.googleusercontent.com/d/1kRkSoGJgL-b_wBP
 Maíz piscingallo,🍿,sí,117,| 100g,https://lh3.googleusercontent.com/d/1rvawrlfB2p8NCVedYn-aSKwFpLYu-Nx7,no,cereales
 Lentejas,,sí,2680,1kg,https://lh3.googleusercontent.com/d/1DtPGuXXxOQLoxDhhJVBSiWNFL9nAJJ02,no,legumbres
 Harina integral,,no,2260,1kg,https://lh3.googleusercontent.com/d/1iKJaBpkJPeW4tFKPXj3YUI2ehHHSvajW,no,cereales|harina
-Harina integral orgánica,Marca Campo Claro,no,3150,1 paquete de 1kg,https://lh3.googleusercontent.com/d/1XGnLa5EkUKqXKQ20r7CPVXQcvYT8w8xE,no,cereales|harina|orgánico
-Harina de centeno orgánica,Marca Campo Claro,no,3780,1 paquete de 1kg,https://lh3.googleusercontent.com/d/1cjd5s_LMknnuu9-Q0d3gbW2nB8UinMf-,no,cereales|harina|orgánico
+Harina integral orgánica,Marca Campo Claro,no,3150,| 1 paquete de 1kg,https://lh3.googleusercontent.com/d/1XGnLa5EkUKqXKQ20r7CPVXQcvYT8w8xE,no,cereales|harina|orgánico
+Harina de centeno orgánica,Marca Campo Claro,no,3780,| 1 paquete de 1kg,https://lh3.googleusercontent.com/d/1cjd5s_LMknnuu9-Q0d3gbW2nB8UinMf-,no,cereales|harina|orgánico
 Harina de garbanzo,,sí,640,1kg,https://lh3.googleusercontent.com/d/1D2XhiF0pCyFP94TDRA7NIrUiEmOPu76R,no,legumbres|harina
 Harina de garbanzo orgánica,,sí,1900,1 paquete de 450g,https://lh3.googleusercontent.com/d/1M7BqEYQMT5_aIe5WK95u-kBbAZCHghx5,no,sin TACC|legumbres|harina|orgánico
 Morixe - Harina para arepas,Harina de maíz blanco precocido,sí,2700,1kg,https://lh3.googleusercontent.com/d/1PxibZuqAFepFWslLE68WlcNkU__QA0A3,no,cereales|harina
@@ -49,7 +49,7 @@ Harina de almendras,¡Artesanal; recien hecha!,no,2736,| 100g,https://lh3.google
 Harina de chía,¡Artesanal; recien hecha!,no,731,| 100g,https://lh3.googleusercontent.com/d/12if8dlRxhyJ1c1ETyH9mpykkGDXrwbTc,no,harina
 Harina de lino,¡Artesanal; recien hecha!,no,311,| 100g,https://lh3.googleusercontent.com/d/19Aju5rvl9g4p6Atvg6I_U3lTrSt0KXi9,no,harina
 Harina de arroz,,no,147,| 100g,https://lh3.googleusercontent.com/d/12WAazYQakgk5y-7YYc29aX0cbXP7NkN7,no,cereales|harina
-Harina de arroz,,sí,3050,1 paquete de 1kg,https://lh3.googleusercontent.com/d/1Vf--3A7sAF7agGJldZpqLRHZm1fhOoLn,no,sin TACC|cereales|harina
+Harina de arroz,,sí,3050,| 1 paquete de 1kg,https://lh3.googleusercontent.com/d/1Vf--3A7sAF7agGJldZpqLRHZm1fhOoLn,no,sin TACC|cereales|harina
 Harina de algarroba,,no,0,,,no,harina
 Harina de coco,¡Artesanal; recien hecha!,sí,1248,| 100g,,no,harina
 Harina integral,De trigo,sí,,,,,
@@ -82,10 +82,10 @@ Laurel en hoja,,sí,2649,| 100g,https://lh3.googleusercontent.com/d/15YLOsAPJXGj
 Jengibre en polvo,,sí,3080,| 100g,https://lh3.googleusercontent.com/d/1Vmb65qj2a-0GXNWjKrwg2jCEXp2-LRqo,no,especias|tecitos
 Yerba 'Maravilla' 1/2kg,Barbacuá intenso - agroecológica,sí,3060,1 paquete de 500g,https://lh3.googleusercontent.com/d/13ND0rCuFqj3MbCrA-pelWp9NalQ80GFw,no,sin TACC|yerba|agroecológico
 Yerba 'Picada Vieja' 1/2kg,Barbacuá suave,sí,3610,1 paquete de 500g,https://lh3.googleusercontent.com/d/1Ia4ZaVLbqU5qFpV2Og9cC0e1p5kYyjTw,no,yerba
-Yerba 'Roapipó' 1kg,Orgánica,sí,7320,1 paquete de 1kg,https://lh3.googleusercontent.com/d/1qOMgwGTPHiAjklhLHO5RwIhcBOLSAPid,no,yerba|orgánico
+Yerba 'Roapipó' 1kg,Orgánica,sí,7320,| 1 paquete de 1kg,https://lh3.googleusercontent.com/d/1qOMgwGTPHiAjklhLHO5RwIhcBOLSAPid,no,yerba|orgánico
 Yerba 'Familia Zaragoza' 1/2kg,Barbacuá intenso,no,5920,1 paquete de 500g,https://lh3.googleusercontent.com/d/1T408jKOfKHzRXpBmdZwKldQ7WGppuVmu,no,yerba
 Yerba 'Aguantadora' 1/2kg,,sí,2340,1 paquete de 500g,https://lh3.googleusercontent.com/d/1BQPTVSG1eZtnq0dAcQlEGRaPkZKeR6g-,no,sin TACC|yerba
-Yerba 'Aguantadora' 1kg,,sí,4420,1 paquete de 1kg,https://lh3.googleusercontent.com/d/1BQPTVSG1eZtnq0dAcQlEGRaPkZKeR6g-,no,sin TACC|yerba
+Yerba 'Aguantadora' 1kg,,sí,4420,| 1 paquete de 1kg,https://lh3.googleusercontent.com/d/1BQPTVSG1eZtnq0dAcQlEGRaPkZKeR6g-,no,sin TACC|yerba
 Manzanilla,¡Flor de manzanilla!,sí,3618,| 100g,https://lh3.googleusercontent.com/d/1GAMh5vTEP6wdvIZEUYbfO4Czlo1gZXCJ,no,yuyitos|tecitos
 Burrito,,sí,1888,| 100g,https://lh3.googleusercontent.com/d/1ouENIwgBVz9sZm2PVLawraciVAbtrhUV,no,yuyitos|tecitos
 Cedrón,,sí,1872,| 100g,https://lh3.googleusercontent.com/d/1KKv7MYGCHFrfMqGqOpWiQQhMnIGD4apO,no,yuyitos|tecitos
@@ -138,7 +138,7 @@ Chocolate Colonial 70% sin azúcar,Con stevia,no,0,| 1 unidad de | 100g,https://
 Maní con chocolate,,no,0,| 100g,,no,frutos secos|snacks|chocolate
 Pasa de uva con chocolate ,,no,0,| 100g,,no,frutos secos|snacks|chocolate
 Avellana con chocolate,,no,0,| 100g,,no,frutos secos|snacks|chocolate
-Tomates secos,,sí,1447,| | 100g,https://lh3.googleusercontent.com/d/1pHsYLESdtQDecvZ1Fnq1KML5O4sk3czs,no,
+Tomates secos,,sí,1447,| 100g,https://lh3.googleusercontent.com/d/1pHsYLESdtQDecvZ1Fnq1KML5O4sk3czs,no,
 Polvo de hornear,,sí,446,| 100g,https://lh3.googleusercontent.com/d/1f21bTGf8cptHNrHCbovt0Y1lnsHFUg-K,no,especias
 Bicarbonato de sodio,,no,212,| 100g,https://lh3.googleusercontent.com/d/1ICXjp9aWY5hohodMS_vlEcTXzPdokHsu,no,
 Extracto natural de vainilla,Marca 'El Castillo',sí,0,,,no,especias
