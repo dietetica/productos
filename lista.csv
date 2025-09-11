@@ -201,10 +201,10 @@ CHOC_08,Chocolate p/taza Águila,Semiamargo,sí,4935.150000000001,la tableta (16
 CIRU_00,Ciruelas sin carozo bombon,,sí,2437.5,los 500g,https://lh3.googleusercontent.com/d/1GSfZXo0ml2ZtuXZ36M-0PAW90E_zduVM,no,novedades|frutos secos
 CURR_02,,,sí,1330,los 100g,,,
 GATO_00,,,sí,3400,los 100g,,,
-MIEL_06,,,no,3290,el frasco de 450g,,,
-MIEL_07,,,no,3900,el frasco de 450g,,,
-MIEL_08,,,no,6000,el frasco de 900gr,,,
-MIEL_09,,,no,6700,el frasco de 900gr,,,
+MIEL_06,,,no,3290,el frasco de 450g,,,miel
+MIEL_07,,,no,3900,el frasco de 450g,,,miel
+MIEL_08,,,no,6000,el frasco de 900gr,,,miel
+MIEL_09,,,no,6700,el frasco de 900gr,,,miel
 MIEL_10,,,no,2900,el frasco de 300gr,,,
 MIEL_11,,,no,2900,el frasco de 300gr,,,
 MOST_00,,,no,2400,el frasco de 220gr,,,
