@@ -201,14 +201,14 @@ CHOC_08,Chocolate p/taza Águila,Semiamargo,sí,4935.150000000001,la tableta (16
 CIRU_00,Ciruelas sin carozo bombon,,sí,2437.5,los 500g,https://lh3.googleusercontent.com/d/1GSfZXo0ml2ZtuXZ36M-0PAW90E_zduVM,no,novedades|frutos secos
 CURR_02,Curry picante,,sí,1330,los 100g,https://lh3.googleusercontent.com/d/1SvA6qU5EZb11q41ETwJNr2ZTnClAS17N,,especias
 GATO_00,Uña de gato,,sí,3400,los 100g,https://lh3.googleusercontent.com/d/1rb0nun4jHnOHQbS8BtG80bdVsmYzRtOC,,yuyitos|tecitos
-MIEL_06,Miel líquida,Marca Bioway,no,3290,el frasco de 450g,https://lh3.googleusercontent.com/d/1nRx62yK-ij2ltc9e2YGC4tRsizOyufjD,,miel
-MIEL_07,Miel sólida,Marca Bioway,no,3900,el frasco de 450g,https://lh3.googleusercontent.com/d/1NV7f_KbaSffLgvUrmLsYbLmvxMBOm55V,,miel
-MIEL_08,Miel líquida,Marca Bioway,no,6000,el frasco de 900gr,https://lh3.googleusercontent.com/d/1nRx62yK-ij2ltc9e2YGC4tRsizOyufjD,,miel
-MIEL_09,Miel sólida,Marca Bioway,no,6700,el frasco de 900gr,https://lh3.googleusercontent.com/d/1NV7f_KbaSffLgvUrmLsYbLmvxMBOm55V,,miel
-MIEL_10,Miel de eucalipto,Marca Bioway,no,2900,el frasco de 300gr,https://lh3.googleusercontent.com/d/1cTVLbADRHhXpJkxfpS7jnCkVqgfGV16z,,miel
-MIEL_11,Miel de algarrobo,Marca Bioway,no,2900,el frasco de 300gr,https://lh3.googleusercontent.com/d/1srQL2iu3sDUoPb22fAweykP6WRjgjzKL,,miel
-MOST_00,Mostaza con miel,Marca Bioway,no,2400,el frasco de 220gr,https://lh3.googleusercontent.com/d/1u0JNDkwTGDK7TnAY79UFNbjZSjMn723_,,miel|especias
-MERM_01,Mermelada de arándanos con miel,Marca Bioway,no,2900,el frasco de 430gr,https://lh3.googleusercontent.com/d/1uUlmXg3u997phw3lLXaa-Rum_wIHxFvw,,miel|mermeladas/dulces
-MERM_02,Mermelada de frambuesas con miel,Marca Bioway,no,3600,el frasco de 430gr,https://lh3.googleusercontent.com/d/1fWWzJ-rqQyjAtu6uGCEym9pQ69RA5ckr,,miel|mermeladas/dulces
-MERM_03,Mermelada de frutos rojos con miel,Marca Bioway,no,2900,el frasco de 430gr,https://lh3.googleusercontent.com/d/1yFTaKVlrDmESjfosx6URk_SQIyTeUBnM,,miel|mermeladas/dulces
-MERM_04,Mermelada de moras con miel,Marca Bioway,no,2900,el frasco de 430gr,https://lh3.googleusercontent.com/d/1XB_iKspez7Q4N9ZWcBI5_4k7FOaOIWxb,,miel|mermeladas/dulces
+MIEL_06,Miel líquida,Marca Bioway,sí,3290,el frasco de 450g,https://lh3.googleusercontent.com/d/1nRx62yK-ij2ltc9e2YGC4tRsizOyufjD,,miel
+MIEL_07,Miel sólida,Marca Bioway,sí,3900,el frasco de 450g,https://lh3.googleusercontent.com/d/1NV7f_KbaSffLgvUrmLsYbLmvxMBOm55V,,miel
+MIEL_08,Miel líquida,Marca Bioway,sí,6000,el frasco de 900gr,https://lh3.googleusercontent.com/d/1nRx62yK-ij2ltc9e2YGC4tRsizOyufjD,,miel
+MIEL_09,Miel sólida,Marca Bioway,sí,6700,el frasco de 900gr,https://lh3.googleusercontent.com/d/1NV7f_KbaSffLgvUrmLsYbLmvxMBOm55V,,miel
+MIEL_10,Miel de eucalipto,Marca Bioway,sí,2900,el frasco de 300gr,https://lh3.googleusercontent.com/d/1cTVLbADRHhXpJkxfpS7jnCkVqgfGV16z,,miel
+MIEL_11,Miel de algarrobo,Marca Bioway,sí,2900,el frasco de 300gr,https://lh3.googleusercontent.com/d/1srQL2iu3sDUoPb22fAweykP6WRjgjzKL,,miel
+MOST_00,Mostaza con miel,Marca Bioway,sí,2400,el frasco de 220gr,https://lh3.googleusercontent.com/d/1u0JNDkwTGDK7TnAY79UFNbjZSjMn723_,,miel|especias
+MERM_01,Mermelada de arándanos con miel,Marca Bioway,sí,2900,el frasco de 430gr,https://lh3.googleusercontent.com/d/1uUlmXg3u997phw3lLXaa-Rum_wIHxFvw,,miel|mermeladas/dulces
+MERM_02,Mermelada de frambuesas con miel,Marca Bioway,sí,3600,el frasco de 430gr,https://lh3.googleusercontent.com/d/1fWWzJ-rqQyjAtu6uGCEym9pQ69RA5ckr,,miel|mermeladas/dulces
+MERM_03,Mermelada de frutos rojos con miel,Marca Bioway,sí,2900,el frasco de 430gr,https://lh3.googleusercontent.com/d/1yFTaKVlrDmESjfosx6URk_SQIyTeUBnM,,miel|mermeladas/dulces
+MERM_04,Mermelada de moras con miel,Marca Bioway,sí,2900,el frasco de 430gr,https://lh3.googleusercontent.com/d/1XB_iKspez7Q4N9ZWcBI5_4k7FOaOIWxb,,miel|mermeladas/dulces
